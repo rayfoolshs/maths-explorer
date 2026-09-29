@@ -260,12 +260,248 @@
         "</div>" +
         '<p class="viz-caption">Most popular: 🍎 (5)</p>' +
         "</div>";
+    },
+
+    /* ============================ Year 2 ============================ */
+    "2:numbers-to-1000": function () {
+      var cells = "";
+      for (var n = 96; n <= 105; n++) {
+        cells += '<span class="h-cell' + (n === 100 ? " h-on" : "") + '">' + n + "</span>";
+      }
+      return '<div role="img" aria-label="A number chart from 96 to 105. After 99 comes 100, and the zeros hold the tens and ones places.">' +
+        '<p class="viz-caption">After 99 comes 100</p>' +
+        '<div class="hundreds">' + cells + "</div>" +
+        '<p class="viz-caption">In 100, the zeros show there are no tens and no ones.</p>' +
+        "</div>";
+    },
+
+    "2:skip-counting": function () {
+      var seq = [9, 12, 15, 18, 21];
+      var parts = [];
+      seq.forEach(function (n, i) {
+        parts.push('<span class="viz-chip viz-chip--sm">' + n + "</span>");
+        if (i < seq.length - 1) parts.push('<span class="viz-jump">+3\u2192</span>');
+      });
+      return '<div role="img" aria-label="Skip counting by threes: 9, 12, 15, 18, 21">' +
+        '<p class="viz-caption">Skip count by 3s</p>' +
+        '<div class="viz-row">' + parts.join("") + "</div></div>";
+    },
+
+    "2:place-value": function () {
+      function blocks(cls, count) {
+        var s = "";
+        for (var i = 0; i < count; i++) s += '<span class="' + cls + '"></span>';
+        return s;
+      }
+      return '<div role="img" aria-label="The number 234 shown with base ten blocks: two hundreds, three tens and four ones">' +
+        '<p class="viz-caption">234 = 200 + 30 + 4</p>' +
+        '<div class="bt-row">' +
+        '<div class="bt-col"><div class="bt-group">' + blocks("bt-100", 2) + '</div><span class="bt-caption">2 hundreds = 200</span></div>' +
+        '<div class="bt-col"><div class="bt-group">' + blocks("bt-10", 3) + '</div><span class="bt-caption">3 tens = 30</span></div>' +
+        '<div class="bt-col"><div class="bt-group">' + blocks("bt-1", 4) + '</div><span class="bt-caption">4 ones = 4</span></div>' +
+        "</div></div>";
+    },
+
+    "2:number-facts-10": function () {
+      return '<div role="img" aria-label="Working out 13 minus 5 by making ten: 13 minus 3 is 10, then 10 minus 2 is 8">' +
+        '<p class="viz-caption">13 \u2212 5: make 10 first</p>' +
+        '<div class="viz-row">' +
+        '<span class="viz-chip">13</span><span class="viz-jump">\u22123\u2192</span>' +
+        '<span class="viz-chip">10</span><span class="viz-jump">\u22122\u2192</span>' +
+        '<span class="viz-answer">8</span>' +
+        "</div>" +
+        '<p class="viz-caption">5 is 3 + 2, so we take away 3, then 2.</p>' +
+        "</div>";
+    },
+
+    "2:add-subtract": function () {
+      return '<div role="img" aria-label="Working out 34 plus 25 by jumping: 34 plus 20 is 54, then plus 5 is 59">' +
+        '<p class="viz-caption">34 + 25: add tens, then ones</p>' +
+        '<div class="viz-row">' +
+        '<span class="viz-chip">34</span><span class="viz-jump">+20\u2192</span>' +
+        '<span class="viz-chip">54</span><span class="viz-jump">+5\u2192</span>' +
+        '<span class="viz-answer">59</span>' +
+        "</div></div>";
+    },
+
+    "2:arrays": function () {
+      var d = "";
+      for (var i = 0; i < 12; i++) d += '<span class="dot" style="background:#3B82F6"></span>';
+      return '<div role="img" aria-label="An array with 3 rows and 4 columns of blue dots, 12 dots altogether">' +
+        '<p class="viz-caption">3 rows of 4 = 12</p>' +
+        '<div class="viz-row">' +
+        '<div class="viz-array" style="grid-template-columns:repeat(4, 24px)">' + d + "</div>" +
+        '<div class="viz-col-stack">' +
+        '<span class="viz-chip viz-chip--sm">3 \u00d7 4 = 12</span>' +
+        '<span class="viz-chip viz-chip--sm">12 \u00f7 3 = 4</span>' +
+        "</div>" +
+        "</div></div>";
+    },
+
+    "2:fractions": function () {
+      function bar(parts, shaded, label) {
+        var cells = "";
+        for (var i = 0; i < parts; i++) cells += '<span class="frac-part' + (i < shaded ? " f-on" : "") + '"></span>';
+        return '<div class="frac-strip"><div class="frac-label">' + label + '</div><div class="frac-bar">' + cells + "</div></div>";
+      }
+      return '<div role="img" aria-label="Fraction bars showing that one half equals two quarters equals four eighths">' +
+        bar(2, 1, "1/2") + bar(4, 2, "2/4") + bar(8, 4, "4/8") +
+        '<p class="viz-caption">All three shaded parts are the same amount.</p>' +
+        "</div>";
+    },
+
+    "2:compare-numbers": function () {
+      return '<div role="img" aria-label="45 is greater than 23. The greater than sign opens towards the bigger number.">' +
+        '<p class="viz-caption">The wide end faces the bigger number</p>' +
+        '<div class="viz-row viz-order">' +
+        '<span class="viz-chip">45</span>' +
+        '<span class="viz-op" aria-hidden="true">\u003e</span>' +
+        '<span class="viz-chip">23</span>' +
+        '<span class="viz-croc" aria-hidden="true">🐊</span>' +
+        "</div>" +
+        '<p class="viz-caption">45 is greater than 23, so 45 \u003e 23.</p>' +
+        "</div>";
+    },
+
+    "2:patterns": function () {
+      var seq = [5, 10, 15, "?", 20];
+      var parts = [];
+      seq.forEach(function (n, i) {
+        parts.push('<span class="viz-chip viz-chip--sm' + (n === "?" ? " viz-chip--missing" : "") + '">' + n + "</span>");
+        if (i < seq.length - 1) parts.push('<span class="viz-jump">+5\u2192</span>');
+      });
+      return '<div role="img" aria-label="A growing pattern: 5, 10, 15, question mark, 20. The rule is add five.">' +
+        '<p class="viz-caption">Growing by 5 each time</p>' +
+        '<div class="viz-row">' + parts.join("") + "</div>" +
+        '<p class="viz-caption">The missing number is 15.</p>' +
+        "</div>";
+    },
+
+    "2:money": function () {
+      return '<div role="img" aria-label="Coins adding to one dollar: fifty cents plus twenty cents plus twenty cents plus ten cents equals one dollar">' +
+        '<p class="viz-caption">50c + 20c + 20c + 10c = $1</p>' +
+        '<div class="viz-row viz-coins">' +
+        '<span class="viz-coin">50c</span><span class="viz-op">+</span>' +
+        '<span class="viz-coin">20c</span><span class="viz-op">+</span>' +
+        '<span class="viz-coin">20c</span><span class="viz-op">+</span>' +
+        '<span class="viz-coin">10c</span><span class="viz-op">=</span>' +
+        '<span class="viz-note">$1</span>' +
+        "</div></div>";
+    },
+
+    "2:shapes-2d": function () {
+      return '<div role="img" aria-label="A triangle, square, rectangle, pentagon, hexagon and circle">' +
+        '<div class="viz-row">' +
+        '<svg viewBox="0 0 100 100" class="viz-svg viz-svg--xs" aria-hidden="true"><polygon points="50,14 90,88 10,88" fill="#DBEAFE" stroke="#3B82F6" stroke-width="5" stroke-linejoin="round"/></svg>' +
+        '<svg viewBox="0 0 100 100" class="viz-svg viz-svg--xs" aria-hidden="true"><rect x="14" y="14" width="72" height="72" rx="6" fill="#DCFCE7" stroke="#22C55E" stroke-width="5"/></svg>' +
+        '<svg viewBox="0 0 100 100" class="viz-svg viz-svg--xs" aria-hidden="true"><rect x="8" y="26" width="84" height="48" rx="6" fill="#FEF3C7" stroke="#F59E0B" stroke-width="5"/></svg>' +
+        '<svg viewBox="0 0 100 100" class="viz-svg viz-svg--xs" aria-hidden="true"><polygon points="50,10 90,38 74,86 26,86 10,38" fill="#FCE7F3" stroke="#EC4899" stroke-width="5" stroke-linejoin="round"/></svg>' +
+        '<svg viewBox="0 0 100 100" class="viz-svg viz-svg--xs" aria-hidden="true"><polygon points="50,10 88,32 88,72 50,92 12,72 12,32" fill="#EDE9FE" stroke="#8B5CF6" stroke-width="5" stroke-linejoin="round"/></svg>' +
+        '<svg viewBox="0 0 100 100" class="viz-svg viz-svg--xs" aria-hidden="true"><circle cx="50" cy="50" r="40" fill="#E0F2FE" stroke="#0EA5E9" stroke-width="5"/></svg>' +
+        "</div>" +
+        '<div class="viz-row viz-shape-labels"><span>triangle<br>3 sides</span><span>square<br>4 sides</span><span>rectangle<br>4 sides</span><span>pentagon<br>5 sides</span><span>hexagon<br>6 sides</span><span>circle<br>0 corners</span></div>' +
+        "</div>";
+    },
+
+    "2:objects-3d": function () {
+      return '<div role="img" aria-label="A cube, a cylinder, a cone, a sphere and a rectangular prism">' +
+        labelledRow([
+          { art: "🧊", label: "cube" },
+          { art: "🥫", label: "cylinder" },
+          { art: "🍦", label: "cone" },
+          { art: "⚽", label: "sphere" },
+          { art: "📦", label: "rectangular prism" }
+        ]) + "</div>";
+    },
+
+    "2:length-area": function () {
+      function bar(units, colour, label) {
+        var s = "";
+        for (var i = 0; i < units; i++) s += '<span class="unit-cell" style="background:' + colour + '"></span>';
+        return '<div class="measure-row"><span class="measure-name">' + label + '</span><span class="measure-bar">' + s + '</span><span class="measure-count">' + units + "</span></div>";
+      }
+      function areaGrid(cols, rows, colour) {
+        var s = "";
+        for (var i = 0; i < cols * rows; i++) s += '<span class="unit-cell" style="background:' + colour + '"></span>';
+        return '<div class="measure-bar" style="display:grid;grid-template-columns:repeat(' + cols + ',28px);gap:3px">' + s + "</div>";
+      }
+      return '<div role="img" aria-label="A book is six cubes long and a pencil is four cubes long. A shape covered by nine squares has more area than one covered by six.">' +
+        '<p class="viz-caption">Length \u2014 measured in the same unit</p>' +
+        bar(6, "#22C55E", "book") + bar(4, "#F59E0B", "pencil") +
+        '<p class="viz-caption viz-caption--gap">Area \u2014 how many squares cover it?</p>' +
+        '<div class="viz-row">' + areaGrid(3, 3, "#3B82F6") + '<span class="viz-op">vs</span>' + areaGrid(3, 2, "#8B5CF6") + "</div>" +
+        "</div>";
+    },
+
+    "2:capacity-mass": function () {
+      return '<div role="img" aria-label="A bottle holds four cups and a jug holds seven cups, so the jug holds more. A rock is heavier than a feather.">' +
+        '<p class="viz-caption">Capacity \u2014 how many cups it holds</p>' +
+        '<div class="viz-row">' +
+        '<span class="viz-cont">🍼<small>bottle = 4 cups</small></span>' +
+        '<span class="viz-op" aria-hidden="true">\u003c</span>' +
+        '<span class="viz-cont viz-cont--lg">🫗<small>jug = 7 cups</small></span>' +
+        "</div>" +
+        '<p class="viz-caption viz-caption--gap">Mass \u2014 how heavy</p>' +
+        '<div class="viz-row viz-balance">' +
+        '<span class="viz-cont">🪨<small>rock</small></span><span class="viz-heavy">heavier</span>' +
+        '<span class="viz-cont">🪶<small>feather</small></span>' +
+        "</div></div>";
+    },
+
+    "2:time": function () {
+      var cal = '<span class="cal-cell cal-head">M</span><span class="cal-cell cal-head">T</span><span class="cal-cell cal-head">W</span><span class="cal-cell cal-head">T</span><span class="cal-cell cal-head">F</span><span class="cal-cell cal-head">S</span><span class="cal-cell cal-head">S</span>';
+      for (var i = 1; i <= 14; i++) cal += '<span class="cal-cell' + (i === 12 ? " cal-on" : "") + '">' + i + "</span>";
+      return '<div role="img" aria-label="A clock showing half past three, a digital clock showing quarter past six, and a calendar week">' +
+        '<div class="viz-row">' +
+        '<svg viewBox="0 0 120 120" class="viz-svg viz-svg--sm" aria-hidden="true">' +
+        '<circle cx="60" cy="60" r="54" fill="#fff" stroke="#3B82F6" stroke-width="5"/>' +
+        '<text x="60" y="30" text-anchor="middle" font-size="14" font-weight="700" fill="#1E3A8A">12</text>' +
+        '<text x="98" y="65" text-anchor="middle" font-size="14" font-weight="700" fill="#1E3A8A">3</text>' +
+        '<text x="60" y="104" text-anchor="middle" font-size="14" font-weight="700" fill="#1E3A8A">6</text>' +
+        '<text x="22" y="65" text-anchor="middle" font-size="14" font-weight="700" fill="#1E3A8A">9</text>' +
+        '<line x1="60" y1="60" x2="84" y2="74" stroke="#14213D" stroke-width="6" stroke-linecap="round"/>' +
+        '<line x1="60" y1="60" x2="60" y2="94" stroke="#EF4444" stroke-width="4" stroke-linecap="round"/>' +
+        '<circle cx="60" cy="60" r="5" fill="#14213D"/>' +
+        "</svg>" +
+        '<div class="viz-digital"><span class="viz-clock">6:15</span><small>quarter past 6</small></div>' +
+        "</div>" +
+        '<p class="viz-caption viz-caption--gap">A calendar shows the days of a month</p>' +
+        '<div class="viz-cal" aria-hidden="true">' + cal + "</div>" +
+        "</div>";
+    },
+
+    "2:maps": function () {
+      var cells = ["🏠", "➡️", "➡️", "⬜", "⬜", "⬇️", "⬜", "⬜", "🏫"];
+      return '<div role="img" aria-label="A simple map showing a path from home to school: right, right, down, down">' +
+        '<p class="viz-caption">A path from home to school</p>' +
+        '<div class="viz-pathgrid">' +
+        cells.map(function (c) { return '<span class="pg-cell">' + c + "</span>"; }).join("") +
+        "</div></div>";
+    },
+
+    "2:chance": function () {
+      return '<div role="img" aria-label="Events sorted into possible and impossible. Possible: rain tomorrow, rolling a four, picking a red apple. Impossible: a fish walking, rolling a seven on a one-to-six dice, the moon turning green.">' +
+        '<div class="viz-two-col">' +
+        '<div class="chance-col chance-col--possible"><h4>Possible ✅</h4><ul><li>🌧️ It rains tomorrow</li><li>🎲 Rolling a 4</li><li>🍎 Picking a red apple</li></ul></div>' +
+        '<div class="chance-col chance-col--impossible"><h4>Impossible ❌</h4><ul><li>🐟 A fish walks to school</li><li>🎲 Rolling a 7 on a 1\u20136 dice</li><li>🌙 The moon turns green</li></ul></div>' +
+        "</div></div>";
+    },
+
+    "2:data": function () {
+      function row(emoji, count, label) {
+        return '<div class="picto-row"><span class="picto-label">' + label + '</span><span class="picto-marks">' + emoji.repeat(count) + '</span><span class="picto-count">' + count + "</span></div>";
+      }
+      return '<div role="img" aria-label="A picture graph where one picture is one vote: apples five, bananas three, grapes two">' +
+        '<p class="viz-caption">One picture = one vote</p>' +
+        '<div class="picto">' + row("🍎", 5, "apple") + row("🍌", 3, "banana") + row("🍇", 2, "grapes") + "</div>" +
+        '<p class="viz-caption">Most: apples (5). Least: grapes (2).</p>' +
+        "</div>";
     }
   };
 
   window.Visuals = {
-    forTopic: function (topicId) {
-      var fn = VISUALS[topicId];
+    forTopic: function (year, topicId) {
+      var fn = VISUALS[year + ":" + topicId] || (String(year) === "1" ? VISUALS[topicId] : null);
       return fn ? fn() : null;
     }
   };

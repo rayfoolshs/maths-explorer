@@ -288,7 +288,7 @@
         h("h3", {}, ["\u{1F9E9} Example: " + topic.example.prompt])
       ]);
 
-      var viz = window.Visuals && window.Visuals.forTopic(topic.id);
+      var viz = window.Visuals && window.Visuals.forTopic(yearId, topic.id);
       if (viz) {
         var vizWrap = h("div", { class: "example-visual" });
         vizWrap.innerHTML = '<div class="example-visual__caption">\u{1F440} Look at this</div>' + viz;

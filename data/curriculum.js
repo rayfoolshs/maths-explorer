@@ -15,7 +15,7 @@ window.MATHS_CURRICULUM = {
   yearCards: [
     { year: "PP", label: "Pre-primary", icon: "🧸", colour: "#EC4899", available: false },
     { year: "1",  label: "Year 1",      icon: "🦕", colour: "#22C55E", available: true  },
-    { year: "2",  label: "Year 2",      icon: "🐳", colour: "#06B6D4", available: false },
+    { year: "2",  label: "Year 2",      icon: "🐳", colour: "#06B6D4", available: true  },
     { year: "3",  label: "Year 3",      icon: "🚀", colour: "#3B82F6", available: false },
     { year: "4",  label: "Year 4",      icon: "🦊", colour: "#8B5CF6", available: false },
     { year: "5",  label: "Year 5",      icon: "🌋", colour: "#F59E0B", available: false },
@@ -563,6 +563,571 @@ window.MATHS_CURRICULUM = {
             { q: "🐶🐶🐶🐱🐱  How many more dogs than cats?", options: ["1", "2", "3", "5"], answer: 0, explain: "3 dogs and 2 cats — 1 more dog." },
             { q: "A tally mark helps us…", options: ["count answers", "colour in", "tell the time", "measure length"], answer: 0, explain: "Tallies help us count how many." },
             { q: "🚗🚗🚗🚗  🚲🚲  Which is the least popular?", options: ["🚲", "🚗", "Same", "Neither"], answer: 0, explain: "Bikes have 2, cars have 4, so bikes are least." }
+          ]
+        }
+      ]
+    },
+
+    "2": {
+      year: "2",
+      label: "Year 2",
+      icon: "🐳",
+      colour: "#06B6D4",
+      tagline: "Bigger numbers, groups, fractions and measuring!",
+      kidIntro:
+        "Welcome to Year 2! This year you will work with numbers up to 1000. You will skip count, " +
+        "add and subtract bigger numbers, share into equal groups, explore halves, quarters and " +
+        "eighths, and learn about money, shapes, measuring, time and data. Let's dive in!",
+      canDo: [
+        "Read, write and order numbers to at least 1000.",
+        "Skip count by twos, threes, fives and tens from any starting point.",
+        "Break two- and three-digit numbers into hundreds, tens and ones.",
+        "Recall number facts to 10 and use them to add and subtract.",
+        "Add and subtract one- and two-digit numbers.",
+        "Show multiplication and division with equal groups and arrays.",
+        "Make halves, quarters and eighths.",
+        "Continue growing and shrinking patterns and find missing numbers.",
+        "Describe the relationship between dollars and cents.",
+        "Identify and draw 2D shapes.",
+        "Locate positions and pathways on simple maps.",
+        "Compare length, area, capacity and mass using informal units.",
+        "Tell time to the hour, half- and quarter-hour, and use a calendar.",
+        "Describe chance events as possible or impossible.",
+        "Collect and display data using tables and one-to-one graphs."
+      ],
+      achievementStandard:
+        "Children demonstrate the behaviours of the proficiencies of understanding, fluency, " +
+        "problem-solving and reasoning in conjunction with year level content in routine situations. " +
+        "They select from and engage with content when representing real-world situations in familiar contexts.\n\n" +
+        "Children read, write and order numbers to at least 1000 and skip count by twos, threes, fives and " +
+        "10s from any starting point. They partition two- and three-digit numbers in 10s and 100s, recall " +
+        "addition and subtraction facts to 10 and use these to add and subtract one- and two-digit numbers. " +
+        "Children represent situations involving multiplication and division. They continue increasing or " +
+        "decreasing additive patterns and identify missing elements. Children recognise and create halves, " +
+        "quarters and eighths, and describe the relationship between dollars and cents.\n\n" +
+        "Children identify and draw two-dimensional shapes. They locate positions and pathways on simple " +
+        "maps of familiar locations. Children compare objects based on length, capacity and mass using " +
+        "uniform informal units. They tell the time to the hour, half- and quarter-hour, on analog and " +
+        "digital clocks, and use a calendar to identify the date and determine the duration between two events.\n\n" +
+        "Children describe familiar chance events as possible or impossible. They collect and display " +
+        "categorical data to answer questions, using tables and one-to-one block and picture graphs.",
+      yearLevelDescription:
+        "In the early childhood phase of schooling, learning, development and wellbeing are connected " +
+        "and learning experiences are informed by the Principles and Practices of the Early Years " +
+        "Learning Framework. A holistic curriculum that integrates knowledge, understandings, skills, " +
+        "values and attitudes across learning areas connects learning to children's lives and their " +
+        "natural curiosity about their world.\n\n" +
+        "Mathematics provides opportunities for children to learn through a variety of means, including " +
+        "play and experimentation. Concrete materials are used to explore and visualise concepts, " +
+        "developing content knowledge and understanding of the symbolic representations associated with " +
+        "Mathematics.\n\n" +
+        "Children engage in a range of approaches to learning through the proficiencies of understanding, " +
+        "fluency, problem-solving and reasoning. These reinforce the significance of working " +
+        "mathematically with the content and describe how the content is explored or developed.\n\n" +
+        "In Year 2, children extend their knowledge of the number system beyond three digits. They " +
+        "connect place value and partitions to calculation strategies and apply these to model real-world " +
+        "situations that are relevant to them. Children broaden their awareness of how Mathematics occurs " +
+        "in the world around them as they explore the relationship between dollars and cents and their " +
+        "value, continue to develop an understanding of measurement attributes, including area, and tell " +
+        "time to the hour, half- and quarter-hour on analog and digital clocks. In familiar contexts, " +
+        "children build on their understanding of chance, comparing the likelihood of familiar chance " +
+        "events, and collect, compare and display data to answer a question of interest.",
+
+      topics: [
+        // ---------------------------- NUMBER AND ALGEBRA ----------------------------
+        {
+          id: "numbers-to-1000",
+          strand: "number-algebra",
+          name: "Numbers to 1000",
+          icon: "💯",
+          summary: "Read, write and order numbers to at least 1000, and know what zero does.",
+          learn: [
+            "You can read, write and order numbers up to 1000 and beyond: 98, 99, 100, 101 … 998, 999, 1000.",
+            "The digits 0–9 repeat in every group of ten. After 99 comes 100 — the zero shows the tens place is empty.",
+            "Zero keeps a place when a group is empty. In 305 there are no tens, so we write a 0."
+          ],
+          example: {
+            prompt: "Put these numbers in order: 342, 324, 432",
+            steps: [
+              "Compare the hundreds first: 3, 3 and 4. 432 has the most hundreds, so it is the biggest.",
+              "342 and 324 both have 3 hundreds. Compare the tens: 4 and 2.",
+              "324 has fewer tens, so it is smaller than 342.",
+              "Order: 324, 342, 432."
+            ]
+          },
+          quiz: [
+            { q: "Which number comes straight after 199?", options: ["198", "200", "190", "109"], answer: 1, explain: "After 199 comes 200." },
+            { q: "Which number has no tens?", options: ["305", "350", "530", "503"], answer: 0, explain: "305 has 0 tens." },
+            { q: "Which is the biggest number?", options: ["899", "989", "998", "898"], answer: 2, explain: "998 is the biggest." },
+            { q: "Which is the smallest number?", options: ["407", "74", "470", "740"], answer: 1, explain: "74 is the smallest." },
+            { q: "Which number is 100 more than 250?", options: ["150", "350", "260", "251"], answer: 1, explain: "250 + 100 = 350." }
+          ]
+        },
+        {
+          id: "skip-counting",
+          strand: "number-algebra",
+          name: "Skip counting",
+          icon: "🐸",
+          summary: "Skip count forwards and backwards by 2s, 3s, 5s and 10s.",
+          learn: [
+            "Skip counting means jumping in equal steps. Counting by 2s: 2, 4, 6, 8, 10.",
+            "You can start anywhere. Counting by 3s from 12: 12, 15, 18, 21, 24.",
+            "You can count backwards too. Counting back by 5s from 30: 30, 25, 20, 15."
+          ],
+          example: {
+            prompt: "Skip count by 3s starting at 12. What are the next three numbers?",
+            steps: [
+              "12 + 3 = 15.",
+              "15 + 3 = 18.",
+              "18 + 3 = 21.",
+              "The next three numbers are 15, 18, 21."
+            ]
+          },
+          quiz: [
+            { q: "Count by 2s: 6, 8, 10, __", options: ["11", "12", "14", "9"], answer: 1, explain: "Counting by 2s: 6, 8, 10, 12." },
+            { q: "Count by 5s: 15, 20, 25, __", options: ["26", "30", "35", "20"], answer: 1, explain: "Counting by 5s: 15, 20, 25, 30." },
+            { q: "Count by 10s from 40: 40, 50, __, 70", options: ["51", "60", "55", "80"], answer: 1, explain: "40, 50, 60, 70." },
+            { q: "Count backwards by 2s from 10: 10, 8, __", options: ["6", "7", "9", "4"], answer: 0, explain: "10, 8, 6." },
+            { q: "Count by 3s from 9: 9, 12, __, 18", options: ["13", "15", "14", "16"], answer: 1, explain: "9, 12, 15, 18." }
+          ]
+        },
+        {
+          id: "place-value",
+          strand: "number-algebra",
+          name: "Hundreds, tens and ones",
+          icon: "🧱",
+          summary: "Break two- and three-digit numbers into hundreds, tens and ones.",
+          learn: [
+            "Every number is built from hundreds, tens and ones.",
+            "In 234 there are 2 hundreds, 3 tens and 4 ones. We can write it as 200 + 30 + 4.",
+            "10 ones bundle into one ten. 10 tens bundle into one hundred."
+          ],
+          example: {
+            prompt: "Break 234 into hundreds, tens and ones.",
+            steps: [
+              "The 2 means 2 hundreds = 200.",
+              "The 3 means 3 tens = 30.",
+              "The 4 means 4 ones = 4.",
+              "So 234 = 200 + 30 + 4."
+            ]
+          },
+          quiz: [
+            { q: "How many tens are in 156?", options: ["1", "5", "6", "15"], answer: 1, explain: "156 has 5 tens." },
+            { q: "What is the value of the 7 in 372?", options: ["7", "70", "700", "72"], answer: 1, explain: "The 7 is in the tens place, so it is worth 70." },
+            { q: "256 = 200 + __ + 6", options: ["5", "50", "500", "56"], answer: 1, explain: "256 = 200 + 50 + 6." },
+            { q: "How many ones are in 408?", options: ["0", "4", "8", "40"], answer: 2, explain: "408 has 8 ones." },
+            { q: "10 tens make…", options: ["one hundred", "one ten", "one thousand", "ten"], answer: 0, explain: "10 tens make one hundred (100)." }
+          ]
+        },
+        {
+          id: "number-facts-10",
+          strand: "number-algebra",
+          name: "Number facts to 10",
+          icon: "🎯",
+          summary: "Recall pairs that make 10 and use them to add and subtract.",
+          learn: [
+            "Know pairs that make 10 by heart: 1 + 9, 2 + 8, 3 + 7, 4 + 6, 5 + 5.",
+            "Use them to add quickly. 9 + 4: make 10 first (9 + 1 = 10), then add 3 more to get 13.",
+            "Use them to subtract. 10 − 6 = 4, because 6 + 4 = 10."
+          ],
+          example: {
+            prompt: "Work out 13 − 5 using a fact to 10.",
+            steps: [
+              "Break 5 into 3 + 2.",
+              "13 − 3 = 10.",
+              "Then 10 − 2 = 8.",
+              "So 13 − 5 = 8."
+            ]
+          },
+          quiz: [
+            { q: "8 + __ = 10", options: ["2", "3", "1", "8"], answer: 0, explain: "8 + 2 = 10." },
+            { q: "10 − 7 = ?", options: ["3", "4", "17", "2"], answer: 0, explain: "7 + 3 = 10, so 10 − 7 = 3." },
+            { q: "9 + 4 = ?", options: ["12", "13", "14", "5"], answer: 1, explain: "9 + 1 = 10, then + 3 = 13." },
+            { q: "__ + 6 = 10", options: ["4", "3", "5", "16"], answer: 0, explain: "4 + 6 = 10." },
+            { q: "15 − 8 = ?", options: ["7", "8", "6", "23"], answer: 0, explain: "15 − 5 = 10, then 10 − 3 = 7." }
+          ]
+        },
+        {
+          id: "add-subtract",
+          strand: "number-algebra",
+          name: "Adding and subtracting",
+          icon: "➕",
+          summary: "Add and subtract one- and two-digit numbers.",
+          learn: [
+            "You can add by making tens or by jumping along a number line.",
+            "For 34 + 25, add the tens first, then the ones: 34 + 20 = 54, then 54 + 5 = 59.",
+            "For subtraction, jump back: 59 − 20 = 39, then 39 − 5 = 34."
+          ],
+          example: {
+            prompt: "Work out 34 + 25.",
+            steps: [
+              "Add the tens: 34 + 20 = 54.",
+              "Add the ones: 54 + 5 = 59.",
+              "So 34 + 25 = 59."
+            ]
+          },
+          quiz: [
+            { q: "34 + 25 = ?", options: ["59", "49", "69", "57"], answer: 0, explain: "34 + 20 = 54, then + 5 = 59." },
+            { q: "46 + 30 = ?", options: ["76", "66", "73", "16"], answer: 0, explain: "46 + 30 = 76." },
+            { q: "72 − 20 = ?", options: ["52", "62", "50", "92"], answer: 0, explain: "72 − 20 = 52." },
+            { q: "58 − 6 = ?", options: ["52", "64", "51", "53"], answer: 0, explain: "58 − 6 = 52." },
+            { q: "25 + 18 = ?", options: ["43", "33", "42", "35"], answer: 0, explain: "25 + 10 = 35, then + 8 = 43." }
+          ]
+        },
+        {
+          id: "arrays",
+          strand: "number-algebra",
+          name: "Groups, arrays and sharing",
+          icon: "🍫",
+          summary: "Show multiplication and division with equal groups and arrays.",
+          learn: [
+            "Multiplication is adding equal groups. 3 groups of 4 is 4 + 4 + 4 = 12.",
+            "An array is a neat rectangle of rows and columns. 3 rows of 4 make 12.",
+            "Division is sharing into equal groups. 12 shared into 3 groups is 4 each."
+          ],
+          example: {
+            prompt: "An array has 3 rows of 4 dots. How many dots altogether?",
+            steps: [
+              "Each row has 4 dots.",
+              "There are 3 rows: 4 + 4 + 4 = 12.",
+              "So 3 × 4 = 12.",
+              "And 12 ÷ 3 = 4."
+            ]
+          },
+          quiz: [
+            { q: "2 rows of 5 = ?", options: ["10", "7", "25", "12"], answer: 0, explain: "5 + 5 = 10, so 2 × 5 = 10." },
+            { q: "3 × 4 = ?", options: ["12", "7", "34", "9"], answer: 0, explain: "4 + 4 + 4 = 12." },
+            { q: "Share 10 into 2 equal groups. How many in each?", options: ["5", "2", "8", "20"], answer: 0, explain: "10 ÷ 2 = 5." },
+            { q: "4 + 4 + 4 = ?", options: ["12", "8", "16", "44"], answer: 0, explain: "Three groups of 4 make 12." },
+            { q: "How many groups of 2 are in 8?", options: ["4", "2", "6", "16"], answer: 0, explain: "8 can be split into 4 groups of 2." }
+          ]
+        },
+        {
+          id: "fractions",
+          strand: "number-algebra",
+          name: "Halves, quarters and eighths",
+          icon: "🍕",
+          summary: "Make halves, quarters and eighths by halving again and again.",
+          learn: [
+            "Halve a whole to get 2 halves. Halve each half to get 4 quarters. Halve again to get 8 eighths.",
+            "Two quarters make one half, so 1/2 = 2/4.",
+            "All the parts must be equal."
+          ],
+          example: {
+            prompt: "Show that 1/2 is the same as 2/4.",
+            steps: [
+              "Cut a whole into 2 equal parts. One part is 1/2.",
+              "Cut each half into 2 again. Now there are 4 equal parts.",
+              "One half covers 2 of those 4 parts.",
+              "So 1/2 = 2/4."
+            ]
+          },
+          quiz: [
+            { q: "How many quarters make one whole?", options: ["4", "2", "8", "1"], answer: 0, explain: "Four quarters make one whole." },
+            { q: "Half of 8 = ?", options: ["4", "2", "6", "16"], answer: 0, explain: "4 + 4 = 8, so half of 8 is 4." },
+            { q: "How many eighths make a half?", options: ["4", "2", "8", "6"], answer: 0, explain: "Four eighths make one half." },
+            { q: "A quarter of 12 = ?", options: ["3", "4", "6", "24"], answer: 0, explain: "12 shared into 4 equal parts is 3 each." },
+            { q: "1/2 is the same as…", options: ["2/4", "1/4", "4/4", "2/2"], answer: 0, explain: "Two quarters make one half." }
+          ]
+        },
+        {
+          id: "compare-numbers",
+          strand: "number-algebra",
+          name: "Greater than and less than",
+          icon: "⚖️",
+          summary: "Compare numbers using >, < and =.",
+          learn: [
+            "The > symbol means greater than, and < means less than. The wide end faces the bigger number.",
+            "45 > 23 says 45 is greater than 23. And 23 < 45 says 23 is less than 45.",
+            "If both sides are the same we use =, like 30 + 2 = 32."
+          ],
+          example: {
+            prompt: "Compare 45 and 23.",
+            steps: [
+              "45 has 4 tens. 23 has 2 tens.",
+              "45 is bigger than 23.",
+              "So we write 45 > 23."
+            ]
+          },
+          quiz: [
+            { q: "Which one is true?", options: ["45 > 23", "45 < 23", "45 = 23", "23 > 45"], answer: 0, explain: "45 is greater than 23." },
+            { q: "Fill in: 30 __ 25", options: [">", "<", "="], answer: 0, explain: "30 is greater than 25." },
+            { q: "Fill in: 17 __ 17", options: ["=", ">", "<"], answer: 0, explain: "17 equals 17." },
+            { q: "Which is less than 50?", options: ["49", "51", "60", "50"], answer: 0, explain: "49 is less than 50." },
+            { q: "100 __ 99", options: [">", "<", "="], answer: 0, explain: "100 is greater than 99." }
+          ]
+        },
+        {
+          id: "patterns",
+          strand: "number-algebra",
+          name: "Growing and shrinking patterns",
+          icon: "🔁",
+          summary: "Continue increasing or decreasing patterns and find missing numbers.",
+          learn: [
+            "A growing pattern gets bigger by the same amount each time: 5, 10, 15, 20.",
+            "A shrinking pattern gets smaller: 20, 18, 16, 14.",
+            "Find the rule by looking at the step between numbers."
+          ],
+          example: {
+            prompt: "Find the missing number: 5, 10, __, 20",
+            steps: [
+              "Find the step: 5 + 5 = 10, so the rule is add 5.",
+              "10 + 5 = 15.",
+              "Check: 15 + 5 = 20.",
+              "The missing number is 15."
+            ]
+          },
+          quiz: [
+            { q: "What is the rule? 3, 6, 9, 12", options: ["add 3", "add 2", "add 4", "add 1"], answer: 0, explain: "Each number is 3 more." },
+            { q: "Next number: 5, 10, 15, __", options: ["20", "16", "25", "19"], answer: 0, explain: "The rule is add 5." },
+            { q: "Missing number: 20, 18, __, 14", options: ["16", "17", "15", "12"], answer: 0, explain: "The pattern is −2, so 18 − 2 = 16." },
+            { q: "Next number: 2, 4, 6, 8, __", options: ["10", "9", "12", "16"], answer: 0, explain: "The rule is add 2." },
+            { q: "Missing number: 100, 90, 80, __, 60", options: ["70", "85", "75", "50"], answer: 0, explain: "The pattern is −10, so 80 − 10 = 70." }
+          ]
+        },
+        {
+          id: "money",
+          strand: "number-algebra",
+          name: "Dollars and cents",
+          icon: "💰",
+          summary: "Describe the relationship between dollars and cents.",
+          learn: [
+            "There are 100 cents in one dollar. So $1 = 100c.",
+            "Coins come in 5c, 10c, 20c, 50c, $1 and $2. Notes start at $5.",
+            "You can make $1 with coins, like 50c + 20c + 20c + 10c."
+          ],
+          example: {
+            prompt: "How many 20c coins make $1?",
+            steps: [
+              "$1 is 100 cents.",
+              "20 + 20 + 20 + 20 + 20 = 100.",
+              "So five 20c coins make $1."
+            ]
+          },
+          quiz: [
+            { q: "How many cents in $1?", options: ["100", "10", "50", "1000"], answer: 0, explain: "$1 = 100c." },
+            { q: "How many 50c coins make $1?", options: ["2", "5", "10", "1"], answer: 0, explain: "50c + 50c = $1." },
+            { q: "$2 = how many cents?", options: ["200", "20", "100", "220"], answer: 0, explain: "$2 = 200c." },
+            { q: "Which is worth more?", options: ["$1", "90c", "same", "80c"], answer: 0, explain: "$1 = 100c, which is more than 90c." },
+            { q: "How many 10c coins make 50c?", options: ["5", "10", "2", "4"], answer: 0, explain: "10c + 10c + 10c + 10c + 10c = 50c." }
+          ]
+        },
+
+        // ---------------------------- MEASUREMENT AND GEOMETRY ----------------------------
+        {
+          id: "shapes-2d",
+          strand: "measurement-geometry",
+          name: "2D shapes",
+          icon: "🔷",
+          summary: "Identify and draw familiar 2D shapes.",
+          learn: [
+            "2D shapes are flat. We name them by their sides and corners (vertices).",
+            "Triangle: 3 sides. Square: 4 equal sides. Rectangle: 4 sides. Pentagon: 5 sides. Hexagon: 6 sides.",
+            "A circle has no straight sides and no corners. Draw shapes by joining straight sides with a ruler."
+          ],
+          example: {
+            prompt: "How many sides does a pentagon have?",
+            steps: [
+              "Count the straight sides one by one: 1, 2, 3, 4, 5.",
+              "A pentagon has 5 sides."
+            ]
+          },
+          quiz: [
+            { q: "How many sides does a hexagon have?", options: ["6", "5", "4", "8"], answer: 0, explain: "A hexagon has 6 sides." },
+            { q: "Which shape has no corners?", options: ["Circle", "Square", "Triangle", "Pentagon"], answer: 0, explain: "A circle is round and has no corners." },
+            { q: "How many sides does a square have?", options: ["4", "3", "5", "6"], answer: 0, explain: "A square has 4 sides." },
+            { q: "Which shape has 3 sides?", options: ["Triangle", "Hexagon", "Circle", "Rectangle"], answer: 0, explain: "A triangle has 3 sides." },
+            { q: "How many corners does a pentagon have?", options: ["5", "4", "6", "3"], answer: 0, explain: "A pentagon has 5 corners." }
+          ]
+        },
+        {
+          id: "objects-3d",
+          strand: "measurement-geometry",
+          name: "3D objects",
+          icon: "🧊",
+          summary: "Name familiar 3D objects and describe their features.",
+          learn: [
+            "3D objects are solid and take up space. Examples: cube, cylinder, cone, sphere, rectangular prism.",
+            "A cube has 6 square faces. A cylinder has a circle at each end. A sphere is perfectly round.",
+            "Flat faces stack. Curved surfaces roll."
+          ],
+          example: {
+            prompt: "A tin can — what shape are its ends?",
+            steps: [
+              "Look at the top and bottom of the can.",
+              "Both ends are circles.",
+              "The can is a cylinder."
+            ]
+          },
+          quiz: [
+            { q: "Which object is round and can roll?", options: ["Sphere", "Cube", "Book", "Brick"], answer: 0, explain: "A sphere is round and rolls." },
+            { q: "The faces of a cube are…", options: ["squares", "circles", "triangles", "ovals"], answer: 0, explain: "Each face of a cube is a square." },
+            { q: "An ice-cream cone is like a…", options: ["cone", "cube", "sphere", "cylinder"], answer: 0, explain: "It is shaped like a cone." },
+            { q: "A tissue box is like a…", options: ["rectangular prism", "sphere", "cone", "cylinder"], answer: 0, explain: "A tissue box is a rectangular prism." },
+            { q: "How many faces does a cube have?", options: ["6", "4", "8", "2"], answer: 0, explain: "A cube has 6 faces." }
+          ]
+        },
+        {
+          id: "length-area",
+          strand: "measurement-geometry",
+          name: "Length and area",
+          icon: "📏",
+          summary: "Compare length and area using uniform informal units.",
+          learn: [
+            "Measure length with equal informal units like paperclips, lined up end to end with no gaps or overlaps.",
+            "The bigger the unit, the fewer units you need.",
+            "Area is the flat space a shape covers. Cover a shape with equal squares to compare areas."
+          ],
+          example: {
+            prompt: "A book is 6 paperclips long. A pencil is 4 paperclips long. Which is longer?",
+            steps: [
+              "The book measures 6 paperclips.",
+              "The pencil measures 4 paperclips.",
+              "6 is more than 4, so the book is longer."
+            ]
+          },
+          quiz: [
+            { q: "Which is longer?", options: ["A bus", "A bike", "same", "A shoe"], answer: 0, explain: "A bus is longer than a bike." },
+            { q: "When measuring with blocks, line them up with…", options: ["no gaps", "big gaps", "overlaps", "one on top"], answer: 0, explain: "Measure end to end with no gaps or overlaps." },
+            { q: "A shape covered by 9 squares or 6 squares — which has more area?", options: ["9 squares", "6 squares", "same", "neither"], answer: 0, explain: "More squares cover more area." },
+            { q: "Ribbon A is 5 blocks. Ribbon B is 8 blocks. Which is longer?", options: ["Ribbon B", "Ribbon A", "same", "neither"], answer: 0, explain: "8 blocks is longer than 5 blocks." },
+            { q: "Area is the flat ___ a shape covers.", options: ["space", "mass", "time", "height"], answer: 0, explain: "Area is the flat space a shape covers." }
+          ]
+        },
+        {
+          id: "capacity-mass",
+          strand: "measurement-geometry",
+          name: "Capacity and mass",
+          icon: "🧴",
+          summary: "Compare capacity and mass using informal units.",
+          learn: [
+            "Capacity is how much a container holds. Compare by filling with a unit like a cup.",
+            "Mass is how heavy something is. Compare by hefting or using balance scales.",
+            "An object keeps the same mass even if you reshape it."
+          ],
+          example: {
+            prompt: "A bottle holds 4 cups. A jug holds 7 cups. Which holds more?",
+            steps: [
+              "The bottle holds 4 cups.",
+              "The jug holds 7 cups.",
+              "7 is more than 4, so the jug holds more."
+            ]
+          },
+          quiz: [
+            { q: "Which holds more?", options: ["A bucket", "A cup", "same", "A spoon"], answer: 0, explain: "A bucket holds more than a cup." },
+            { q: "We compare mass using…", options: ["balance scales", "a ruler", "a clock", "a map"], answer: 0, explain: "Balance scales compare mass." },
+            { q: "Which is heavier?", options: ["A rock", "A feather", "same", "A leaf"], answer: 0, explain: "A rock is heavier than a feather." },
+            { q: "A small rock and a big pillow — which is heavier?", options: ["The rock", "The pillow", "same", "neither"], answer: 0, explain: "Big does not always mean heavy." },
+            { q: "The side of the balance that goes down is…", options: ["heavier", "lighter", "empty", "bigger"], answer: 0, explain: "The heavier side tips down." }
+          ]
+        },
+        {
+          id: "time",
+          strand: "measurement-geometry",
+          name: "Time and calendars",
+          icon: "🕐",
+          summary: "Tell time to the hour, half- and quarter-hour and use a calendar.",
+          learn: [
+            "The minute hand points to 12 for o'clock, to 6 for half past, to 3 for quarter past and to 9 for quarter to.",
+            "The same time can be read on analogue and digital clocks. Half past 2 is 2:30.",
+            "A calendar shows days, weeks and months. You can count the days between two dates."
+          ],
+          example: {
+            prompt: "What is quarter past 4 on a digital clock?",
+            steps: [
+              "Quarter past means 15 minutes past the hour.",
+              "The hour is 4.",
+              "So it is 4:15."
+            ]
+          },
+          quiz: [
+            { q: "Half past 3 is the same as…", options: ["3:30", "3:00", "4:30", "3:15"], answer: 0, explain: "Half past 3 is 3:30." },
+            { q: "Quarter past 6 on a digital clock is…", options: ["6:15", "6:45", "6:30", "6:00"], answer: 0, explain: "Quarter past means 15 minutes past." },
+            { q: "How many days are in a week?", options: ["7", "5", "10", "12"], answer: 0, explain: "There are 7 days in a week." },
+            { q: "Which hand shows the minutes?", options: ["The long hand", "The short hand", "The numbers", "The second hand"], answer: 0, explain: "The long hand shows the minutes." },
+            { q: "How many months are in a year?", options: ["12", "10", "7", "24"], answer: 0, explain: "There are 12 months in a year." }
+          ]
+        },
+        {
+          id: "maps",
+          strand: "measurement-geometry",
+          name: "Position and simple maps",
+          icon: "🗺️",
+          summary: "Locate positions and pathways on simple maps.",
+          learn: [
+            "A map is a drawing of a place seen from above (a bird's-eye view).",
+            "We use position words like above, below, next to and between.",
+            "A pathway is a set of steps: go forward, then turn left."
+          ],
+          example: {
+            prompt: "On a map the shop is between the park and the school. Where is the shop?",
+            steps: [
+              "Between means in the middle.",
+              "The shop is in the middle of the park and the school."
+            ]
+          },
+          quiz: [
+            { q: "A map shows a place from…", options: ["above", "the side", "underneath", "far away"], answer: 0, explain: "A map is a bird's-eye view from above." },
+            { q: "The cat is under the table. Where is the cat?", options: ["Below the table", "Above the table", "On the table", "Next to the table"], answer: 0, explain: "Under means below." },
+            { q: "Which word tells a direction?", options: ["Left", "Red", "Happy", "Three"], answer: 0, explain: "Left is a direction word." },
+            { q: "The library is next to the hall. Where is it?", options: ["Beside the hall", "Under the hall", "Inside the hall", "Above the hall"], answer: 0, explain: "Next to means beside." },
+            { q: "To follow a path you move step by step.", options: ["True", "False"], answer: 0, explain: "A path is a set of steps." }
+          ]
+        },
+
+        // ---------------------------- PROBABILITY AND STATISTICS ----------------------------
+        {
+          id: "chance",
+          strand: "probability-statistics",
+          name: "Possible or impossible",
+          icon: "🎲",
+          summary: "Describe events as possible or impossible and compare likelihood.",
+          learn: [
+            "An event is possible if it can happen. It is impossible if it cannot happen.",
+            "Compare likelihood: which is more likely — seeing a bird or a kangaroo in the playground?",
+            "Some things are certain, like the sun rising. Some are impossible, like a cat flying."
+          ],
+          example: {
+            prompt: "It might rain today. Is that possible or impossible?",
+            steps: [
+              "Rain can happen — it is not impossible.",
+              "But it is not certain either.",
+              "So rain is possible."
+            ]
+          },
+          quiz: [
+            { q: "Rolling a 7 on a 1–6 dice is…", options: ["Impossible", "Certain", "Likely", "Sure"], answer: 0, explain: "A 1–6 dice cannot show 7." },
+            { q: "The sun rising tomorrow is…", options: ["Certain", "Impossible", "Unlikely", "Maybe"], answer: 0, explain: "The sun always rises — it is certain." },
+            { q: "In your classroom, which is more likely?", options: ["A student", "An elephant", "same", "neither"], answer: 0, explain: "A student is far more likely." },
+            { q: "Rain tomorrow is…", options: ["Possible", "Impossible", "Certain", "Never"], answer: 0, explain: "Rain can happen, so it is possible." },
+            { q: "A fish walking to school is…", options: ["Impossible", "Certain", "Likely", "Possible"], answer: 0, explain: "Fish cannot walk to school." }
+          ]
+        },
+        {
+          id: "data",
+          strand: "probability-statistics",
+          name: "Collecting and displaying data",
+          icon: "📊",
+          summary: "Collect and compare data and show it in tables and one-to-one graphs.",
+          learn: [
+            "Collect data by asking a question and recording the answers, using tallies.",
+            "Show data in a table or a one-to-one graph. In a one-to-one graph, one picture stands for one thing.",
+            "Then compare: which has the most? the least? How many more?"
+          ],
+          example: {
+            prompt: "5 people like apples, 3 like bananas, 2 like grapes. Which is the most popular?",
+            steps: [
+              "Look at the numbers: apples 5, bananas 3, grapes 2.",
+              "The biggest number is 5.",
+              "So apples are the most popular."
+            ]
+          },
+          quiz: [
+            { q: "🐶🐶🐶🐱🐱  Which is the most?", options: ["🐶", "🐱", "same", "neither"], answer: 0, explain: "Dogs have 3, cats have 2." },
+            { q: "A tally helps you…", options: ["count answers", "colour in", "tell the time", "measure length"], answer: 0, explain: "Tallies help you count." },
+            { q: "In a one-to-one graph, one picture means…", options: ["one thing", "ten things", "two things", "nothing"], answer: 0, explain: "One picture stands for one thing." },
+            { q: "4 cats and 6 dogs — how many more dogs?", options: ["2", "10", "1", "6"], answer: 0, explain: "6 − 4 = 2 more dogs." },
+            { q: "🚗🚗🚗🚗  🚲🚲  Which is the least?", options: ["🚲", "🚗", "same", "neither"], answer: 0, explain: "Bikes have 2, cars have 4." }
           ]
         }
       ]

@@ -402,6 +402,76 @@ html[data-contrast="true"] .viz-clock { background: #000; }
 .picto-marks { font-size: 1.3rem; letter-spacing: 3px; }
 .picto-count { font-weight: 800; color: var(--muted); }
 
+/* --- Year 2 visuals --- */
+.viz-jump { font-weight: 800; color: var(--primary); font-size: 0.95rem; white-space: nowrap; }
+.viz-croc { font-size: 1.7rem; }
+.viz-chip--missing { border-style: dashed; color: var(--muted); background: transparent; }
+.viz-col-stack { display: flex; flex-direction: column; gap: 6px; align-items: flex-start; }
+.viz-svg--xs { max-width: 84px; }
+
+/* Hundreds chart row */
+.hundreds { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; max-width: 340px; }
+.h-cell {
+  display: flex; align-items: center; justify-content: center;
+  min-height: 38px; background: var(--surface-2); border: 2px solid var(--border);
+  border-radius: 8px; font-weight: 800; font-size: 0.95rem;
+}
+.h-cell.h-on { background: var(--primary); color: #fff; border-color: var(--primary); }
+html[data-contrast="true"] .h-cell.h-on { color: #000; }
+
+/* Base-ten blocks */
+.bt-row { display: flex; gap: 20px; align-items: flex-end; flex-wrap: wrap; }
+.bt-col { display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.bt-group { display: flex; gap: 4px; align-items: flex-end; }
+.bt-caption { font-weight: 700; font-size: 0.78rem; color: var(--muted); text-align: center; }
+.bt-100 {
+  width: 58px; height: 58px; border: 2px solid #3B82F6; border-radius: 4px; background-color: #DBEAFE;
+  background-image:
+    repeating-linear-gradient(90deg, transparent 0 4px, #93C5FD 4px 5px),
+    repeating-linear-gradient(0deg, transparent 0 4px, #93C5FD 4px 5px);
+}
+.bt-10 {
+  width: 13px; height: 58px; border: 2px solid #22C55E; border-radius: 4px; background-color: #DCFCE7;
+  background-image: repeating-linear-gradient(0deg, transparent 0 4px, #86EFAC 4px 5px);
+}
+.bt-1 { width: 13px; height: 13px; border: 2px solid #F59E0B; border-radius: 3px; background: #FEF3C7; }
+
+/* Arrays */
+.viz-array { display: grid; gap: 6px; }
+.viz-array .dot { width: 24px; height: 24px; }
+
+/* Fraction strips */
+.frac-strip { margin-bottom: 10px; }
+.frac-label { font-weight: 800; font-size: 0.85rem; color: var(--muted); margin-bottom: 3px; }
+.frac-bar {
+  display: flex; height: 38px; max-width: 420px;
+  border: 2px solid var(--border); border-radius: 8px; overflow: hidden;
+}
+.frac-part { flex: 1; background: var(--surface-2); border-right: 2px solid var(--border); }
+.frac-part:last-child { border-right: none; }
+.frac-part.f-on { background: #F59E0B; }
+
+/* Calendar */
+.viz-cal { display: grid; grid-template-columns: repeat(7, 36px); gap: 4px; }
+.cal-cell {
+  width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;
+  border-radius: 8px; font-weight: 800; font-size: 0.8rem;
+  background: var(--surface-2); border: 2px solid var(--border);
+}
+.cal-cell.cal-head { background: transparent; border: none; color: var(--muted); }
+.cal-cell.cal-on { background: var(--primary); color: #fff; border-color: var(--primary); }
+html[data-contrast="true"] .cal-cell.cal-on { color: #000; }
+
+/* Possible / impossible columns */
+.viz-two-col { display: grid; gap: 14px; grid-template-columns: 1fr; }
+@media (min-width: 620px) { .viz-two-col { grid-template-columns: 1fr 1fr; } }
+.chance-col { border-radius: var(--radius-sm); padding: 12px 14px; border: 2px solid var(--border); }
+.chance-col h4 { margin: 0 0 8px; font-size: 1rem; }
+.chance-col ul { margin: 0; padding-left: 18px; }
+.chance-col li { margin-bottom: 4px; }
+.chance-col--possible { background: var(--success-bg); border-color: var(--success); }
+.chance-col--impossible { background: var(--wrong-bg); border-color: var(--wrong); }
+
 /* Quiz ------------------------------------------------------------------- */
 .quiz-progress { display: flex; gap: 6px; margin-bottom: 14px; }
 .quiz-dot {
