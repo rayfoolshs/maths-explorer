@@ -375,6 +375,7 @@
     var parts = hash.split("/").filter(Boolean);
 
     Speech.stop();
+    if (window.Quiz && typeof window.Quiz.reset === "function") window.Quiz.reset();
 
     if (parts.length === 0) { renderHome(main); }
     else if (parts[0] === "year" && parts[1]) {
