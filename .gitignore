@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python virtual environments (used only for local PDF extraction)
+.venv/
+__pycache__/
+
+# Editor
+.vscode/
+.idea/

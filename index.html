@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-AU" data-easyread="false" data-contrast="false" data-motion="on">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maths Explorer — WA Mathematics, Pre-primary to Year 10</title>
+  <meta name="description" content="A friendly, accessible maths learning site aligned to the Western Australian Mathematics curriculum. Explore what each year level learns and try a quiz.">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#/" aria-label="Maths Explorer home">
+        <span class="brand-icon" aria-hidden="true">🧮</span>
+        <span>
+          Maths Explorer
+          <small>WA Mathematics · Pre-primary to Year 10</small>
+        </span>
+      </a>
+
+      <nav class="toolbar" aria-label="Accessibility and reading tools">
+        <button class="tool" id="btn-read" type="button" title="Read this page aloud">🔊 <span class="tool-label">Read</span></button>
+        <button class="tool" id="btn-stop" type="button" title="Stop reading">⏹ <span class="tool-label">Stop</span></button>
+        <button class="tool" id="btn-text" type="button" aria-pressed="false" title="Change text size">🔠 Normal text</button>
+        <button class="tool" id="btn-easyread" type="button" aria-pressed="false" title="Use an easier-to-read font">🅰️ Easy read</button>
+        <button class="tool" id="btn-contrast" type="button" aria-pressed="false" title="High contrast colours">🌓 Contrast</button>
+        <button class="tool" id="btn-motion" type="button" aria-pressed="false" title="Reduce motion and animation">🐢 Calm</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="container" tabindex="-1">
+    <noscript>
+      <p>Maths Explorer needs JavaScript turned on to work.</p>
+    </noscript>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>Maths Explorer — aligned to the Western Australian Curriculum: Mathematics (2026).</span>
+      <span>Made for young learners. No ads, no tracking.</span>
+    </div>
+  </footer>
+
+  <!-- Data first, then features, then the app -->
+  <script src="data/curriculum.js"></script>
+  <script src="assets/js/a11y.js"></script>
+  <script src="assets/js/speech.js"></script>
+  <script src="assets/js/quiz.js"></script>
+  <script src="assets/js/visuals.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

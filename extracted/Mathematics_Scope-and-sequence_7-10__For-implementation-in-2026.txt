@@ -1,0 +1,7289 @@
+
+===== PAGE 1 =====
+ 
+Western Australian Curriculum 
+Mathematics 
+Scope and sequence | Years 7–10  
+For implementation in 2026 
+
+===== PAGE 2 =====
+ 
+2024/53445[v18] 
+Acknowledgement of Country 
+Kaya. The School Curriculum and Standards Authority (the Authority) acknowledges that our offices are on Whadjuk Noongar boodjar and that we deliver 
+our services on the country of many traditional custodians and language groups throughout Western Australia. The Authority acknowledges the traditional 
+custodians throughout Western Australia and their continuing connection to land, waters and community. We offer our respect to Elders past and present. 
+Copyright 
+© School Curriculum and Standards Authority, 2025 
+This document – apart from any third-party copyright material contained in it – may be freely copied, or communicated on an intranet, for non-commercial purposes in 
+educational institutions, provided that the School Curriculum and Standards Authority (the Authority) is acknowledged as the copyright owner, and that the Authority’s 
+moral rights are not infringed. 
+Copying or communication for any other purpose can be done only within the terms of the Copyright Act 1968 or with prior written permission of the Authority. Copying or 
+communication of any third-party copyright material can be done only within the terms of the Copyright Act 1968 or with permission of the copyright owners. 
+Any content in this document that has been derived from the Australian Curriculum may be used under the terms of the Creative Commons Attribution 4.0 International 
+licence. 
+This document incorporates material from Mathematics K–10 Syllabus (2022) © 2022 NSW Education Standards Authority (NESA) for and on behalf of the Crown in right of 
+the State of New South Wales. 
+Disclaimer 
+Any resources such as texts, websites and so on that may be referred to in this document are provided as examples of resources that teachers can use to support their 
+learning programs. Their inclusion does not imply that they are mandatory or that they are the only resources relevant to the course. Teachers must exercise their 
+professional judgement as to the appropriateness of any they may wish to use.
+
+===== PAGE 3 =====
+ 
+ 
+Contents 
+Overview ....................................................................................................................................................................................................................... 1 
+Guide to reading this document ................................................................................................................................................................................................ 1 
+Strand: Number and algebra .......................................................................................................................................................................................... 3 
+Sub-strand: Understanding number .......................................................................................................................................................................................... 3 
+Sub-strand: Calculating with number ...................................................................................................................................................................................... 14 
+Sub-strand: Algebraic techniques ............................................................................................................................................................................................ 21 
+Sub-strand: Linear and non-linear equations and inequalities ............................................................................................................................................... 27 
+Sub-strand: Linear and non-linear patterns and relationships ............................................................................................................................................... 30 
+Sub-strand: Financial mathematics ......................................................................................................................................................................................... 36 
+Sub-strand: Modelling with number and algebra ................................................................................................................................................................... 39 
+Strand: Measurement and geometry ............................................................................................................................................................................ 43 
+Sub-strand: Two-dimensional space and structures ............................................................................................................................................................... 43 
+Sub-strand: Three-dimensional space and structures............................................................................................................................................................. 64 
+Sub-strand: Non-spatial measurement ................................................................................................................................................................................... 71 
+Sub-strand: Modelling with measurement and geometry ...................................................................................................................................................... 72 
+Strand: Probability and statistics .................................................................................................................................................................................. 76 
+Sub-strand: Probability and statistics ...................................................................................................................................................................................... 76 
+Sub-strand: Modelling with probability and statistics ............................................................................................................................................................ 94 
+
+===== PAGE 4 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+1 
+Overview 
+The Western Australian Curriculum: Mathematics has been adapted from the previous Western Australian Curriculum (adopted from the Australian 
+Curriculum version 8.1), the New South Wales Curriculum (following the New South Wales Curriculum Reform) and the Australian Curriculum version 9. 
+It has been contextualised for the Western Australian Curriculum and Assessment Outline. 
+Guide to reading this document 
+The Scope and sequence shows the mandated curriculum for teaching, written as content descriptions across year levels so that a sequence of content can 
+be viewed across the years of schooling from Pre-primary to Year 10. The examples illustrate the content and are not mandated. Teachers should use 
+examples relevant to the context of their school and needs of their students. 
+This Scope and sequence shows the Years 7–10 Mathematics curriculum. 
+The Mathematics curriculum is organised by three Mathematics strands: Number and algebra; Measurement and geometry; and Probability and statistics. 
+The Number and algebra strand for Years 7–10 includes: Understanding number; Calculating with number; Algebraic techniques; Linear and non-linear 
+equations and inequalities; Linear and non-linear patterns and relationships; Financial mathematics; and Modelling with number and algebra. 
+The Measurement and geometry strand for Years 7–10 includes: Two-dimensional space and structures; Three-dimensional space and structures; 
+Non-spatial measurement; and Modelling with measurement and geometry. 
+The Probability and statistics strand for Years 7–10 includes: Probability and statistics; and Modelling with probability and statistics.  
+The Mathematics curriculum includes optional content in Years 9 and 10, which is intended to build and extend students’ year level knowledge according to 
+areas of interest, understanding of content and preparation for subsequent study. Teachers may choose optional content according to the needs of  
+the student/s. 
+ 
+ 
+
+===== PAGE 5 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+2 
+The table below outlines the subject organisation for the Years 7–10 Mathematics curriculum.  
+Years 7–10 
+Number and algebra 
+Understanding 
+number 
+Calculating with 
+number 
+Algebraic 
+techniques 
+Linear and
+non-linear 
+equations and 
+inequalities 
+Linear and 
+non-linear patterns 
+and relationships 
+Financial 
+mathematics 
+Modelling with 
+number and 
+algebra 
+ 
+Measurement and geometry 
+Two-dimensional space and 
+structures 
+Three-dimensional space and 
+structures 
+Non-spatial measurement 
+Modelling with measurement
+and geometry 
+ 
+Probability and statistics 
+Probability and statistics 
+Modelling with probability and statistics 
+ 
+
+===== PAGE 6 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+3 
+Strand: Number and algebra 
+Sub-strand: Understanding number 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and represent equivalent
+fractions with related and unrelated 
+denominators, visually  
+and numerically  
+For example: 
+ 
+ 
+Investigate, define, identify and use
+correct notation for rational and 
+irrational numbers, including 
+terminating, recurring and  
+rounded decimals  
+For example: 
+ 
+investigating to explain that 3, 
+37% and 0.6666… (0. 6̇ or 0.67 
+rounded to 2dp) are rational 
+numbers as they can be written 
+as the fractions  
+ଷ
+ଵ, 
+ଷ଻
+ଵ଴଴ and  
+ଶ
+ଷ 
+ 
+investigating to explain that √2 
+and 𝜋 are irrational numbers as 
+they cannot be written as 
+fractions with an integer 
+numerator and denominator 
+and that  
+ଶଶ
+଻  and 3.14 are 
+approximations (≈) for 𝜋 
+ 
+investigating terminating, 
+recurring and rounded decimals 
+resulting from dividing 1 by 1, 2, 
+Investigate very large and very small
+numbers and move flexibly between 
+their exact and approximated 
+scientific notation  
+For example: 
+ 
+exploring contexts for very large 
+numbers (population count, 
+national debt, mass of celestial 
+bodies, data storage) and very 
+small numbers (nanoparticles, 
+sizes of cells, microseconds, 
+microtransactions, tolerances in 
+engineering, winning times in 
+Olympic events) and comparing 
+these quantities or 
+measurements to those in more 
+familiar contexts 
+ 
+exploring instruments used to 
+measure very large and very 
+small measures, such as the 
+capacity of liquid in a scientific 
+pipette being 
+Move flexibly between real number
+inequalities expressed as a worded 
+statement, algebraically or on a 
+number line  
+For example: 
+ 
+representing all measurements 
+greater than or equal to two 
+metres as an inequality and on a 
+number line 
+ 
+ 
+representing a range of 
+temperatures greater than or 
+equal to −1.5° and less than 3° 
+as inequalities and on a number 
+line 
+ 
+ 
+writing an inequality to match 
+the following number line 
+solution 
+
+===== PAGE 7 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+4 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using the multiplicative 
+relationships between 
+equivalent fractions to justify 
+that  
+ଶ
+ହ=
+଺
+ଵହ  because if the parts 
+are three times smaller, the 
+number of parts needs to be 
+three times greater 
+ 
+using knowledge of equivalence 
+to explore the truth of 
+statements, such as  
+ଷ
+ସ > 
+ଶ
+ଷ  or   
+ଷ
+ସ + 
+ଵ
+ଷ ≠ 
+ସ
+଻ 
+Explore and explain relationships 
+between fractions, decimals and 
+percentages 
+For example: 
+ 
+drawing diagrams to explain 
+65% = 0.65 =
+଺ହ
+ଵ଴଴=
+ଵଷ
+ଶ଴ 
+3, … to 15, comparing to dividing
+10 by 1, 2, 3, … to 15, using 
+correct notation 
+Draw and label, or use a given 
+number line, to locate, order and 
+compare with equality and 
+inequality symbols, rational and 
+irrational numbers, including 
+numbers written in index form and 
+percentages          
+For example: 
+ 
+locating −1 
+ଷ
+ସ, 3, −0.5, √2, 25%, 
+2ଵ,  140% and  
+ଵ
+ଷ  on a number 
+line. Writing the numbers in 
+ascending order. Comparing 
+numbers using  < , >, ≤,  ≥ or 
+= e.g.  
+ଵ
+ଷ < √2  
+ 
+justifying why the following 
+statement is true 
+−4 1
+20 > −4.1 
+ 
+ 
+ 
+5.72 × 10ିସmL, which is
+0.000572 mL  
+ 
+choosing to write the size of an 
+atom given as 2.45 × 10ି଻ mm 
+exactly as 0.000000245 mm, and 
+the speed of light given as 
+299 792 458 ms as 
+approximately 2.998 × 10଼ ms 
+for accuracy, efficiency  
+or context 
+Investigate, define, compare and 
+order real numbers, with  
+equality and inequality symbols, 
+including those expressed in 
+scientific notation 
+For example: 
+ 
+explaining that the real number 
+system includes both rational 
+and irrational numbers 
+ 
+using efficient strategies to 
+write the real numbers below in 
+descending order and 
+comparing the numbers using 
+<, >, ≤, ≥ or  = 
+
+===== PAGE 8 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+5 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+ 
+explaining that as 100% = 1, 
+175% can be represented using 
+a diagram, such as  
+175% = 1.75 = 1 3
+4 
+ 
+investigating, comparing, 
+generalising and validating 
+calculator strategies to move 
+between percentages, fractions 
+and decimals 
+Explore to extend multiplicative
+thinking with positive integers to 
+include multiplication and division 
+of negative integers  
+For example: 
+ 
+exploring using patterning  
+3 × 2 = 6                −3 × 2 = −6 
+3 × 1 = 3                −3 × 1 = −3  
+3 × 0 = 0                −3 × 0 = 0 
+3 × (−1) = −3      −3 × (−1) = 3 
+3 × (−2) = −6      −3 × (−2) = 6 
+ 
+representing  4 × −2 as 
+repeated addition on a number 
+line 
+ 
+considering 4 × −3 as 
+(−3) + (−3) + (−3) + (−3) and 
+−4 × −3 as −[(−3) + (−3) +
+(−3) + (−3)]  
+ 
+extending and exploring 
+multiplication and division as 
+inverse operations of each 
+other, by constructing 
+equivalent equations that 
+include negative integers 
+ √𝜋, −1
+ଵ
+ଶ, 3.25 × 10ିଵ, 2଴ , 
+√−8.1
+య
+, 0.15, 1.4଴, 5.5 × 10ିଶ, √3 
+ 
+without calculating, justifying 
+why the following are true: 
+3.25 × 10ିଵ> 5.5 × 10ିଶ 
+√𝜋 < 𝜋   
+√2 > 1
+2 
+√−64 
+య
+> √−125
+య
+  
+Year 9 optional 
+Explore to develop a sequence of 
+steps to flexibly move between 
+recurring decimals and fractions 
+
+===== PAGE 9 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+6 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Draw and label, or use a given
+number line, to locate, order and 
+compare with equality and 
+inequality symbols, fractions, 
+terminating decimals, percentages 
+and integers  
+For example: 
+ 
+locating  
+ଶ
+ହ, −2, −4, 95%, 0.75 
+and 2
+ଵ
+ସ on a number line and 
+using this to assist in ordering 
+and comparing numbers using 
+inequalities 
+−4 < −2 < 2
+5 < 0.75 < 95% < 2 1
+4
+ 
+comparing  
+ଷ
+ହ  and  
+଺
+ଵ଴  using 
+equality and inequality symbols  
+ଷ
+ହ=
+଺
+ଵ଴   or   
+ଷ
+ହ≤
+଺
+ଵ଴   or   
+ଷ
+ହ≥
+଺
+ଵ଴ 
+ 
+comparing  
+ଵ
+ସ   and  −
+ଵ
+ଷ  using 
+inequality symbols 
+Explore to extend addition and 
+subtraction of positive integers to 
+include negative integers 
+For example: 
+ 
+using patterning to explore 
+4 × (−7) = −28
+−28 ÷ 4 = −7
+−28 ÷ −7 = 4 
+ 
+investigating 
+(−5)ଶ and −5ଶ  
+(−5)ଷ and −5ଷ   
+and justifying that there are two 
+numbers that can be squared to 
+give a result of 25 and that 
+√−125 
+య
+= − 5  
+Extend the use of associative, 
+commutative and distributive laws, 
+additive and multiplicative 
+partitioning, inverse operations, 
+order of operations, equality and 
+inequality to validate a range of 
+mental and written strategies 
+involving the four operations on any 
+rational number 
+For example: 
+ 
+selecting, using and 
+communicating partitioning, 
+commutativity, and order of 
+operations to evaluate 
+−74 × 4  
+= 4 × (−70) + 4 × (−4) 
+−63 ÷ 150 
+
+===== PAGE 10 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+7 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using number lines to explore 
+ 
+extending and exploring 
+addition and subtraction as 
+inverse operations of each other 
+by constructing equivalent 
+equations that include  
+negative integers 
+If 3 + (−5) = −2, then  
+   −5 + 3 = −2  
+   −2 −3 = −5
+ −2 −(−5) = 3
+= −63
+150 
+= 3 × (−21)
+3 × 50 
+= −21
+50 
+−1
+2 + 3
+5 × 1
+2 
+= −1
+2 + 3
+10 
+= 3
+10 −1
+2 
+ 
+flexibly using associativity and 
+inverse operations to create 
+equivalent equations and using 
+this to solve for unknown 
+fractions or decimals in 
+equations with one operation, 
+such as  
+ 4 1
+8 − ? = −2 1
+4   
+ 4 1
+8 −(−2 1
+4 ) = ? 
+ 4 1
+8 + 2 1
+4 = ? 
+4 + 2 + 1
+8 + 1
+4 = ? 
+? × 3.5 = −16.1 
+? = −16.1 ÷ 3.5
+
+===== PAGE 11 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+8 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and interpret multiplication
+and division of positive fractions, 
+visually and numerically 
+For example: 
+ 
+representing  
+ଵ
+ଷ × 
+ସ
+ହ   
+and using to explain  
+ଵ
+ଷ × 
+ସ
+ହ = 
+ସ
+ଵହ  
+Explore and interpret multiplication 
+and division of positive decimals, 
+visually and numerically 
+For example: 
+ 
+representing 0.6 × 0.5 in a 
+diagram and using it to explain 
+ 
+without calculating, justifying 
+statements as true (T) or  
+false (F) 
+9.6 + 8 ÷ 4 > 9.6 ÷ 8 + 4  
+9 ÷ (0.4 + 3) = (9 ÷ 0.4) + (9 ÷ 3)  
+
+===== PAGE 12 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+9 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+and make connections to
+଺
+ଵ଴ × 
+ହ
+ଵ଴  = 
+ଷ଴
+ଵ଴଴  
+ 
+representing 0.6 ÷ 0.2 in a 
+diagram and using the diagram 
+to explain and make 
+connections to 
+ 
+଺
+ଵ଴ ÷ 
+ଶ
+ଵ଴  = 3 
+Use place value understanding to 
+explore rounding decimals to a 
+specified number of decimal places  
+
+===== PAGE 13 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+10 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+For example:
+ 
+using place value to describe 
+3.64 as between 3.6 and 3.7,  
+ସ
+ଵ଴଴  
+greater than 3.6 and  
+଺
+ଵ଴଴  
+smaller than 3.7 
+ 
+when rounding to three decimal 
+places 
+1.6248 rounds to 1.625 
+1.6273 rounds to 1.627 
+1.6235 rounds to 1.624 
+Extend the use of associative, 
+commutative and distributive laws, 
+additive and multiplicative 
+partitioning, inverse operations, 
+order of operations, equality and 
+inequality to validate a range of 
+mental and written strategies 
+involving the four operations on 
+whole numbers, positive fractions 
+and decimals, and addition and 
+subtraction of integers  
+For example:  
+ 
+exploring efficiency of strategic 
+use of partitioning, 
+commutativity and order  
+
+===== PAGE 14 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+11 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+of operations to assist
+calculation of 
+16 × 75 = 4 × 4 × 3 × 25 
+= 4 × 25 × 3 × 4 
+4 × 2 3
+4 = (4 × 2) + (4 × 3
+4 ) 
+−27 + 35 = −27 + (27 + 8)  
+15.3 −4.8 = 15.3 + (−5) + 0.2 
+ 
+extending the use of inverse 
+operations to assist calculation 
+of an unknown fraction or 
+decimal in an equation with one 
+operation, such as 
+5
+8 − ? = 1
+4   
+5
+8 − 1
+4  = ? 
+? × 3.5 = 16.1 
+? = 16.1 ÷ 3.5 
+ 
+without calculating, justifying 
+statements as true (T) or false 
+(F), such as 
+48 × 2.5 = 12 × 10  
+8 ÷ 1.8 ÷ 2 < 8 ÷ 2 ÷ 1.8  
+15 × 6 < 15 × 12 ÷ 2  
+−12 + 3 ≥−9 + (−3) + 3  
+ଷ଼×
+ହ଼>
+ହ଼× ቀ
+ଵ
+ହ+
+ଷ
+ହቁ  
+
+===== PAGE 15 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+12 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and explain the use of ratios
+and fractions to compare numbers 
+and quantities. Make connections 
+between equivalent fractions and 
+between equivalent ratios  
+For example: 
+ 
+the bar, or the whole, can be 
+considered as 10 equal parts or 
+2 unequal parts made up of the 
+‘blue part’ and the ‘green part’ 
+exploring ways to compare the 
+sizes of 
+ 
+the ‘blue part’ and the 
+‘green part’, such as  4: 6 or 
+2: 3, 6: 4 or 3: 2,  
+ସ
+଺  or  
+ଶ
+ଷ , 
+ 
+଺
+ସ  or 1 
+ଵ
+ଶ 
+ 
+the ‘blue part’ and the 
+‘whole’, such as 
+4: 10 or 2: 5, 10: 4 or 5: 2, 
+ 
+ସ
+ଵ଴  or  
+ଶ
+ହ ,  
+ଵ଴
+ସ  or  
+ହ
+ଶ 
+ 
+the ‘green part’ to the 
+‘whole’, such as 6: 10 or  
+଺
+ଵ଴ 
+or  
+ଷ
+ହ  
+Explore and apply proportional
+reasoning to determine unknown 
+numbers in equivalent ratios and 
+fractions  
+For example: 
+ 
+giving reasons why 𝑛 must be 2 
+if  
+௡
+ହ  = 
+଺
+ଵହ 
+ 
+moving flexibly between ratios 
+and fractions in order to 
+calculate an unknown, such as 
+7: 4 = 𝑎: 6  
+଻
+ସ = 
+௔
+଺ 
+4𝑎= 42 
+ 
+dividing a quantity in a given 
+ratio, such as sharing $570 in 
+the ratio 2: 1 
+Identify, interpret, compare and use 
+familiar rates, including those 
+represented as graphs that show a 
+quantity varying over time  
+For example: 
+ 
+identifying 30 km/h as a rate, 
+interpreting 30 km as the 
+distance travelled in every one 
+hour, reasoning that this is 
+equivalent to 60 km travelled in 
+
+===== PAGE 16 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+13 
+ 
+ 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using diagrams to explain 
+equivalent ratios and 
+simplification of ratios, 
+ 
+such as 
+4: 6 = 2: 3 (blue part to green 
+part) or 
+4: 10 = 2: 5 (blue part to whole) 
+ 
+comparing measurements, such 
+as 2 g to 0.8 kg 
+2: 800, 1: 400 or  
+ଵ
+ସ଴଴  
+two hours, 15 km in 30 minutes
+or 0.5 km in one minute 
+ 
+determining that purchasing 
+cheese at $3.75/100 grams is a 
+better buy than purchasing the 
+same product at $42/kilogram 
+ 
+given the following  
+distance-time graph of a car 
+travelling to visit a friend, 
+explaining the significance of 
+the horizontal line segments 
+and calculating the average 
+speed of the trip in the first  
+two hours 
+
+===== PAGE 17 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+14 
+Sub-strand: Calculating with number 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Convert between fractions, decimals
+and percentages using flexible and 
+efficient strategies  
+For example: 
+ 
+mentally converting, with 
+jottings if needed, 12.5% to a 
+fraction using thinking, such as 
+12.5% is half of 25% ቀ
+ଵ
+ସቁ and 
+half of  
+ଵ
+ସ  is  
+ଵ଼  and converting  
+ଷ
+ଶ଴  to a percentage using 
+thinking, such as  
+ଷ
+ଶ଴  is 
+equivalent to  
+ଵହ
+ଵ଴଴  and is 
+therefore 15%  
+ 
+converting 37.5% to a fraction, 
+communicating thinking using a 
+sequence of equations, such as 
+ଷ଻.ହ
+ଵ଴଴  =  
+ଷ଻ହ
+ଵ଴଴଴  = 
+ଷ଼  
+ 
+converting  
+ଽ଻
+ଶଶ  to a decimal 
+(2dp), using a calculator 
+Determine percentages of 
+quantities and express one quantity 
+Calculate percentage increases
+and decreases, using knowledge of 
+fractions and decimals to  
+improve efficiency  
+For example:  
+ 
+mentally, with jottings if 
+needed, increasing 360 by 10% 
+using thinking, such as 
+360 + 10% of 360 
+= 360 + 
+ଵ
+ଵ଴  × 360  
+or by using strategies, such as 
+110% of 360 
+= 1.1 of 360 
+ 
+mentally, with jottings if 
+needed, decreasing 360 by 25% 
+using 
+360 −25% of 360 
+= 360 − 
+ଵ
+ସ  × 360  
+or by using strategies, such as 
+75% of 360 
+= 
+ଷ
+ସof 360 
+
+===== PAGE 18 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+15 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+as a percentage of another using
+flexible and efficient strategies  
+For example: 
+ 
+mentally calculating, with 
+jottings if needed, 10% of 570, 
+using the result to calculate 5% 
+and 30% of 570 and finding 25% 
+of 60 using thinking, such as 
+ 
+ଵ
+ସ × 60 is 15 
+ 
+determining the percentage 
+that 0.48 is of 2, communicating 
+thinking using a sequence of 
+equations, such as 
+    0.48
+2 
+= 48
+200 
+= 24
+100 
+= 24% 
+ 
+using a calculator to find 17% of 
+$9.20 
+ 
+using a calculator to increase a 
+population of 5560 by 107% 
+using 
+5560 + 1.07 of 5560 
+or 
+2.07 of 5560 
+ 
+Add and subtract integers using
+flexible and efficient strategies  
+For example: 
+Multiply and divide integers using
+flexible and efficient strategies  
+For example: 
+Use flexible and efficient strategies
+for calculations involving the four 
+operations with real numbers and 
+Use absolute and percentage error
+to compare the result of using 
+approximate rather than exact real 
+numbers on final calculations  
+
+===== PAGE 19 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+16 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+mentally calculating, with 
+jottings if needed,  
+−8 + 20 using 20 −8 
+ 7 −13 using 7 −7 −6 
+3 −(−12) using 3 + 12 
+−6 + (−4) using −6 −4 
+ 
+communicating thinking to the 
+solution of 
+−35 + 48 −(−15) + (−11) 
+using a sequence of equations, 
+such as  
+= −35 + (35 + 13) + 15 −11 
+= (−35 + 35) + 13 + 4 
+= 17 
+ 
+using a calculator to evaluate 
+−54 + (−723) −94 −(−6873) 
+Add and subtract positive fractions 
+with related and unrelated 
+denominators using flexible and 
+efficient strategies  
+For example: 
+ 
+mentally calculating, with 
+jottings if needed, 
+1
+଻଼ + 2
+ଵ
+ସ  using thinking, such as 
+3
+଻଼ + 
+ଵ
+ସ  which is 4
+ଵ଼ 
+ 
+communicating thinking using a 
+sequence of equations for 
+ 
+mentally calculating, with 
+jottings if needed,  ି
+ଷହ
+   ହ  by using 
+thinking, such as 5 × ? = −35 or 
+calculating (2)(−6)(−45) using 
+thinking, such as 
+2 × (−45) × (−6) which is the 
+same as −90 × (−6) or 540 
+ 
+communicating thinking to the 
+solution of 24 × (−13) using a 
+sequence of equations, such as 
+= 20 × (−13) + 4 × (−13) 
+       = −260 + (−52) 
+       = −260 – 52 
+       = −260 – 50 – 2   
+       = −312 
+ using a calculator to evaluate 
+−817 ÷ (−35) to two decimal 
+places (2dp) 
+Use flexible and efficient strategies 
+for calculations involving the four 
+operations with rational numbers, 
+including those written in index 
+form, using rounding, estimation or 
+the context to check reasonableness 
+of results  
+express solutions in exact form or as
+an approximation  
+For example:  
+ 
+determining the unknown side 
+of a right-angled triangle, with a 
+side length of 1 cm and a 
+hypotenuse of 2 cm, as being 
+exactly √3  cm and 
+approximately as 1.73 cm 
+ 
+recognising that solutions can 
+be written exactly or as 
+approximations, such as in a 
+semicircle with a radius of 
+6 units, the area can be written 
+exactly as 18𝜋 square units and 
+approximately as 56.55 square 
+units (2dp) 
+ 
+determining the average speed 
+of light if the distance between 
+the Earth and the Sun is  
+1.496 × 10ଵଵ metres and the 
+time taken for light to travel 
+from the Earth to the Sun is 
+4.987 × 10ଶ seconds, discussing 
+differences between rounding 
+decimal numbers before 
+For example:
+ 
+investigating the use of  
+absolute error to determine 
+percentage error  
+where absolute error is the 
+positive difference between the 
+approximate and exact results 
+in situations, such as 
+ 
+calculating the surface area 
+of cylinders using 3.14 
+instead of the exact value of 
+𝜋 or by using 𝜋 and then 
+rounding the area of the 
+base circles  
+ 
+applying Pythagoras’ 
+theorem or trigonometry to 
+find a missing side in a  
+right-angled triangle and 
+using 1.41 instead of the 
+exact value of √2 
+ 
+applying the compound 
+interest formula and using 
+2.67% interest per annum 
+instead of  2
+ଶ
+ଷ% 
+
+===== PAGE 20 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+17 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+ଶ
+଻ +
+ଶ
+ଷ  and 2
+ଵ
+ଷ − 1
+ଵ
+ଶ , simplifying 
+answers where possible 
+ 
+using a calculator to 
+evaluate  6
+ଷ
+଻ + 18
+ହ
+ଽ  
+Multiply and divide positive 
+fractions using flexible and  
+efficient strategies  
+For example: 
+ 
+mentally calculating, with 
+jottings if needed, 5
+ଵ
+ଶ ÷ 
+ଵ
+ସ  using 
+thinking, such as there are 20 
+quarters in 5 and 2 quarters in  
+ଵ
+ଶ, so the answer is 22 and 
+calculating  
+ଶ
+ଷ × 6
+ଵ
+ଶ  using 
+thinking, such as  
+ଶ
+ଷ× 6 is 4 and  
+ଶ
+ଷ × 
+ଵ
+ଶ  is the same as  
+ଵ
+ଶ × 
+ଶ
+ଷ  or  
+ଵ
+ଷ 
+so the answer is  4
+ଵ
+ଷ 
+ 
+communicating thinking using a 
+sequence of equations, for 
+calculations, such as 
+ 
+ଶ
+ହ × 2
+ଶ
+ଷ  
+ 
+ଶ
+଻ ÷
+ଶ
+ଷ 
+ 
+ଵ
+ଶ× ቀ
+ଶ
+ହ+
+ଷ
+ଵ଴ቁ 
+For example:
+ 
+mentally, with jottings if 
+needed, calculating 
+5 −6ଶ÷ (−4) 
+(2ସ× 10ଶ÷ 4ଶ)ଶ 
+(−8ଶ) ÷  (2ଷ) 
+ 
+communicating thinking using a 
+sequence of equations for 
+calculations, such as 
+−5.1 + 8.3 −0.6 
+1 
+ଵ
+ଶ+ 5 
+ଷ
+ହ 
+and using rounding and 
+properties of numbers to check 
+reasonableness of results 
+ 
+using a calculator to efficiently 
+determine a solution to the 
+hypotenuse of a right-angled 
+triangle (e.g. √3.2ଶ+ 7.85ଶ cm), 
+checking that the solution is 
+reasonable, using an estimation 
+of √3ଶ+ 8ଶ  and knowing  
+that the hypotenuse is the 
+longest side 
+calculating and rounding the
+solution 
+
+===== PAGE 21 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+18 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+simplifying answers where
+possible 
+ 
+using a calculator to evaluate 
+11
+ଶ
+଻÷ ቀ2
+ଶ
+ଷ×
+ଵ
+ଶቁ  
+Multiply and divide positive 
+decimals using flexible and  
+efficient strategies  
+For example: 
+ 
+mentally calculating, with 
+jottings if needed, 0.25 × 1.2 by 
+using thinking, such as 
+ 
+ଵ
+ସ  of 1.2 which is 0.3 
+ 
+communicating thinking using a 
+sequence of equations, for 
+calculations, such as 
+6.4 ÷ 0.8 
+    = 64 ÷ 8 
+    = 8 
+7.8 × 9 
+= 7.8 × 10 −7.8 
+= 78 −7.8  
+= 70.2 
+0.36 ÷ 8  
+0.36 ÷ 2 
+0.18 ÷ 2 
+
+===== PAGE 22 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+19 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+0.09 ÷ 2 
+= 0.045 
+ using a calculator to evaluate 
+27.4 ÷ 1.05   
+Use appropriate rounding, 
+estimation strategies and context to 
+check reasonableness of solutions  
+For example: 
+ 
+recognising that 6
+ଷ
+଻ + 18
+ହ
+ଽ could 
+be rounded to 
+6
+ଵ
+ଶ + 18
+ଵ
+ଶ  and applying 
+appropriate strategies to 
+approximate (≈) the solution, 
+using this estimation as a tool  
+to check if the solution  
+derived from the actual values  
+is reasonable 
+ 
+recognising that 
+695 ÷ 0.527 could be rounded 
+to 700 ÷ 0.5  and that dividing a 
+number by a number less  
+than one, makes it bigger. 
+Applying appropriate strategies 
+to approximate the solution, 
+using this estimation as a tool  
+
+===== PAGE 23 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+20 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+to check that the solution
+derived from the actual values  
+is reasonable  
+ 
+recognising that an interest of 
+4.95% of $500 as being 
+approximately 5% of $500 and 
+that multiplying by a number 
+less than one makes the  
+number smaller. Applying 
+appropriate strategies to 
+approximate the solution, using 
+this estimation and the context 
+as a tool to check that the 
+solution derived from the actual 
+values is reasonable 
+ 
+ 
+
+===== PAGE 24 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+21 
+Sub-strand: Algebraic techniques 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Represent in expanded form,
+evaluate, and compare numbers 
+expressed in index notation, 
+including powers of 10 
+For example: 
+ 
+identifying that 7ଷ has a base of 
+7 and an index or power of 3 
+and can be written as 7 × 7 × 7 
+which can be evaluated as 343 
+ 
+recognising that 
+ 54 = 5 × 5 × 5 × 5 
+      = 625 
+and that 625 is 25 times as great 
+as 25 and 125 times as great as 
+5 
+ 
+identifying and recognising 
+patterns within powers of 10, 
+such as 1000 is the same as 
+10 × 10 × 10 which can be 
+written as 10ଷ which has a base 
+of 10 and an index or power of 3
+ 
+making connections between 
+powers of 10 and place value, 
+such as 4000 (4 × 10ଷ) is 100 
+Develop and apply the index laws
+for numbers in index form with 
+positive-integer and zero indices  
+For example: 
+ 
+exploring expressions, such as 
+       3ଶ× 3ସ 
+ = (3 × 3) × (3 × 3 × 3 × 3) 
+ = 3଺ 
+or 3ଶ ା ସ 
+and  
+     3ହ÷ 3ଶ 
+= 3 × 3 × 3 × 3 × 3
+3 × 3
+ 
+= 3ଷ 
+or  3ହ ି ଶ 
+and  
+    (3ଷ)ଶ 
+= 3ଷ× 3ଷ 
+= 3 × 3 × 3 × 3 × 3 × 3 
+ = 3଺ 
+or  3ଷ×ଶ 
+and  
+     (2 × 3)ଶ 
+= (2 × 3) × (2 × 3) 
+= 2ଶ× 3ଶ 
+and  
+Extend and apply index laws with 
+posiƟve-integer indices and the zero 
+index to variable bases, and simplify 
+where appropriate  
+For example: 
+ 
+generalising numerical 
+expressions, such as 
+2ଶ× 2ଷ= 2ଶ ା ଷ= 2ହ 
+to 𝑎௠× 𝑎௡= 𝑎௠ ା ௡  
+and hence simplifying 
+𝑏ଷ× 𝑏଻× 𝑏 or 3𝑒ଶ× 5𝑒ସ 
+2ହ÷ 2ଷ= 2ହ ି ଷ= 2ଶ   
+to 𝑎௠÷ 𝑎௡= 𝑎௠ ି ௡ 
+and hence simplifying 
+ 
+௛ఴ
+௛య  or  3𝑎𝑦ହ÷ 6𝑎𝑦ଷ 
+(2ଶ)ଷ= 2ଶ × ଷ= 2଺ 
+to (𝑎௠)௡= 𝑎௠௡ 
+and hence simplifying 
+(7𝑒ଶ)ଷ or (2𝑐𝑑ଶ)ସ 
+       ቀ
+ଶ
+ଷቁ
+ଶ
+= ቀ
+ଶభ×మ
+ଷభ×మቁ =
+ଶమ
+ଷమ 
+to ቀ
+௔
+௕ቁ
+௡
+=
+௔೙
+௕೙ 
+Extend and apply index laws
+with positive-integer indices and 
+variable bases, to include 
+negative-integer indices  
+For example: 
+ 
+applying patterns, index 
+notation and laws to establish 
+ 𝑎ିଵ=
+ଵ
+௔, 𝑎ିଶ=
+ଵ
+௔మ, 𝑎ିଷ=
+ଵ
+௔య  
+and 𝑎ି௡=
+ଵ
+௔೙ 
+ 
+representing expressions 
+involving negative-integer 
+indices as expressions involving 
+positive-integer indices and vice 
+versa 
+𝑥ି
+ଷ=
+ଵ
+௫య,  2𝑥ି
+ଵ=
+ଶ
+௫భ=
+ଶ
+௫ ,  
+ 
+ସ
+௫=
+ସ
+௫భ= 4𝑥ି
+ଵ ,  
+ଵ
+௫మ= 𝑥ି
+ଶ 
+ 
+justifying why these statements 
+are true 
+ 
+ଽ௫ఱ
+ଷ௫షఱ= 3𝑥ଵ଴ 
+ 9𝑥ି
+଻÷ 3𝑥ହ≠3𝑥ଶ 
+        (3𝑎ଶ)ଶ× 𝑎ଷ≠6𝑎଻ 
+𝑎ହ× 𝑎ି଻= 1
+𝑎ଶ 
+
+===== PAGE 25 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+22 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+times as great as 40 (4 × 10ଵ) 
+and 1000 times as small as four 
+million (4 × 10଺) 
+Extend knowledge of factors to 
+represent natural numbers as 
+products of prime factors using 
+index notation as appropriate  
+For example: 
+ 
+making connections between a 
+series of equations and a tree 
+diagram to express 24 as a 
+product of primes 
+24 = 6 × 4 
+       = 2 × 3 × 2 × 2  
+       = 3 × 2 × 2 × 2 
+We can write this in index form 
+as  3 × 2ଷ 
+ 
+investigating the use of different 
+pairs of initial factors, such as 
+8 × 3 or 2 × 12 when 
+determining the prime factors  
+of 24 
+൬2
+3൰
+ଶ
+ 
+= ൬2
+3൰× ൬2
+3൰ 
+= 2ଶ
+3ଶ 
+and using words to generalise 
+each of these rules 
+ 
+exploring the meaning of the 
+zero-index using examples, such 
+as 
+5ଶ
+5ଶ= 25
+25 = 1 
+and 
+5ଶ
+5ଶ= 5ଶ ି ଶ 
+      = 5଴ 
+ ∴5଴= 1  
+and by patterning in 
+ 2ସ, 2ଷ, 2ଶ, 2ଵ, 2଴ 
+ 
+applying the index laws to 
+simplify and evaluate, mentally 
+or with a calculator, depending 
+on the complexity of the 
+numbers, communicating 
+thinking using a sequence of 
+equations for expressions,  
+such as 
+and hence simplifying
+ቀ
+ଶ௕
+ଷ௘ቁ
+ଷ
+or ቀ
+ହ
+ସ௫మቁ
+ଶ
+ 
+2ଷ÷ 2ଷ= 2ଷିଷ= 2଴= 1 
+to 𝑎଴= 1 
+and hence simplifying 
+−5𝑘଴ − 7 
+Extend and apply index laws with 
+numerical expressions of base-10 to 
+include negative-integer indices. 
+Develop the relationship between 
+these negative indices and 
+equivalent fractions and decimals  
+For example: 
+ 
+applying patterns, index 
+notation and laws to negative 
+integer numerical indices 
+Patterns 
+10ଵ 
+10଴ 
+10ିଵ 
+10ିଶ 
+10ିଷ 
+10 
+1 
+ଵ
+ଵ଴భ 
+or 
+ଵ
+ଵ଴ 
+ଵ
+ଵ଴మ  
+or 
+ 
+ଵ
+ଵ଴଴ 
+ଵ
+ଵ଴య  
+or 
+ଵ
+ଵ଴଴଴ 
+10 
+1 
+0.1 
+0.01 
+0.001 
+Substitute values into real-life
+linear, quadratic or simple 
+exponential formulas to determine 
+unknowns using digital tools 
+For example: 
+ 
+using software and a real-life 
+situation; such as the height of a 
+toy rocket launched from the 
+ground being modelled by a 
+quadratic given as 
+ ℎ= −16𝑡ଶ+ 128, to find 
+unknown values  
+of ℎ and 𝑡  
+ 
+using spreadsheets to 
+investigate 
+ 𝐴= 𝑃(1 + 𝑖)௡  for different 
+values of unknowns  
+Year 10 optional 
+Simplify algebraic products and 
+quotients involving indices with 
+integer and fractional indices 
+Year 10 optional 
+Establish the connection between 
+fractional indices and surds. Perform 
+the four operations with surds and 
+
+===== PAGE 26 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+23 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and explain connections
+between square numbers and 
+square roots, cube numbers and 
+cube roots, as products of repeated 
+factors  
+For example: 
+ 
+deducing that if 9 × 9 is 9², or 
+81, then √81 = 9 and if 6 × 6 × 6 
+is 6ଷ or 216, then √216
+య
+ = 6 
+ 
+estimating the square root or 
+cube root of a whole number, 
+such as √34  by reasoning that it 
+lies between √25 and √36  and 
+is closer to √36  so could be 
+estimated to be 5.8. Using a 
+calculator to confirm a solution 
+of 5.83 (2dp) 
+(2ଶ)ଷ× 2 × 2ଷ 
+((3଼÷ 3଺) × 3ଶ) ÷ 3଴ 
+       ൬4
+3൰
+ଶ
+ 
+ 
+using index laws 
+     10ଶ÷ 10଺ 
+= 10ଶ
+10଺ 
+=
+10 × 10
+10 × 10 × 10 × 10 × 10 × 10 
+= 1
+10ସ 
+and making connections to 
+   10ଶ÷ 10଺ 
+= 10ଶି଺ 
+= 10ିସ 
+∴10ିସ=
+1
+104  or  1 ÷ 10 000 
+ explaining when using scientific 
+notation that  
+3.2 × 10ିସ= 3.2 ×
+1
+10 000 =
+3.2
+10 000  
+or 0.00032 
+rationalise the denominator
+if required 
+Year 10 optional 
+Interpret and use base-10 
+logarithmic scales on graphs of  
+real-life contexts  
+Use real-world contexts or
+concrete materials to introduce 
+the concept of a variable to 
+represent a number using a letter. 
+Create simple algebraic 
+expressions and evaluate by 
+substituting a given value for  
+the variable/s  
+Extend and apply knowledge of
+additive and multiplicative 
+partitioning, order of operations and 
+the associative and commutative 
+laws of numbers, to create or 
+simplify algebraic expressions 
+involving the four operations  
+Explore and apply the distributive
+law to expand and factorise 
+algebraic expressions with a 
+common algebraic factor,  
+including collecting like terms  
+where appropriate  
+Extend and apply knowledge of
+the expansion of binomial  
+products to explore the 
+factorisation of monic quadratics 
+
+===== PAGE 27 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+24 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+For example:
+ 
+introducing a variable using 
+unknown numbers of 
+chocolates in two diﬀerent 
+sized bags where 𝑚= number 
+of chocolates in one small bag, 
+𝑔= number of chocolates in 
+one large bag, creating 
+expressions, such as 
+ 
+the number of chocolates in 
+three large bags and one 
+small bag as being 
+3 × 𝑔+ 𝑚= 3𝑔+ 𝑚 
+ 
+the difference between the 
+number of chocolates in the 
+bags as being 𝑔−𝑚 
+ 
+combining the number of 
+chocolates in five large bags 
+and two small bags and 
+sharing them between four 
+people as being    
+ହ௚ାଶ௠
+ସ
+ 
+and evaluating each expression if 
+the numbers of chocolates in 
+each bag is known 
+For example:
+ 
+simplifying the following 
+algebraic expressions 
+−𝑚+ 2 −5𝑚−8 + 2𝑚 
+3𝑝× 2𝑒× (−5) 
+15𝑥÷ 3𝑥 
+3𝑝
+6 
+ 
+considering the accuracy of the 
+following equaƟons and 
+explaining thinking  
+𝑎÷ 6𝑏 = 𝑎÷ 2 ÷ 3𝑏 
+       −12ℎ× 10𝑎= 3ℎ× (−8 × 5𝑎) 
+ 3𝑎× (−5𝑏) × 2𝑔= 5𝑎× (−2𝑏) × 3𝑔 
+  𝑚÷ (−3) = 5𝑚÷ (−15) 
+20 ÷ (𝑎+ 𝑏) = (20 ÷ 𝑎) + (20 ÷ 𝑏) 
+ 
+creating and comparing 
+algebraic expressions to 
+represent the total number of 
+chocolates for a group of four 
+people, each holding a bag that 
+has the same unknown number 
+of chocolates, if each person is 
+given an extra three chocolates  
+For example:
+ 
+extending expansion and 
+factorisation using the 
+distributive law with  
+numerical factors, to expansion 
+and factorisation with  
+algebraic factors 
+    2𝑏(𝑚+ 3𝑐) 
+= 2𝑏× 𝑚+ 2𝑏× 3𝑐 
+= 2𝑏𝑚+ 6𝑏𝑐 
+and factorising using reverse 
+thinking 
+     2𝑏𝑚+ 6𝑏𝑐 
+= 2𝑏× 𝑚+ 2𝑏× 3𝑐 
+= 2𝑏(𝑚+ 3𝑐) 
+verifying factorisation using the 
+distributive law 
+ 
+expanding and simplifying 
+expressions, such as  
+3𝑏(2𝑏−𝑐+ 1)  
+−2𝑘(−3𝑘+ (−2)) 
+−2𝑏(𝑏−3) −7𝑏+ 5  
+𝑥(𝑥+ 2) −6(𝑥−3) 
+communicating thinking using a 
+sequence of equations  
+For example:
+ 
+extending knowledge of 
+expansion of 
+(𝑥+ 4)(𝑥+ 3)  
+ 
+to make connections to 
+factorising quadratics using 
+knowledge of multiples and 
+partitioning 
+𝑥ଶ+ 7𝑥+ 12 
+= 𝑥ଶ+ 4𝑥+ 3𝑥+ 12 
+= 𝑥(𝑥+ 4) + 3(𝑥+ 4) 
+= (𝑥+ 4)(𝑥+ 3)  
+ 
+factorising 𝑥ଶ+ 12𝑥+ 20 by 
+making connections between 
+the expansion of binomial 
+products and the area model 
+and generalising to a factorising 
+strategy involving factors of 20 
+
+===== PAGE 28 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+25 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ using concrete materials, such as 
+algebra tiles, to visually 
+represent numbers as variables 
+ 
+using expressions of everyday 
+formulas, such as carry-on bag 
+size for an aeroplane flight 
+being determined by the length 
++ width + depth (𝑙+ 𝑤+ 𝑑) and 
+using substitution to determine 
+if a bag is of an appropriate size  
+Extend and apply the associative 
+and commutative laws and 
+properties of numbers to include 
+variables  
+For example: 
+ 
+considering the accuracy of the 
+following equaƟons and 
+explaining thinking 
+Extend and apply knowledge of the
+distributive law with numbers to 
+algebraically expand and factorise 
+expressions with a common 
+numerical factor  
+For example: 
+ 
+connecting the visual 
+representation of 2 × 37 using 
+an area model 
+= 60 + 14 
+to 2(𝑎+ 7) 
+= 2𝑎+ 14, 
+factorising using reverse 
+thinking 
+    2𝑎+ 14 
+= 2 × 𝑎+ 2 × 7 
+= 2(𝑎+ 7)  
+and verifying the factorisation 
+using the distributive law 
+ 
+factorising expressions, such as  
+9𝑚𝑝−3𝑚+ 6𝑚𝑒  
+ −2𝑑ଶ−3𝑑ଷ 
+Explore and apply the  
+distributive law to expand binomial 
+products, collecting like terms 
+where appropriate 
+For example:  
+ 
+connecting the visual 
+representation of expansion 
+with numbers, such as 
+24 × 37 = (20 + 4)(30 + 7) 
+ 
+to 
+    (𝑎+ 𝑏)(𝑐+ 𝑑) 
+= 𝑎𝑐+ 𝑎𝑑+ 𝑏𝑐+ 𝑏𝑑 
+ 
+ 
+factorising quadratics, such as 
+𝑥ଶ−14𝑥+ 24 , 𝑥ଶ−3𝑥−28 and 
+𝑥ଶ+ 9𝑥−22 
+Year 10 optional 
+Factorise monic and non-monic 
+quadratic expressions  
+using techniques, such as 
+completing the square, perfect 
+squares, difference of squares and 
+grouping in pairs for four-term 
+expressions 
+Year 10 optional 
+Explore efficient strategies to 
+simplify expressions that involve 
+addition, subtraction, multiplication 
+or division of algebraic fractions 
+with an algebraic expression in the 
+numerator and/or denominator, 
+including the use of factorisation 
+
+===== PAGE 29 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+26 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+expanding and simplifying 
+expressions, such as  
+5 (2𝑔−ℎ+ 6)  
+−4 (−3𝑝+ (−2)) 
+−7𝑏+ 5(𝑏−3)  
+communicating thinking using a 
+sequence of equations 
+ 
+factorising expressions, such as  
+−4 −12𝑘  
+ 2𝑚−6𝑚ଷ+ 18 −4𝑑𝑒 
+and using to expand and
+simplify (𝑥+ 3)(𝑥+ 8) 
+ 
+ = 𝑥ଶ+ 8𝑥+ 3𝑥+ 24    
+ = 𝑥ଶ+ 11𝑥+ 24             
+ 
+communicating thinking of 
+expansion and simplification of 
+equations, such as 
+(𝑦−4)ଶ 
+(𝑐+ 8)(𝑐−8) 
+(2𝑦−3𝑝)(−𝑦−7𝑝)  
+ (𝑏+ 2)ଶ−5 
+Year 9 optional 
+Explore efficient strategies to 
+simplify expressions that involve 
+addition, subtraction,  
+multiplication or division of 
+algebraic fractions with an algebraic 
+term in the numerator and a whole 
+number denominator  
+
+===== PAGE 30 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+27 
+Sub-strand: Linear and non-linear equations and inequalities 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Solve simple linear equations
+involving up to two operations and 
+verify the solution by substitution  
+For example: 
+ 
+using a context, such as ‘Three 
+bags with equal numbers of 
+chocolates were tipped into a 
+container that already held five 
+chocolates. There were 62 
+chocolates altogether. How 
+many were in each bag?’ 
+ 
+exploring and comparing a 
+variety of strategies, such as the 
+balance model, backtracking or 
+inspection, to solve an equation, 
+showing a sequence of steps to 
+communicate thinking. Checking 
+the solution by substitution 
+using jottings or calculator for 
+equations, such as 
+       5𝑚−3 = 12 
+−3 + 𝑚= 11 
+𝑒−3 = −2 
+48 = 14 + 2𝑝 
+Solve linear equations involving
+up to three operations, including 
+those with negative coefficients  
+or requiring collection of like  
+terms, and verify the solution  
+by substitution  
+For example: 
+ 
+using a strategy, such as the 
+balance model, backtracking or 
+inspection, to solve an equation, 
+showing a sequence of steps to 
+communicate thinking. Checking 
+the solution by substitution 
+using jottings or calculator for 
+equations, such as 
+     1 −2𝑝= −10 
+3 −4ℎ+ 6ℎ= 7  
+4.3 = 5𝑦 −1.2
+2
+ ଼
+௣
+ଷ = 
+ଷ
+ହ      
+ 
+communicating thinking to solve
+        3𝑝−5𝑞= 5 when 𝑝= − 4 
+Solve linear equations involving
+brackets and/or a variable on each 
+side of the equation, and verify the 
+solution by substitution  
+For example: 
+ 
+using a strategy, such as the 
+balance model, backtracking or 
+inspection, to solve an equation, 
+showing a sequence of steps to 
+communicate thinking. Checking 
+the solution by substitution, 
+using jottings or calculator for 
+equations, such as 
+3(𝑦 − 5) = −6𝑦  
+9 = 7(−4𝑟−1) 
+3𝑑−7 = 5𝑑+ 8 
+ଶ ି ௘
+ହ
+= −4   
+       4 ൬3
+4 𝑐−3൰= 2𝑐+ 2 
+ 
+communicating thinking to solve 
+5𝑒+ 2𝑓= 7.5 −3𝑓  when 𝑒= 0 
+or when 𝑓= 0 
+ 
+Solve one-variable linear
+inequalities involving brackets 
+and/or a variable on each side. 
+Represent the solution on a  
+number line and verify the solution 
+by substitution  
+For example: 
+ 
+using a strategy, such as the 
+balance model, backtracking or 
+inspection, to solve an 
+inequality, showing a sequence 
+of steps to communicate 
+thinking for inequations, such as 
+−2𝑚−1 ≥−3𝑚+ 2, 
+representing solutions as 
+ 
+and checking by substituting a 
+value greater than 3, such as 
+𝑚= 4, to show that the 
+inequality holds true 
+−2(4) −1 ≥−3(4) + 2 
+−9 ≥−10 
+
+===== PAGE 31 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+28 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+𝑒
+2 −1 = 5 
+0.1𝑣= 12 
+1
+4 + 2𝑘= 3
+8 
+Note: equations involving 
+multiplication and division of 
+negative integers are introduced 
+in Year 8; however, equations, 
+such as 6 −𝑤= 5, that can be 
+solved by inspection are in the  
+Year 7 curriculum 
+Determine and explain why there
+are two solutions to a quadratic 
+equation of the form  
+𝑥ଶ= 𝑘 if 𝑘> 0  
+For example: 
+ 
+reasoning that for 𝑥ଶ= 9 there 
+are two values of 𝑥 that satisfy 
+this quadratic equation given 
+that 3ଶ and (−3)ଶ both equal 9 
+ 
+solving 𝑏ଶ+ 7 = 71 and verifying 
+solutions 
+ 
+using knowledge of quadratic 
+equations in situations involving 
+Pythagoras’ theorem, 
+recognising that the solution 
+must be positive because of the 
+context 
+Determine and explain why there
+are up to two solutions to a 
+quadratic equation of the form 
+𝑎𝑥ଶ= 𝑘 and verify the possible 
+solution/s by substitution  
+For example: 
+ 
+reasoning and appropriately 
+communicating that for 𝑥ଶ= 𝑘  
+there could be 
+ 
+two solutions (𝑘> 0) 
+ 
+one solution (𝑘= 0)  
+ 
+no real solutions (𝑘< 0) 
+ 
+considering 2𝑥ଶ= 10, explaining 
+that 𝑥 can be expressed in exact 
+form as  
+𝑥= ±√5 or as a decimal 
+approximation of 
+ 𝑥≈±2.24 (2dp) 
+and checking by substitution 
+2(√5)ଶ and 2(−√5)ଶ  
+both equal 10 
+Year 9 optional 
+Solve linear equations that involve 
+simple algebraic fractions with 
+numerical denominators and verify 
+the solution by substitution 
+Determine the solution to linear
+simultaneous equations in the forms 
+𝑦= 𝑚𝑥+ 𝑐 or 𝑎𝑥+ 𝑏𝑦= 𝑐  
+graphically and verify the solution 
+by substitution  
+For example: 
+ 
+graphing linear equations,  
+such as 
+𝑦= 2𝑥+ 1 and 𝑥+ 𝑦= 4, 
+manually or digitally 
+verifying that (1, 3) is the point 
+of intersection of the lines 
+
+===== PAGE 32 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+29 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 9 optional
+Solve quadratic equations in 
+factorised form using the null factor 
+theorem and verify the solution/s  
+by substitution 
+Note: consider graphs of parallel
+lines that will have no solution 
+Year 10 optional 
+Determine the solution to linear 
+simultaneous equations in the forms 
+𝑦= 𝑚𝑥+ 𝑐  or 𝑎𝑥+ 𝑏𝑦= 𝑐  
+algebraically and verify the solution 
+by substitution or using digital tools 
+Year 10 optional 
+Identify the region on the Cartesian 
+plane defined by linear inequalities  
+Year 10 optional 
+Solve monic and non-monic 
+quadratic equations graphically and 
+algebraically, including the use of 
+the quadratic formula, factorising 
+techniques and digital tools, and 
+verify the solution/s by substitution  
+Year 10 optional 
+Use algebraic techniques to solve 
+exponential equations that involve 
+terms with related bases  
+Year 10 optional 
+Solve cubic equations in the form 
+𝑎𝑥ଷ= 𝑘  or in factored form, 
+algebraically or using digital tools 
+
+===== PAGE 33 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+30 
+Sub-strand: Linear and non-linear patterns and relationships 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore, describe and represent
+concrete and real-world, linear and 
+non-linear growing patterns using a 
+table of values and a graph. 
+Determine unknown values in  
+the pattern  
+For example: 
+ 
+using diagrams or concrete 
+materials, such as matchsticks 
+and counters, to continue 
+growing patterns and represent 
+as number sequences in 
+situations, such as chairs around 
+connecting square tables
+or growing dots
+Use a table of values to move
+flexibly between the equation of a 
+line represented by 𝑦= 𝑚𝑥+ 𝑐 and 
+its graph and make connections 
+between the algebraic and graphical 
+solution of the equation. Explore 
+and explain similarities and 
+differences between multiple lines 
+on the same axes  
+For example: 
+ 
+using an equation, such as 
+ 𝑦= 5𝑥−1, generate a table of 
+values, plot the coordinates on 
+the Cartesian plane and create a 
+line, recognising that there is an 
+infinite number of ordered pairs 
+in any given linear relationship. 
+Connecting the graph of 
+ 𝑦= 5𝑥−1  to solving 
+equations, such as  
+9 = 5𝑥−1 and 1.5 = 5𝑥−1, 
+graphically and algebraically 
+ 
+extracting a table of values from 
+a linear graph and using the 
+Use the Cartesian plane to explore
+finding the distance, gradient and 
+midpoint between two points  
+For example: 
+ 
+plotting and joining two points 
+on a Cartesian plane to form a 
+line segment. Investigating, 
+explaining and validating 
+strategies, such as 
+ 
+using vertical and horizontal 
+units between points to 
+form sides of a right-angled 
+triangle and applying 
+Pythagoras’ theorem to 
+determine the distance 
+between the two points 
+ 
+counting the vertical 
+difference and horizontal 
+difference between the 
+points and dividing the 
+vertical rise by the 
+horizontal run to determine 
+gradient (𝑚). Connecting 
+gradient to ratio, such as 3 
+Use a table of values to plot points
+and graph quadratic functions of the 
+form 𝑦= 𝑎𝑥ଶ+ 𝑐. Identify and relate 
+key graphical and algebraic features 
+and make connections to the 
+graphical and algebraic solution/s of 
+𝑎𝑥ଶ+ 𝑐= 𝑘. Use digital tools to 
+explore the shapes, features and 
+related solutions to more complex 
+quadratic functions 
+For example: 
+ 
+making connections between 
+graphical and algebraic 
+representations of quadratics, 
+such as 
+ 
+the shape and concavity of 
+the parabola and the value 
+of the coefficient of 𝑥ଶ 
+ 
+the vertical intercept and 
+the value of 𝑐 
+ 
+the horizontal intercepts 
+when they exist 
+ 
+approximate solutions to 
+examples, such as 
+
+===== PAGE 34 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+31 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using words to
+generalise rules 
+ 
+using variables  
+meaningfully to express 
+rules as algebraic equations 
+ 
+producing a table of values  
+ 
+plotting points in the first 
+quadrant on the Cartesian 
+plane and describing the 
+shape of the relationship 
+and using the sequence rule, 
+table of values or graph to 
+determine unknown values 
+table to determine the equation
+of the line 
+For the following graph 
+ 
+a corresponding table of values 
+can be produced 
+𝑥 
+−1
+0
+1
+2
+𝑦 
+3
+1
+−1
+−3
+The equation of the linear 
+relationship can be determined 
+as 𝑦= −2𝑥+ 1 by recognising 
+the values of 𝑚 and 𝑐 as the 
+constant difference between 
+values of 𝑦 (i.e. −2) and  
+the value of 𝑦 when 𝑥= 0 
+respectively 
+units to the right and 6 units
+up, is the same as 5 units to 
+the right and 10 units up. 
+Distinguishing between line 
+segments with positive and 
+negative gradients and 
+those with the same 
+gradient. Exploring 
+gradients of horizontal and 
+vertical line segments 
+ 
+using the halfway points  
+of the vertical and 
+horizontal units to 
+determine the midpoint 
+ 
+Move flexibly between the equation 
+of a line, represented by 
+ 𝑦= 𝑚𝑥+ 𝑐, and its graph using the 
+gradient and 𝑦-intercept. Graph the 
+−𝑥ଶ+ 4 = 3.2 using the
+graph of 𝑦= −𝑥ଶ+ 4 and 
+checking solutions using 
+digital tools 
+ 
+using digital tools to graph easily 
+factorised monic quadratics, 
+such as 
+ 𝑦= 𝑥ଶ+ 4𝑥 and 
+ 𝑦= 𝑥ଶ−7𝑥+ 10, exploring 
+connections between the 
+graphical and algebraic 
+representations, and 
+approximating and checking 
+solutions to related equations  
+Use a table of values to plot points 
+and graph exponential functions of 
+the form 𝑦= 𝑎௫ where 𝑎> 0. 
+Identify and relate key graphical and 
+algebraic features and use these to 
+determine graphical solutions of 
+related equations. Use digital tools 
+to explore the shapes, features and 
+related solutions to more complex 
+exponential functions 
+ 
+
+===== PAGE 35 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+32 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+investigating and describing 
+similarities and differences 
+between multiple lines, using 
+terms such as steepness, 
+direction, parallel, non-parallel, 
+pass through the same point, 
+increasing and decreasing 
+equation of a line represented in
+𝑎𝑥+ 𝑏𝑦= 𝑐form  
+For example: 
+ 
+interpreting the coefficient of 
+𝑥(𝑚) in 𝑦= 𝑚𝑥+ 𝑐 form as the 
+gradient/slope/rate of change 
+and the constant (𝑐) as the 
+vertical intercept 
+ 
+finding the equation of a line 
+given the gradient (𝑚) and the 
+vertical intercept or by 
+extracting the gradient and 
+vertical intercept from a graph 
+and using the equation to 
+determine whether a given 
+point lies on the line  
+ 
+graphing an equation of a  
+line using the gradient and 
+vertical intercept 
+ in 𝑦= 𝑚𝑥+ 𝑐 form, verifying 
+the accuracy of the drawn graph 
+using another point 
+ 
+graphing an equation of a line 
+written in 𝑎𝑥+ 𝑏𝑦= 𝑐  form 
+using the vertical and horizontal 
+intercepts (i.e. when 𝑥= 0 and 
+For example:
+ 
+making connections between 
+graphical and algebraic 
+representations of exponentials, 
+such as 
+ 
+the vertical intercept 
+ 
+the direction of the graph 
+given the nature of 𝑥 
+ 
+the shape of the graph given 
+the value of 𝑎 
+ 
+the asymptote 
+ 
+approximate solutions to 
+examples, such as 2௫= 3 
+and 𝑦= 2ଶ.ହ using the graph 
+of 𝑦= 2௫  and checking 
+solutions using digital tools 
+ 
+using digital tools to explore 
+real-life exponential growth and 
+decay situations, making 
+connections between the 
+algebraic and graphical forms 
+
+===== PAGE 36 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+33 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+when 𝑦= 0), verifying the
+accuracy of the drawn graph 
+using another point 
+ 
+investigating to compare and 
+contrast graphs and equations 
+of horizontal, vertical and 
+parallel lines 
+Year 9 optional 
+Develop and use the algebraic 
+formulas for finding the distance, 
+midpoint and gradient between  
+two points 
+Year 9 optional 
+Rearrange formulas, including  
+𝑎𝑥+ 𝑏𝑦= 𝑐, to change the subject 
+of the formula 
+Identify rates as direct proportion,
+represent algebraically and 
+graphically, and use both forms  
+to predict unknown values and 
+interpret in the context of  
+the situation  
+For example: 
+ 
+identifying that the relationship 
+between the rate at which 
+water drips from a tap into a 
+Identify and distinguish between
+linear, quadratic and exponential 
+functions represented by equations, 
+tables of values and graphs 
+For example: 
+ 
+recognising that in a table of 
+values, if there is a constant 
+difference between consecutive 
+values of the dependent 
+
+===== PAGE 37 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+34 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+bucket in each minute (𝑑) and
+the amount of water in the 
+bucket (𝑤) in millilitres are 
+directly proportional. 
+Recognising that if there are 
+600 mL in the bucket after 40 
+minutes, then this can be 
+represented as 𝑤= 15𝑑. 
+Representing the equation 
+graphically, recognising that 
+𝑚= 15 and that the 
+ 𝑦-intercept is (0, 0), predicting 
+unknown values and 
+interpreting in context 
+Use a table of values to plot points 
+and graph quadratic functions of the 
+form 𝑦= 𝑎𝑥ଶ, describe key features 
+and make connections to the 
+algebraic solution/s of 𝑎𝑥ଶ= 𝑘  
+For example: 
+ 
+graphing 𝑦= 3𝑥ଶ manually or 
+digitally, recognising that it is a 
+parabola with an axis of 
+symmetry at 𝑥= 0 and a turning 
+point at (0, 0) and using it to 
+variable, then the function is
+linear. If there is a constant 
+second difference between 
+consecutive values of the 
+dependent variable, then the 
+function is quadratic, and if the 
+ratio between the consecutive 
+values of the dependent 
+variable is constant, then the 
+function is exponential 
+ 
+investigating the links between 
+algebraic and graphical 
+representations of each 
+function type using digital tools 
+Year 10 optional 
+Use gradient and/or point/s to 
+graphically and algebraically 
+determine equations of parallel and 
+perpendicular lines  
+Year 10 optional 
+Graph monic and non-monic 
+quadratics of the form  
+𝑦= 𝑎𝑥ଶ+ 𝑏𝑥+ 𝑐  or 
+𝑦= 𝑎(𝑥−𝑝)ଶ+ 𝑞  and their 
+transformations, manually and using 
+
+===== PAGE 38 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+35 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+solve 3𝑥ଶ= 12, verifying the
+solution algebraically 
+  3𝑥ଶ= 12 
+  𝑥ଶ= 4 
+      𝑥= ±2 
+and connecting to the graphical 
+solutions of (−2, 12) and (2 , 12) 
+Year 9 optional 
+Investigate indirect proportion, 
+represent algebraically and 
+graphically, use both forms  
+to predict unknown values  
+digital tools. Identify and connect
+key graphical and algebraic features 
+and make connections to the 
+algebraic solution/s 
+Year 10 optional 
+Explore and use strategies, including 
+digital tools, to model the equation 
+of a quadratic function from a table 
+of values or graph 
+Year 10 optional 
+Explore, describe and interpret 
+circles and rectangular hyperbolas 
+where the asymptotes are parallel 
+to the axes, and their 
+transformations, using digital  
+tools, and make connections 
+between the algebraic and  
+graphical representations  
+
+===== PAGE 39 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+36 
+ 
+Sub-strand: Financial mathematics 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Identify the features of transactional
+statements and verify transactions. 
+Explain reasons for checking and 
+keeping financial records 
+For example: 
+ 
+idenƟfying features of 
+transacƟonal statements (e.g. 
+bank, subscripƟon, canteen, 
+transport, prepaid debit card), 
+including account informaƟon, 
+statement period, transacƟon 
+details (credits and debits), 
+opening and closing balances, 
+fees and interest earned  
+(if appropriate) 
+ 
+explaining the importance of 
+checking and keeping receipts 
+Identify the advantages and
+disadvantages of various forms of 
+payment for goods and services, and 
+determine penalties, such as 
+interest charged and fees, inherent 
+in these payments  
+For example: 
+ 
+considering payment forms, 
+such as cash, EFTPOS, debit and 
+credit payments, online 
+payments, gift cards and 
+transfers, including potential 
+savings, costs and risks 
+ 
+identifying and calculating 
+surcharges and total amounts 
+paid when using a debit card for 
+Explore, explain and perform
+calculations that relate to earning 
+income. Identify the elements of an 
+income statement/pay slip, 
+including employer superannuation 
+contributions and income tax as a 
+deduction from gross income  
+For example: 
+ 
+explaining that individuals earn 
+an income in various ways, 
+including salaries, wages 
+(penalty rates),  
+self-employment, commission 
+or piecework 
+ 
+determining the total wage 
+earned for a casual employee on 
+$23.50 per hour who works ﬁxed 
+hours on the weekend and 
+Explore, explain and calculate 
+income tax, including the use of  
+tax tables  
+For example:  
+ 
+invesƟgaƟng diﬀerences in tax 
+paid for incomes $10 either  
+side of one of the intervals in  
+a current ﬁnancial year  
+tax bracket 
+Apply repeated simple interest to 
+develop the compound interest 
+formula and solve problems that 
+relate to saving and borrowing  
+For example: 
+ 
+using a loan of $5000 over three 
+years at 4% p.a., show repeated 
+yearly simple interest 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+and interpret in the context of
+the situation  
+
+===== PAGE 40 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+37 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+and invoices, and tracking and 
+verifying transacƟons for the 
+purpose of budgeƟng and 
+idenƟfying suspicious 
+transacƟons, such as 
+‘Alice paid for a meal at a cafe 
+electronically. She had bought a 
+coffee for $5.50 and a wrap for 
+$12.75. When she checked her 
+bank statement on her bank 
+app, she realised she had been 
+charged $31. Explain using 
+calculations, how the error 
+could have occurred and  
+what Alice could do to address 
+the mistake.’ 
+purchases (0.75% transaction
+fee on top of the $25 purchase) 
+ 
+determining penalties for not 
+adhering to the terms of credit, 
+such as ‘buy now, pay later’ 
+schemes, in situations such as 
+‘Bill made an $80 purchase, 
+paying four $20 instalments. He 
+was late to pay each monthly 
+instalment which incurred  
+a $10 late fee each month.  
+What percentage of the 
+purchase price did Bill spend on 
+late fees?’  
+earns Ɵme and a half for all 
+hours worked on a Saturday  
+ 
+determining the exact 
+commission on the sale of a 
+$755 painƟng given the 
+commission rate of 4 
+ଶ
+ଷ% 
+ 
+explaining the features and 
+calculaƟons within pay slips 
+relaƟng to pay period, payment 
+details, deducƟons, tax paid, 
+superannuaƟon, gross and  
+net pay, overƟme and  
+bonuses, year-to-date totals, 
+employer informaƟon and 
+payment method 
+Develop and use the simple interest 
+formula to solve problems relating 
+to saving and borrowing  
+For example: 
+ 
+a car loan of $14 500 is charged 
+with 9.25% p.a. simple interest 
+over a three-year period. How 
+much interest will be charged 
+for each month of the loan? 
+calculaƟons and demonstrate 
+connecƟons to the compounded 
+interest formula 
+ 
+using the compound interest 
+formula to calculate the exact 
+interest earned for an 
+investment of 
+$12 000 at 3
+ଵ
+ଷ% over four years, 
+compounded yearly 
+ 
+comparing different finance 
+options, such as ‘Is it better to 
+borrow $2000 from a store 
+finance program that offers 
+8.55% p.a. simple interest over 
+18 months or from a bank that 
+offers 7.2% p.a., compounded 
+yearly, over two years?’ 
+Year 10 optional 
+Use authenƟcated websites to 
+invesƟgate how changes to the 
+principal, rate of return, voluntary 
+contribuƟons and Ɵme can aﬀect 
+superannuaƟon balances 
+or 
+Compare characterisƟcs of 
+insurance, such as young driver car 
+
+===== PAGE 41 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+38 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 9 optional
+Use authenƟcated websites to 
+explore and compare diﬀerent 
+savings account opƟons based on 
+their characterisƟcs (interest rates, 
+fees, withdrawal policy) 
+or 
+Compare price, quality, terms  
+and condiƟons of goods and 
+services, such as phone plans and 
+digital subscripƟons 
+insurance or holiday insurance, and 
+recognise that the cost is higher 
+when the risk is higher 
+
+===== PAGE 42 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+39 
+Sub-strand: Modelling with number and algebra 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+In real-world situations involving
+whole numbers, positive fractions, 
+decimals and percentages, addition 
+and subtraction of integers, 
+numbers in index form, linear 
+equations with up to two 
+operations, simple number  
+patterns and/or transactional 
+money statements 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+For example: 
+ 
+discussing assumptions, if any, 
+choosing a representation, such 
+In real-world situations involving
+rational and irrational numbers, 
+ratios, rates, percentage increases 
+and decreases, numbers in index 
+form, the distributive law, 
+factorisation, linear equations with 
+up to three operations, linear or 
+simple quadratic relationships 
+and/or penalties involved in 
+different forms of goods and 
+services payment 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+In real-world situations involving
+scientific notation, real numbers, 
+linear equations with variables 
+and/or brackets on either side of 
+the equation, quadratic graphs and 
+equations, direct proportion and/or 
+simple interest, earning income or 
+income statements 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+For example: 
+ 
+suppose ‘Moogle Millions’ made 
+a profit of approximately 
+In real-world situations involving
+real numbers, absolute and 
+percentage error, linear inequalities, 
+simultaneous equations, real-world 
+formulas, quadratic or exponential 
+functions, taxation and/or 
+compound interest 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+For example: 
+ 
+using situations such as ‘Jackson 
+invests $12 500 in an account, 
+paying 3
+ଵ 
+ଷ% compounded 
+fortnightly for 
+
+===== PAGE 43 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+40 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+as a number line or numerical
+equation, and communicating a 
+solution using correct 
+mathematical notation and use 
+of context, given a problem, 
+such as ‘In Nepal, the 
+temperature overnight was 
+reported to be between −11° 
+and −13°. It rose by around 20° 
+to 25° to reach its daytime peak 
+before falling slightly less than 
+its rise. What was the final 
+temperature?’ 
+ 
+discussing assumptions, their 
+impact on solutions and 
+communication of solutions in 
+problem situations, such as 
+‘A restaurant serves between 60 
+and 80 customers for lunch each 
+day. Many customers order the 
+scallop dish which requires 
+around 0.15 kg of scallops per 
+person. What weight of  
+scallops should the chef order 
+each week?’ 
+While an exact number of 
+For example:
+ 
+using a supermarket catalogue 
+to create problems, such as 
+‘Which is the better deal, and by 
+how much, when buying two 
+orange juices costing $4.15 each 
+– a discount of 30%, buying one 
+and getting one for half price or 
+three for $10?’ 
+While it is clear an exact 
+solution is required, it is 
+necessary to discuss 
+assumptions, such as only 
+wanting to buy two juices, even 
+if buying three could be cheaper 
+per juice, and rounding all 
+calculations to the nearest 5c. 
+Such assumptions would impact 
+the representation, solution and 
+communication of the solution 
+ 
+‘A childcare centre has 26 
+children, but some children 
+need extra supervision. Using a 
+ratio of one adult per three 
+children for most children and 
+one adult per two for the rest, 
+determine how  
+4.15 × 10଻dollars in 2025. The
+company hopes profits will 
+increase significantly over the 
+next few years. Explore what 
+would happen if profits 
+doubled, tripled or increased by 
+a fixed amount each year. 
+Which pattern best explains 
+how profits would become 100 
+times higher by 2029? 
+Discussing that as the original 
+profit would have been rounded 
+in its representation in scientific 
+notation, it follows that the 
+solution will also be 
+rounded. Exploring 
+assumptions, such as no market 
+changes over the stated years, 
+representing the solution using 
+scientific notation and applying 
+index laws (4.15 × 10଻× 10ଶ), 
+communicating the answer 
+using scientific notation and  
+the context 
+ 
+using a newspaper bank 
+advertisement on rates paid for 
+2
+ଵ
+ଶ  years. Compare the amount 
+earned if the interest is 
+calculated using 3.33% rather 
+than its exact 3
+ଵ
+ଷ%.’ Discussing 
+that an exact solution is 
+required, with assumptions, 
+such as there are 26 fortnights 
+in a year. Choosing to represent 
+the situation using the 
+compound interest formula  
+and communicating the 
+comparison between rates  
+using the exact difference, 
+percentage difference and 
+language of the problem 
+ 
+the cross-sectional shape of a 
+tunnel can be represented by 
+the quadratic equation 
+ 𝑦= −0.75𝑥ଶ+ 12. Determine, 
+using digital tools, (i) the 
+maximum height of the tunnel 
+and (ii) the maximum height a 
+truck entering a tunnel could be, 
+if its width is 4.8 m. Discussing  
+assumptions, such as the 𝑥-axis 
+is level ground and the tunnel is 
+
+===== PAGE 44 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+41 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+kilograms is required to place a
+weekly order, this is an estimate 
+based on assumptions, such as 
+number of days per week the 
+restaurant is open, number of 
+people choosing the dish, 
+importance of minimising 
+wastage and customer 
+expectation the dish will be 
+available. Considering the range 
+of possible solutions based on 
+different assumptions and, 
+therefore, when communicating 
+a solution, the consequent need 
+to describe and qualify the 
+assumptions and constraints on 
+which it is based 
+ 
+people often exercise at  
+60–80% of their maximum heart 
+rate. A formula determining the 
+maximum heart rate in beats 
+per minute a person should 
+reach when exercising can be 
+calculated using:  
+220 − age (in years). What 
+would be the target heart rate 
+many adults should be caring for
+the children?’ 
+Discussing that an exact solution 
+is required and that it needs to 
+be assumed that the number of 
+adults would need to be 
+rounded up to ensure 
+compliance. Representing the 
+situation with equivalent ratios 
+and communicating the solution 
+using whole numbers and the 
+context of the child care 
+investments over different time
+periods to investigate and 
+compare the simple interest 
+Suzie would earn if she invested 
+$2500 at the given rates for the 
+time periods advertised 
+ 
+‘A fruit grower packs small and 
+medium bags of oranges. The 
+medium bags have two more 
+oranges than the small bags. If 
+the grower packs 500 oranges 
+into 40 bags, how many oranges 
+should be put in each medium 
+bag?’ 
+Discussing assumptions, such as 
+all 500 oranges are packed, 
+choosing to represent the 
+situation as an algebraic 
+equation and communicating 
+the solution in terms of the fruit 
+growing context and 
+assumptions and constraints 
+made  
+one way, choosing to represent
+graphically using digital tools, 
+interpreting the turning point of 
+the graph as its maximum 
+height and communicating the 
+solution in terms of the tunnel 
+and assumptions and 
+constraints made  
+ 
+‘The growth of a bacteria 
+changes according to the 
+function 𝑦= 800 × 1.26௧, where 
+𝑡 is the time in hours after 
+bacteria has been placed in a 
+petri dish for experimental 
+analysis. Using digital tools, 
+determine when the number of 
+bacteria will double?’ 
+Discussing assumptions, such as 
+the petri dish is closed so no 
+further bacteria can enter, and 
+the function remains consistent 
+over time. Choosing to 
+represent the function as an 
+equation or graph to find an 
+approximate answer, 
+acknowledging the limitations of 
+
+===== PAGE 45 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+42 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+range for exercise for you at
+different stages in your life?  
+Discussing assumptions, such as 
+the formula not being suitable 
+to use for very young or very old 
+people. Choosing to represent 
+the situation graphically or by 
+using a linear equation. 
+Interpreting and communicating 
+the solution in terms of age and 
+the initial assumptions 
+ 
+using measurement knowledge
+to solve problems, such as ‘The 
+equal sides of a tile in the shape 
+of an isosceles triangle are 2 cm 
+longer than the shorter side. If 
+the perimeter of the tile is 
+22.5 cm, estimate the number of 
+tiles that will fit along a 1 m 
+line.’ Discussing assumptions, if 
+any, choosing to represent the 
+situation as an algebraic 
+equation, communicating the 
+solution in terms of the triangle 
+and assumptions and 
+constraints made 
+accuracy in the graph, and using
+digital tools to refine the 
+solution. Communicating the 
+appropriately rounded solution 
+in the context of the problem, 
+with assumptions and 
+constraints made 
+ 
+ 
+
+===== PAGE 46 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+43 
+Strand: Measurement and geometry 
+Sub-strand: Two-dimensional space and structures 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Establish and apply relationships
+between lengths of sides, perimeter 
+and area for squares, rectangles and 
+triangles. Generalise and apply 
+formulas, using appropriate units  
+For example: 
+ 
+establishing the perimeter of an 
+equilateral triangle is three 
+times as long as the length of 
+one of its sides and the length of 
+one side is  
+ଵ
+ଷ  of the length of 
+the perimeter, generalising as  
+𝑃= 3𝑙 where 𝑙 is the number of 
+length units in a side and 𝑃 is 
+the number of length units in 
+the perimeter of an equilateral 
+triangle 
+ 
+using grid paper or dynamic 
+geometry software to 
+demonstrate that for squares 
+and rectangles, the number of 
+length units in the length 
+multiplied by the number of 
+Establish and apply relationships
+between lengths of sides, 
+perpendicular lengths, lengths of 
+diagonals, perimeter and area for 
+parallelograms, trapeziums, 
+rhombuses and kites. Generalise 
+and apply formulas, using 
+appropriate units  
+For example: 
+ 
+using properties of 
+quadrilaterals to establish 
+relationships between lengths 
+of sides and perimeters, 
+generalising as formulas in 
+symbols, such as the perimeter 
+of a rhombus is 𝑃= 4𝑙 where 𝑙 is 
+the number of length units in a 
+side and 𝑃 is the number of 
+length units in the perimeter  
+ 
+using scissors or dynamic 
+geometry software to 
+strategically cut parallelograms, 
+trapeziums, rhombuses and 
+Explore, explain and use efficient
+strategies to determine the 
+perimeter and area of composite 
+shapes involving triangles, 
+quadrilaterals and/or circles, 
+(including sectors), using 
+appropriate units 
+For example: 
+ 
+Figure 1 
+ 
+Use Pythagoras’ theorem and/or
+trigonometry to determine 
+unknown sides and angles in  
+right-angled triangles involving 
+angles of elevation and depression 
+For example: 
+ 
+identifying, describing and 
+defining angles of elevation  
+and depression  
+ 
+determining unknown sides 
+and/or angles of elevation or 
+depression from given 
+right-angled triangle diagrams 
+by choosing an appropriate 
+trigonometric ratio, applying 
+and communicating solutions in 
+appropriate units through a 
+sequence of equations 
+ 
+sketching and labelling  
+right-angled triangle diagrams 
+and choosing and using 
+
+===== PAGE 47 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+44 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+length units in the width
+provides the number of square 
+units of area, generalising this to 
+𝐴= 𝑙ଶ and 𝐴= 𝑙× 𝑤 
+respectively. Extending 
+understanding to part-units by 
+comparing areas determined 
+using formula with diagrams 
+showing whole and part-units of 
+length and area 
+ 
+using grid paper or dynamic 
+geometry software to draw a 
+rectangle, length 5 units and 
+width 1 unit, determining its 
+area and repeating for 
+subsequent rectangles with a 
+constant length of 5 units and 
+widths increasing by 1 unit of 
+length. Graphing the width 
+compared to the area of the 
+rectangles, connecting the 
+graph to the constant  
+increasing area in the sequence 
+of drawn rectangles  
+kites, translating, reflecting or
+rotating the cut piece/s to form 
+a rectangle and derive formulas 
+for area, including  
+ 
+generalising that the area of 
+a parallelogram is equal to 
+the length of one of the 
+parallel sides multiplied by 
+perpendicular distance 
+between the parallel sides, 
+leading to a formula, such as
+𝐴𝑟𝑒𝑎 𝑝𝑎𝑟𝑎𝑙𝑙𝑒𝑙𝑜𝑔𝑟𝑎𝑚= 𝑏× ℎ 
+cutting the triangle from 
+one end and moving it to fit 
+on the other end 
+ 
+generalising that the area in 
+a trapezium is the same as 
+half the length of the 
+perpendicular height 
+multiplied by the total 
+ 
+Figure 2 
+ 
+Figure 3 
+ 
+exploring ways to determine 
+perimeter using strategies 
+appropriate to the shape, such 
+as direct measurement, 
+calculations of circumference 
+and Pythagoras’ theorem, 
+knowledge of transformations 
+or symmetrical parts. Applying 
+addition of the length parts to 
+determine an estimation, 
+approximation or exact value  
+appropriate techniques to solve
+problems in situations, such as 
+ 
+determining the angle of 
+depression from the top of 
+an 820 m hill to a bushfire 
+5.8 km away 
+ 
+calculating the height of a 
+flagpole erected on top  
+of a Perth building given 
+that at a distance of 300 m 
+from the base of the 
+building, the angles of 
+elevation to the bottom and 
+top of the flagpole are 37° 
+and 39° respectively  
+Year 10 optional 
+Apply right-angled trigonometry to 
+two-dimensional situations involving 
+navigational bearings  
+Year 10 optional 
+Explore to establish and use the 
+sine, cosine and area rule to 
+determine unknown sides and 
+angles for any triangle  
+ 
+
+===== PAGE 48 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+45 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using grid paper to draw a 
+rectangle around any 
+right-angled or acute triangle, 
+comparing the area inside the 
+triangle to that outside the 
+triangle, 
+explaining how the area of the 
+rectangle can be used to 
+determine the area of a triangle. 
+Generalising to a formula in 
+symbols, such as 
+𝐴𝑟𝑒𝑎 𝑡𝑟𝑖𝑎𝑛𝑔𝑙𝑒=
+ଵ
+ଶ × 𝑏× ℎ  
+and demonstrating how an 
+obtuse triangle can be cut and 
+rearranged to confirm the 
+formula works for any triangle 
+ 
+ 
+using diagrams and reasoning to 
+determine whether it is possible 
+length of the parallel sides,
+leading to a formula, such as
+𝐴𝑟𝑒𝑎 𝑡𝑟𝑎𝑝𝑒𝑧𝑖𝑢𝑚= 1
+2 ℎ × (𝑎+ 𝑏) 
+ 
+generalising that the area of 
+a kite is the same as half the 
+product of the diagonals, 
+leading to a formula, such as
+𝐴𝑟𝑒𝑎 𝑘𝑖𝑡𝑒= 1
+2 × 𝑥× 𝑦 
+and discussing what is the same 
+before and after each 
+quadrilateral is cut and 
+transformed  
+ 
+drawing different 
+parallelograms, trapeziums, 
+rhombuses or kites, each with 
+an area of 15 cm2 
+of perimeter in appropriate
+length units 
+ 
+exploring ways to determine 
+area using strategies 
+appropriate to the shape, such 
+as decomposition into familiar 
+polygons and circles or parts 
+thereof and applying formulas, 
+superimposing a rectangle 
+around a shape and subtracting 
+the area of space within the 
+rectangle but outside the shape, 
+from the area of the rectangle, 
+knowledge of transformations 
+or symmetrical parts. Applying 
+strategies to determine an 
+estimation, approximation or 
+exact value of area in 
+appropriate square units and 
+comparing strategies with 
+others to determine and  
+explain the most efficient and 
+accurate method 
+Use Pythagoras’ theorem to 
+determine the perimeter and area 
+of shapes involving right-angled 
+Year 10 optional
+Use the unit circle and dynamic 
+geometry software to explore  
+and represent trigonometric 
+functions graphically  
+Year 10 optional 
+Solve simple trigonometric 
+equations graphically, algebraically 
+or using the unit circle and verify 
+solution/s by substitution 
+
+===== PAGE 49 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+46 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+or not to calculate the following
+and if so, determining  
+ 
+the length of a rectangle, 
+given that it has an area of 
+20 square centimetres 
+ 
+the perimeter of a square, 
+given that it has an area of 
+8100 square metres 
+ 
+the area of an isosceles 
+triangle, given that the 
+length of its base is 8 cm, 
+which is the same as the 
+length of its  
+perpendicular height 
+ 
+the area of a rectangle  
+of length 5 cm and  
+width 3.4 mm 
+Explore and explain efficient 
+strategies to determine the 
+perimeter and area of irregular or 
+composite shapes composed of 
+squares and rectangles  
+ 
+ 
+ 
+ 
+ 
+investigating different ways of 
+finding the area of a hexagon 
+using the formulas of a 
+rectangle, parallelogram, 
+trapezium or triangle 
+Identify, describe and explore the 
+relationship between the radius, 
+diameter and circumference of a 
+circle and use this to establish and 
+apply formulas to determine 
+perimeter and area, using 
+appropriate units  
+For example: 
+ 
+using concrete examples of 
+circles to establish relationships 
+between the lengths of the 
+diameter and the circumference 
+by measuring using string; 
+creating and interpreting a 
+graph of diameter and 
+circumference and entering 
+results into a spreadsheet  
+to show that circumference  
+÷ diameter is approximately 
+3.1 (𝜋). Generalising and 
+applying relationships, such as 
+the number of length units in 
+triangles, in both exact and decimal
+approximation form. Investigate and 
+apply the converse of Pythagoras’ 
+theorem to establish whether a 
+triangle is right-angled  
+For example: 
+ 
+determining the height, area 
+and perimeter of a right-angled 
+triangle, with base length of 
+12 cm and hypotenuse 16 cm, in 
+exact (height = √112 cm, 
+ 𝑃= 28 + √112 cm, 
+  𝐴= 6√112 cm2) or 
+approximate units  
+(height = 10.583 cm, 
+𝑃= 38.583 cm, 
+𝐴= 63.498 cm2) 
+ 
+exploring and using Pythagoras’ 
+theorem and geometric 
+reasoning to determine the area 
+of a rhombus with a side length 
+of 8 cm and one diagonal of 
+15 cm or a regular hexagon with 
+side length 5 cm 
+ 
+using vertical and horizontal 
+units between points plotted on 
+
+===== PAGE 50 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+47 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+For example:
+ 
+using rulers, grid paper, scissors, 
+string, geometric reasoning or 
+dynamic geometry software to 
+investigate different ways of 
+determining the perimeter and 
+area of irregular and composite 
+rectangular shapes as in Figures 
+1, 2 and 3 including exploring 
+ 
+the minimum number of 
+lengths requiring 
+measurement in order to 
+reason other lengths and 
+hence calculate perimeter  
+in Figure 2 
+ 
+different reasoning to find 
+the length of unlabelled 
+sides and hence calculate 
+the perimeter or circumference
+of a circle is approximately 3.1 
+(𝜋) times greater than the  
+number of length units in the 
+diameter and the length of the 
+radius is approximately  
+ଵ
+଺  of  
+the circumference 
+ 
+establishing the relationship 
+between the number of length 
+units in the radius and number 
+of square units in the area of a 
+circle by dissecting a cut out 
+circle into many congruent 
+sectors, arranging them to form 
+an approximate parallelogram 
+with a height of 𝑟 and a base of 
+𝜋𝑟 and generalising the area of a 
+parallelogram determined to 
+𝐴𝑟𝑒𝑎 𝑐𝑖𝑟𝑐𝑙𝑒= 𝜋𝑟ଶ 
+ 
+determining the circumference 
+of a circle given that its area is 
+37 cm2 and the area of a circle 
+a Cartesian plane and applying
+Pythagoras’ theorem to 
+determine the distance 
+between the two points 
+ 
+justifying whether 5 cm, 12 cm 
+and 13 cm is a Pythagorean 
+triad (lengths that form the 
+sides of a right-angled triangle) 
+Year 9 optional  
+Explore and apply Pythagoras’ 
+theorem and trigonometry to simple 
+situations involving right-angled 
+triangles in three-dimensional 
+contexts projected to two 
+dimensions  
+
+===== PAGE 51 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+48 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+perimeter and area of
+Figure 3  
+ 
+ways of decomposing the 
+shape by cutting or dividing 
+all shapes into squares or 
+rectangles to find area of 
+the parts and hence total 
+area or superimposing a 
+rectangle around each 
+shape determining the area 
+of the rectangle and using 
+subtraction of the area of 
+space within the rectangle 
+but outside the shape, in 
+order to estimate or 
+determine exact area 
+comparing strategies with 
+others to determine and  
+explain the most efficient and 
+accurate method  
+ 
+drawing different composite 
+square and rectangular shapes 
+that have equal areas but 
+different perimeters and those 
+that have equal perimeters but 
+different areas, justifying using 
+application of formula 
+given that its circumference is
+171 mm 
+Investigate in order to establish, 
+define and use Pythagoras’ theorem 
+to determine the length of an 
+unknown side in a right-angled 
+triangle  
+For example: 
+ 
+using grid paper or dynamic 
+geometry software to draw a 
+right-angled triangle, identifying 
+the shorter sides and the 
+hypotenuse, and exploring the 
+relationship between the area of 
+
+===== PAGE 52 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+49 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and establish connections
+and conversions between units  
+of area  
+For example: 
+ 
+using diagrams to represent and 
+explain connections between 
+numbers of different units of 
+equal areas, such as 
+ 
+ 
+ 
+recognising that 1 m is 100 
+times as large as 1 cm but 1 
+square metre is 10 000 times as 
+large as 1 square centimetre 
+ 
+applying knowledge of place 
+value and relative sizes of units 
+to explain conversions  
+between units of area, such as 
+0.72 cm2 to mm2  
+the squares on the two shorter
+sides to the area of the square 
+on the hypotenuse. Testing, 
+predicting and generalising the 
+relationship to the formula 
+𝑎ଶ+ 𝑏ଶ= 𝑐ଶ 
+ 
+applying Pythagoras’ theorem to 
+determine the length of the 
+diagonal of a rectangle with 
+width 7 cm and length 9 cm, in 
+centimetre units, 
+communicating the solution 
+through a sequence of equations 
+and demonstrating that the 
+solution would be positive due 
+to the context 
+
+===== PAGE 53 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+50 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+extending thinking to include
+1 ha = 10 000 m2 and  
+1 km2 = 1 000 000 m2 = 100 ha 
+Explore, identify, define, name, label
+and apply the language, notation 
+and conventions of geometry for 
+points, lines, angles and polygons  
+For example: 
+ 
+using conventions, such as the 
+use of capitals and appropriate 
+symbols, to label, name and 
+define points, rays, line 
+segments, lines, parallel lines 
+and perpendicular lines  
+Explore, identify, classify and
+establish properties of 
+quadrilaterals, including the interior 
+angle sum. Use this to determine 
+unknown sides and angles in 
+quadrilaterals and explain reasoning 
+For example: 
+ 
+creating a classification scheme 
+for quadrilaterals based on 
+sides, angles and diagonals, 
+representing it as a sequence of 
+decisions in a flow chart 
+ 
+exploring strategies, such as 
+cutting a quadrilateral into two 
+triangles or marking the corners 
+of a quadrilateral, ripping and 
+placing the corners (angles) in a 
+revolution, to generalise to the 
+sum of the interior angles in any 
+quadrilateral being 360°  
+ 
+determining unknown angles in 
+a quadrilateral, explaining 
+Explore to identify and describe
+conditions for triangles to be 
+congruent. Use this to determine 
+unknown sides or angles in pairs  
+of congruent triangles and  
+explain reasoning 
+For example: 
+ 
+constructing manually or by 
+using dynamic geometry 
+software, the following triangles 
+with the given conditions  
+ 
+three sides of 5 cm, 6 cm 
+and 4 cm  
+ 
+two sides of 7 cm, 5 cm and 
+an included angle of 27° 
+ 
+one side of 5 cm and two 
+angles, 32° and 54°  
+ 
+one right angle, a 
+hypotenuse of 11 cm and 
+one side of 4.5 cm  
+Explore to identify and describe
+conditions for triangles to be similar. 
+Use this to determine unknown 
+sides and angles in pairs of similar 
+triangles and explain reasoning 
+For example:  
+ 
+constructing manually or by 
+using dynamic geometry 
+software, the following pairs  
+of triangles with the  
+given conditions  
+ 
+triangle 1 with sides of 
+3 cm, 5 cm and 4.5 cm and 
+triangle 2 with sides of 
+6 cm, 10 cm and 9 cm 
+ 
+triangle 1 with an angle of 
+35° and a side of 8 cm and 
+triangle 2 with an angle of 
+35° and a side of 4 cm 
+ 
+triangle 1 with sides of 4 cm 
+and 6 cm, with an included 
+angle of 25° and triangle 2 
+
+===== PAGE 54 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+51 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using conventions, such as
+capitals, Greek letters and 
+appropriate symbols, to label, 
+name and define acute or 
+obtuse angles 
+ 
+as ∠H or ∠FHA or ∠AHF or 𝜃, 
+right or perpendicular angles,  
+ 
+as ∠ABC  or ∠CBA  or ∠B , and 
+angles at a point as 
+complementary, supplementary 
+and adjacent angles 
+ 
+reasons, such as finding the
+value of 𝑥 given PQRS is a 
+parallelogram 
+QR || PS (opposite sides of a 
+parallelogram are parallel) 
+𝑥+ 53° = 180° (co-interior 
+angles are supplementary), 
+∴𝑥= 127  
+ 
+extending interior angle sum of 
+triangles and quadrilaterals to 
+include other polygons 
+ 
+two sides of 5.5 cm and
+4 cm and a non-included 
+angle of 63°  
+ 
+three angles of 51°, 24° and 
+105°  
+comparing with others, 
+reasoning and generalising 
+which conditions confirm 
+congruent triangles (SSS, SAS, 
+RHS, AAS) and which do not 
+ 
+identifying and justifying two 
+triangles being congruent in 
+words and symbols, 
+communicating that ∆PQR  ≅ 
+∆WDE because all three pairs of 
+corresponding sides are equal to 
+each other (SSS)  
+ 
+determining the test that 
+confirms that two triangles are 
+congruent, the congruency 
+statement and unknown sides 
+with sides of 6 cm and 9 cm, 
+with an included angle  
+of 25° 
+ 
+triangle 1 with angles of 
+127° and 21° and triangle 2 
+with angles of 32° and 21° 
+ 
+triangle 1 with sides of 4 cm, 
+7.5 cm and 4.5 cm, and 
+triangle 2 with sides of 
+3 cm, 15 cm and 9 cm 
+ 
+triangle 1 with hypotenuse 
+of 13 cm, a 90° angle and 
+the shortest side being 
+10 cm, and triangle 2 with 
+hypotenuse of 6.5 cm, a 
+90° angle and the shortest 
+side being 5 cm 
+comparing with others to see if 
+similar triangles have been 
+produced, reasoning and 
+generalising conditions to 
+confirm similar triangles (SSS, 
+SAS, RHS, AA) 
+ 
+identifying and justifying  
+two triangles being similar in 
+words and symbols  
+
+===== PAGE 55 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+52 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+applying correct notation and 
+labelling conventions to 
+triangles and polygons to 
+indicate equal angles, equal 
+sides and parallel sides, such as 
+in ∆PQR  and ∆SQE   
+and in the irregular, concave 
+hexagon EFGHIJ 
+justifying that EFGHIJ is the 
+same as HIJEFG but is not the 
+same as EIJHGF 
+ 
+exploring geometric 
+terminology and naming 
+or angles, giving reasons in
+situations such as 
+the two sides and included angle 
+of ∆PQR is equal to the two sides 
+and included angle of ∆WDE, 
+therefore ∆PQR ≅∆WDE (SAS) 
+ QR
+തതതത = 12 cm as it corresponds to 
+DE
+തതതത and ∠Q = 25° as it 
+corresponds to ∠D 
+recognising ∆CDE~∆IJK because 
+all three corresponding sides are 
+in proportion (SSS) 
+(scale = 
+ଶ
+ଷ ) 
+ 
+determining the test that 
+confirms two triangles are 
+similar, the similarity statement 
+and finding unknown sides or 
+angles, giving reasons in 
+situations such as 
+ 
+communicating in both words 
+and symbols that ∠SGL = ∠MGP 
+because they are vertically 
+opposite and  ∠GSL = ∠GMP as 
+they are alternate angles, in 
+
+===== PAGE 56 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+53 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+conventions used in dynamic
+geometry software 
+Investigate, identify and describe 
+corresponding, alternate and  
+co-interior angles formed when two 
+parallel lines are crossed by a 
+transversal. Use relationships to 
+determine unknown angles and 
+explain reasoning 
+For example: 
+ 
+using paper folding or dynamic 
+geometry software to create a 
+pair of parallel lines crossed by a 
+transversal, identifying 
+congruent and supplementary 
+angles and labelling pairs of 
+angles as corresponding, 
+alternate and co-interior 
+ 
+finding unknown angles within 
+pairs of parallel lines. Explaining 
+reasoning in situations, such as 
+parallel lines
+∴  ∆SGL ~ ∆MGP  because two 
+angles of ∆SGL are equal to two 
+angles of ∆MGP (AA)  
+GM
+തതതത = 3.65 cm as corresponding 
+sides in similar triangles are in 
+proportion 
+Year 10 optional 
+Explore geometric relationships and 
+apply deductive reasoning and a 
+sequence of logically connected 
+statements, to produce proofs of 
+similar triangles and 
+angle/chord/radius/tangent 
+properties in circles 
+
+===== PAGE 57 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+54 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+𝑐= 118° (alternate to given 
+angle)  
+𝑏= 62°  (co-interior with given 
+angle)  
+ 
+finding the value of 𝑥 in the 
+diagram below and giving 
+reasons  
+constructing a line XY through X 
+parallel to AB and CD 
+63° + ∠AXY = 180° (co-interior 
+angles, AB ∥XY) 
+
+===== PAGE 58 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+55 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+∴∠AXY = 117°  
+42° + ∠CXY = 180° (co-interior 
+angles CD ∥XY) 
+∴∠CXY = 138°  
+𝑥+ ∠AXY + ∠CXY = 360° (angles 
+at a point) 
+𝑥= 105  
+comparing geometric reasoning 
+with others, noting that there 
+are alternative ways of 
+determining and explaining the 
+size of angles 
+Demonstrate that the interior angle 
+sum of a triangle is 180°  
+For example: 
+ 
+using a variety of paper triangles 
+to mark corners, ripping and 
+placing the corners (angles) in a 
+straight line to generalise that 
+the sum of the angles in 
+∆ABC can be determined by 
+∠A + ∠B + ∠C = 180° 
+
+===== PAGE 59 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+56 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+using knowledge of alternate 
+angles in parallel lines and 
+supplementary angles to explain 
+why the sum of the angles in a 
+triangle is 180° using a  
+sequence of logically  
+connected statements 
+ 
+Explore to classify and name 
+triangles according to their side and 
+angle properties. Use the properties 
+to determine unknown angles in 
+triangles and explain reasoning 
+ 
+
+===== PAGE 60 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+57 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+For example:
+ 
+creating a classification  
+scheme for triangles based on 
+sides and angles, representing it 
+as a sequence of decisions in a 
+flow chart 
+ 
+using reasoning and/or 
+construction to decide and 
+explain whether the following 
+triangles are possible or 
+impossible, naming and labelling 
+possible triangles and 
+comparing the construction and 
+naming with others 
+ 
+a triangle with sides of 4 cm, 
+10 cm and 5 cm 
+ 
+a triangle with all angles 60° 
+ 
+a triangle with one side of   
+8 cm and a 90° angle  
+ 
+a triangle with two equal 
+sides of 7 cm and the 
+included angle 45° 
+ 
+a triangle with two equal 
+angles of 95°   
+ determining unknown sides  
+and angles in triangles, 
+
+===== PAGE 61 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+58 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+explaining and comparing
+reasons with others 
+ 
+𝑎= 6 cm (equal sides in an 
+isosceles triangle) 
+∠ XAV and ∠XVA = 69.5° (equal 
+base angles of an isosceles 
+triangle) 
+Plot coordinates on the Cartesian
+plane and explore, visualise, predict 
+and determine image coordinates 
+after translation or reflection  
+across the axes, or rotation about 
+the origin  
+For example: 
+ 
+plotting the following points 
+D(−1, 6), E(3, −2), F(2, 4) onto 
+paper or dynamic geometry 
+software. Using counters for 
+Recognise and identify equal
+corresponding sides and equal 
+corresponding angles of congruent 
+figures. Explore, visualise, predict 
+and determine the translation, 
+reflection, rotation, or combination 
+of these transformations, to match 
+one congruent figure to another 
+Construct similar figures by
+enlargement and reduction, and use 
+this to establish, explain and apply 
+properties of similar figures  
+For example: 
+ 
+constructing similar figures 
+using techniques such as 
+dynamic geometry software, 
+grids, compasses and centres of 
+enlargement or reduction. 
+Design, test and refine a 
+Investigate, explore and determine
+the effect on the perimeter and area 
+of shapes when they are enlarged or 
+reduced by a scale factor  
+For example: 
+ 
+determining the perimeter and 
+area of figures, such as triangles, 
+quadrilaterals, circles and 
+composite figures, that have 
+been drawn using grid paper, a 
+compass or dynamic geometry 
+
+===== PAGE 62 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+59 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+coordinates, paper folding and
+tracing, digitally moving points 
+and/or reasoning and 
+visualisation to determine the 
+image coordinates (Dᇱ, Eᇱ, Fᇱ) 
+after a transformation, such as  
+ 
+2 units left and 3 units down
+ 
+a reflection across the 𝑥-axis
+ 
+a rotation of 180° 
+anticlockwise about  
+the origin 
+ 
+a rotation of 90° clockwise 
+about the origin 
+ 
+generalising the effect of the 
+transformation on the 
+coordinate (e.g. in a reflection in 
+the 𝑥-axis, the 𝑦 part of the 
+coordinate changes sign from a 
+positive to a negative and vice 
+versa) and investigating whether 
+there are different ways of 
+translating, reflecting or rotating 
+the points that produce the 
+same transformation 
+For example:
+ 
+identifying and expressing in 
+both words and symbols that 
+between the figure and its 
+image, corresponding sides are 
+the same length, corresponding 
+angles are the same size, the 
+triangles are the same shape 
+and size and are therefore 
+congruent ( ∆ABC ≅ ∆GEF)  
+ 
+using cardboard triangles, paper 
+folding and tracing, dynamic 
+geometry software and/or 
+reasoning to predict, visualise 
+and investigate different 
+combinations and patterns of 
+transformations that exactly 
+match the figure of ∆ABC to its 
+sequence of steps for producing
+similar figures 
+ 
+comparing what is the same and 
+what is different between the 
+original figure and its image, 
+noting that they are the same 
+shape but not necessarily the 
+same size. Measuring to 
+generalise the properties of 
+similar figures 
+ 
+corresponding angles are 
+the same size 
+ 
+corresponding sides are in 
+proportion 
+ ( 
+୅୆
+തതതത
+୐୔
+തതതത = 
+୅େ
+തതതത
+୐୏
+തതതത = 
+୆େ
+തതതത
+୔୏
+തതതത)   
+and recognising that this 
+proportion is the scale or scale 
+factor. Writing a similarity 
+statement between pairs of 
+software. Making a prediction as
+to what the perimeter and area 
+of their similar figures would be 
+when side lengths or diameters 
+have been doubled, tripled or 
+halved. Testing this prediction 
+by constructing the scaled 
+figures manually or by using 
+dynamic geometry software to 
+determine the new perimeter 
+and area. Using results to 
+explain and make 
+generalisations as to the effect 
+on perimeter (× 𝑘) and area 
+(× 𝑘ଶ) when a figure has been 
+scaled with a given scale factor 
+(𝑘) 
+ 
+determining the scale factor 
+when a semicircle with an area 
+of 42.47 cm2 is enlarged to have 
+an area of 679.59 cm2  
+
+===== PAGE 63 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+60 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+image ∆GEF. Investigating to
+determine whether a sequence 
+of transformations is 
+commutative or not 
+ 
+investigating, exploring and 
+creating designs in textile 
+patterns involving the 
+translation, reflection and 
+rotation of congruent figures 
+using dynamic geometry 
+software or A3 paper and  
+shape templates 
+similar figures, such as
+∆ABC ~ ∆LPK 
+ 
+determining the scale factor 
+between similar figures using 
+corresponding lengths in 
+situations, such as 
+       
+ସ.ହ
+ଵ.ହ = 
+ଵ଴.ଶ
+ଷ.ସ = 
+ଶଵ
+଻ = scale factor of 3
+and 
+଺
+ଵହ = scale factor of  
+ଶ
+ହ , 
+recognising that an original 
+figure will be enlarged if the 
+scale factor is greater than one 
+but will be reduced if the scale 
+
+===== PAGE 64 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+61 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+factor is greater than zero but
+less than one 
+Use similarity to investigate and 
+explain the constancy of the sine, 
+cosine and tangent ratios for a given 
+angle in right-angled triangles. 
+Choose and use a trigonometric 
+ratio to determine the length of an 
+unknown side or the size of an 
+unknown angle 
+For example: 
+ 
+identifying and labelling the 
+hypotenuse, adjacent and 
+opposite sides with respect to a 
+given angle in a right-angled 
+triangle in any orientation 
+ 
+verifying the constancy of each 
+trigonometric ratio for a given 
+angle by creating a series of 
+similar triangles, measuring 
+corresponding side lengths and 
+identifying and determining the 
+constancy of the different ratios 
+between sides using the 
+
+===== PAGE 65 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+62 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+trigonometric notation
+of sin𝜃, cos𝜃, tan 𝜃 
+ 
+choosing and using a 
+trigonometric ratio to 
+determine the length of a 
+wheelchair ramp in the 
+following situation 
+ 
+choosing and using a 
+trigonometric ratio to 
+determine the size of the 
+missing angle 𝜃 in the  
+following situation 
+Apply the properties of similarity  
+to determine scales, lengths and 
+angles of real-life figures from  
+scale drawings, maps, plans  
+and photographs  
+
+===== PAGE 66 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+63 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+For example:
+ 
+exploring and interpreting maps, 
+plans and scale drawings, 
+recognising that between the 
+scale drawing and actual figure, 
+angles are equal, and sides are 
+in proportion 
+ 
+determining the scale used 
+between a floor plan and actual 
+house, the width of a bookcase 
+using the scale or ratio on its 
+construction plan and the actual 
+radius of a cell, given a scale and 
+its biological drawing 
+ 
+exploring scale by mapping a 
+30 000 hectare bushfire onto  
+a map 
+ 
+exploring scale in photographs, 
+such as taking a picture of a 
+person standing next to a tree, 
+using their height and the tree’s 
+height in the image and the 
+actual height of the person to 
+determine a scale factor and 
+hence estimating the actual 
+height of the tree, discussing 
+
+===== PAGE 67 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+64 
+Sub-strand: Three-dimensional space and structures 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Move flexibly between building
+and drawing rectangular and 
+composite rectangular prisms from 
+different views 
+For example: 
+ 
+building rectangular prisms or 
+composite rectangular prisms 
+Explore in order to visualise and
+draw cross-sections of different 
+solids and use this to identify prisms 
+For example: 
+ 
+using concrete materials, such 
+as a block of cheese, round 
+cake, chocolate moulded into a 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+and finding ways to improve
+the estimate 
+Year 9 optional 
+Explore the relationship between 
+sine and cosine ratios and the unit 
+circle, determine their approximate 
+values for angles from 0° to 360°, 
+and identify pairs of angles that 
+share the same ratio value 
+Year 9 optional 
+Apply deductive reasoning and use a 
+sequence of logically connected 
+statements to produce proofs of 
+congruent triangles 
+
+===== PAGE 68 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+65 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+using at most 12 cubes,
+visualising and drawing 
+manually, the front, top, side 
+and isometric views. Using 
+dynamic geometry software  
+and the three-dimensional 
+coordinate system to draw 
+representations of  
+rectangular and composite 
+rectangular prisms 
+ 
+using provided isometric or 
+perspective drawings of 
+rectangular and composite 
+rectangular prisms to build the 
+prism from blocks      
+ 
+exploring the views of 
+rectangular and composite 
+rectangular buildings depicted 
+in map software, highlighting 
+what is the same and what is 
+different between each view 
+triangular prism, ice-cream
+cone, chocolate ball or 
+playdough square-based 
+pyramid, to visualise, predict, 
+draw then cut different  
+cross-sections, identifying that 
+any cross-section taken parallel 
+to the base in a right prism is 
+always congruent 
+ 
+exploring how many different 
+polygons can be formed from 
+the cut faces of a cube   
+Establish and apply relationships
+between the number of identical 
+layers of cubic units, the number of 
+cubic units in each identical layer 
+and volume for rectangular prisms 
+Establish and apply relationships
+between the area of a uniform 
+cross-section, the length 
+perpendicular to that uniform  
+cross-section and the volume of 
+Establish, explain and apply
+formulas to determine the volume, 
+capacity and surface area of 
+cylinders, using appropriate units 
+Use efficient strategies and apply
+formulas to determine the volume, 
+capacity and surface area of 
+
+===== PAGE 69 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+66 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+and composite rectangular prisms.
+Generalise and apply the formula, 
+using appropriate units 
+For example: 
+ 
+using layers of interlocking 
+blocks or dynamic geometry 
+software to reinforce that 
+volume is measured in cubic 
+units and that the volume of a 
+rectangular prism is determined 
+by the number of cubic units in 
+any outer layer, multiplied by 
+the number of identical layers in 
+the prism, generalising to 𝑉= 𝑙ଷ   
+or 𝑉= 𝑙× 𝑤× ℎ for cubes and 
+rectangular prisms respectively. 
+Extending understanding to 
+part-units by comparing 
+volumes determined using the 
+formula with diagrams showing 
+whole and part-units of length 
+and volume 
+ 
+using blocks, grid paper or 
+dynamic geometry software to 
+construct a rectangular prism 
+with a length of 5 units, a width 
+of 1 unit and a depth of 1 unit, 
+right prisms. Generalise, apply
+formulas and use this to connect to 
+capacity if required, using 
+appropriate units 
+For example: 
+ 
+recognising that right prisms 
+have uniform cross-sections that 
+match the base of the prism and 
+that the volume is determined 
+by calculating the area of the 
+cross-sectional base, multiplying 
+it by the number of units of 
+height, in relation to that base, 
+generalising to 
+𝑉= 𝑏𝑎𝑠𝑒 𝑎𝑟𝑒𝑎× ℎ𝑒𝑖𝑔ℎ𝑡 and 
+using the formula to determine 
+the volume in cubic units, 
+converting to capacity units if 
+required 
+ 
+using knowledge of volume of 
+prism formulas and capacity 
+conversions to find  
+ 
+the capacity of a 16 cm tall 
+trapezoidal prism that has 
+trapezoidal sides with 
+parallel lengths of 17.2 cm 
+and 12.3 cm, and a 
+For example:
+ 
+recognising that a cylinder has 
+uniform cross-sections of a 
+circle and multiplying the area 
+of this circle by the height, 
+generalising to 
+𝑉𝑜𝑙𝑢𝑚𝑒 𝑐𝑦𝑙𝑖𝑛𝑑𝑒𝑟= 𝜋𝑟ଶ× ℎ to 
+determine the volume in cubic 
+units, converting to capacity 
+units if required 
+ 
+decomposing a cylinder into a 
+sketched net or visualising its 
+net, as comprising two equal 
+circles and a rectangle, showing 
+the addition of the area of the 
+faces to generalise to a formula 
+𝑆𝐴 𝑐𝑦𝑙𝑖𝑛𝑑𝑒𝑟= 2𝜋𝑟ଶ+ 2𝜋𝑟ℎ and 
+applying to determine the 
+surface area in square units 
+ 
+investigating and designing the 
+net of the largest possible 
+cylindrical closed container on 
+an A3 sheet of cardboard by 
+considering which attribute best 
+determines ‘largest’, applying 
+formulas, calculations and 
+composite solids, using
+appropriate units  
+For example: 
+ 
+ 
+exploring the orientation of the 
+object to identify the base end 
+and the height. Use strategies to 
+calculate the volume, such as 
+dividing the base end into 
+familiar shapes to determine 
+the area of the cross-sectional 
+base and multiplying by the 
+height or dividing the composite 
+solid into familiar prisms, 
+applying appropriate formulas 
+and adding to find total volume. 
+
+===== PAGE 70 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+67 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+determining its volume and
+repeating for subsequent 
+rectangular prisms, with a 
+constant length of 5 units, a 
+constant width of 1 unit and 
+increasing units of depth. 
+Graphing the depth compared 
+to the volume of the prism, 
+connecting the graph to the 
+constant increasing volume in 
+the sequence of prisms and 
+using the graph to determine 
+relationships between the 
+quantities, including finding the 
+depth of the prism if the volume 
+is 18.5 cm3  
+ 
+determining the unknown depth 
+of a rectangular prism given it 
+has a length of 23.4 cm, a width 
+of 13.75 cm and a volume of 
+4872.81 cm3 using a formula 
+ 
+using composite rectangular 
+prisms made of blocks or 
+depicted as isometric or oblique 
+drawings to visualise, determine 
+and compare methods for 
+finding volume 
+perpendicular height of
+11.5 cm  
+ 
+the side length of a cube 
+with capacity 32 L  
+(using  √32
+య
+) 
+ 
+possible dimensions of a 
+triangular prism that holds 
+40 cm3 
+Explore and establish connections 
+and conversions between units of 
+volume and between units of 
+volume and capacity  
+For example: 
+ 
+using models and diagrams of 
+cubes or rectangular prisms to 
+represent and explain 
+connections between numbers 
+of different units of equal 
+volume, such as 
+conversions before
+constructing, comparing and 
+ordering cylinders with others 
+Explore and explain efficient 
+strategies to determine the surface 
+area of right prisms using 
+appropriate units  
+For example: 
+ 
+using strategies, such as 
+unfolding a cardboard prism, 
+visualising or drawing the net or 
+different two-dimensional views 
+of the prism, recognising 
+congruent faces and showing 
+related area calculations of the 
+different faces, in a sequence of 
+steps, adding to determine the 
+surface area in square units 
+ 
+determining the depth of a 
+rectangular prism, given that it 
+has a surface area of 726 cm2, 
+length of 15 cm and width of     
+5 cm 
+ 
+determining the surface area of 
+a cube given that its volume is 
+15.625 m3 
+Using the volume to determine
+capacity and comparing 
+strategies with others,  
+deciding which approach is the 
+most efficient 
+ 
+visualising or drawing the net or 
+different two-dimensional views 
+of a composite object, 
+recognising congruent faces and 
+showing area calculations of the 
+different faces in a sequence of 
+steps, adding to determine the 
+surface area in square units 
+Investigate, calculate and identify 
+the impact of errors on the accuracy 
+and outcome of results in 
+measurement situations 
+For example: 
+ 
+determining the length of a 
+wooden beam leaning against a 
+wall, using a clinometer or large 
+protractor to measure an angle 
+of elevation and applying 
+trigonometry and/or 
+Pythagoras’ theorem. 
+
+===== PAGE 71 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+68 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+ 
+recognising that 1 cm is 10 times 
+as large as 1 mm but 
+1 cubic cm is 1000 times as large 
+as 1 cubic mm  
+ 
+applying knowledge of place 
+value and relative sizes of units 
+to explain conversions between 
+units of volume, such as  
+0.25 m3 to cm3 
+ 
+using materials, such as a milk 
+carton, a medicine syringe or 
+graduated beakers, to show that 
+1 cm3 = 1 mL,  1000 cm3 = 1 L, 
+and extending thinking to 
+1 m3 = 1000 L or 1 kL, 
+1000 m3 = 1 megalitre (ML) and  
+1 000 000 m3 = 1 gigalitre (GL) 
+ 
+choosing an object with a 
+known volume in cubic 
+Use dynamic geometry software
+to explore and construct familiar 
+objects in three dimensions  
+using transformations of  
+two-dimensional figures 
+For example: 
+ using dynamic geometry 
+software to show 
+transformations of  
+two-dimensional figures in the 
+plane through a third dimension 
+to create prisms and cylinders, 
+such as constructing a right 
+cylinder by rotating a rectangle 
+around a line in the plane of the 
+rectangle or rotating a triangle 
+around an axis to create a cone. 
+Describing different views of the 
+object, altering the dimensions 
+and highlighting what is the 
+same and what is different 
+about the original object and  
+its alteration 
+ drawing a two-dimensional 
+shape and describing how to 
+transform images of the shape 
+Comparing calculated and actual
+measurements of the wooden 
+beam and discussing accuracy of 
+results in terms of absolute and 
+percentage error, the measuring 
+instruments, the size of the 
+measurement unit used and 
+human error  
+ 
+determining the planned height 
+of an access ramp being built 
+from a carpark to the entrance 
+of a leisure centre, given that 
+the plan is for it to be 3.5 m 
+long, on an inclination of 12°. 
+Discussing any implications of 
+the miscalculation or error of 1° 
+on the access ramp build 
+ 
+investigating the effect on 
+capacity of the following 
+fibreglass swimming pool if the 
+2.4 m height was accidentally 
+read as 2.6 m, determining 
+percentage error and discussing 
+the impact of the misreading 
+
+===== PAGE 72 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+69 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+centimetres, immersing it in
+water to show the millilitres it 
+displaces, and connecting to 
+conversion between units, such 
+as 95 cm3 is the same as 95 mL  
+ 
+using knowledge of conversions, 
+place value and relaƟve sizes of 
+units to assist in explaining the 
+capacity in millilitres of a 0.73 
+m3 storage container  
+to represent a
+three-dimensional object, using 
+at least two different 
+transformations, such as 
+translating, rotating or reflecting 
+a square to form a cube 
+Investigate in order to determine 
+the effect on surface area and 
+volume when objects are enlarged 
+or reduced by a scale factor 
+For example: 
+ 
+constructing similar objects with 
+a given scale using dynamic 
+geometry software, cardboard, 
+grid or isometric paper and 
+discussing what is the same and 
+what is different about the 
+object and its enlarged/reduced 
+image. Calculating and 
+comparing the surface area and 
+volume of the object and its 
+image. Determining that the 
+surface area of the object is 
+enlarged or reduced by the 
+square of the scale factor (× 𝑘ଶ)  
+and that the volume of the 
+
+===== PAGE 73 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+70 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+object is enlarged or reduced by
+the cube of the scale factor 
+(× 𝑘ଷ)  
+ 
+determining the scale factor 
+when a rectangular prism with a 
+volume of 44.8 cm3 is enlarged 
+to have a volume of 1209.6 cm3 
+ 
+exploring the impact of changes 
+in scale on the surface area and 
+volume in situations involving 
+3D printing or production 
+prototypes 
+Year 10 optional 
+Explore, explain and apply efficient 
+strategies and formulas to 
+determine the surface area and 
+volume of right pyramids, right 
+cones, spheres and related 
+composite solids 
+ 
+ 
+ 
+
+===== PAGE 74 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+71 
+Sub-strand: Non-spatial measurement 
+Year 7
+Year 8
+Year 9
+Year 10
+Explore and interpret
+representations of time zones 
+within Australia using 
+12- and 24-hour time and  
+determine the local time at different 
+locations considering different times 
+of the year  
+For example: 
+ 
+using maps, number lines or 
+digital tools to interpret and 
+explore the language and 
+thinking used in determining 
+and communicating current 
+times across Australia (AEST, 
+ACST, AWST and DST)  
+ 
+determining current times in 
+Sydney during Daylight Saving 
+Time (DST) if it is 2245 hours in 
+Perth or a quarter past 3 in the 
+afternoon in the Northern 
+Territory or 7.35 pm in 
+Tasmania 
+Explore and interpret
+representations of national and 
+international time zones using 
+12- and 24-hour time, and 
+determine the duration of events 
+across multiple time zones  
+For example: 
+ 
+using maps, number lines or 
+digital tools to interpret and 
+explore the language and 
+thinking used in determining 
+international time zones and 
+comparing times in Beijing, 
+China to Suva, Fiji and Toronto, 
+Canada 
+ 
+recognising the challenges of 
+planning regular three-hour 
+virtual meeting times for a 
+company that has staff in both 
+Vancouver, Canada and Perth, 
+Western Australia, and 
+determining suitable starting 
+and ending times for these 
+meetings, including 
+
+===== PAGE 75 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+72 
+Year 7
+Year 8
+Year 9
+Year 10
+consideration of Coordinated
+Universal Time (UTC) 
+Sub-strand: Modelling with measurement and geometry 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+In real-world situations involving
+perimeter and area of squares, 
+rectangles, triangles and rectangular 
+composite shapes, parallel lines, 
+properties of triangles, 
+transformations of points, views of 
+rectangular prisms and rectangular 
+composite objects, volume and/or 
+Australian time zones 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints  
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+In real-world situations involving
+perimeter and area of quadrilaterals 
+and circles, properties of 
+quadrilaterals, transformations of 
+figures, Pythagoras’ theorem, 
+congruency, cross-sections, volume 
+or capacity of prisms and/or 
+international time zones 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+In real-world situations involving the
+perimeter and area of composite 
+shapes and right-angled triangles, 
+enlargement and reduction of 
+similar figures, finding unknown side 
+lengths and angles using 
+trigonometric ratios, scale in similar 
+figures and/or volume, capacity and 
+surface area of right prisms and 
+cylinders  
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+In real-world situations involving
+Pythagoras’ theorem, trigonometry 
+and angles of elevation and 
+depression in right-angled triangles, 
+volume, capacity and surface area of 
+composite objects, the impact of 
+errors in measurement and/or the 
+effect of enlargement and reduction 
+on perimeter, area and volume of 
+similar figures and objects  
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+
+===== PAGE 76 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+73 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+context and any assumptions
+or constraints  
+For example: 
+ 
+‘Maya is a Year 7 student who 
+lives in Albany, WA and wants to 
+phone her grandmother who 
+lives in Adelaide, SA. Maya 
+would like to call her 
+grandmother after school and 
+also knows her grandmother 
+goes to bed at 7.30 pm. 
+Determine a suitable time  
+range in which Maya could ring 
+her grandmother.’  
+Realising that an approximate 
+range of times is required, that 
+Maya would need to ring her 
+grandmother after school 
+finishes at approximately 4 pm 
+in Albany and before 7 pm in 
+Adelaide, to allow time for the 
+conversation. Maya would also 
+need to consider if it is daylight 
+saving time or not. Choosing to 
+represent the situation using a 
+number line, communicating  
+context and any assumptions
+or constraints  
+For example: 
+ 
+‘Barri has designed a disposable 
+sugar sachet, the shape of a 
+triangular prism. The length of 
+the prism is 52 mm, and the end 
+face has a base length of 0.9 cm 
+and perpendicular height of 
+8 mm. Barri is asked to redesign 
+the sachet to have a volume of  
+2 cm3 by altering just one 
+dimension. Determine the new 
+dimensions of the sugar sachet.’ 
+Assuming that an exact solution 
+would be required given the 
+degree of accuracy of the 
+measurements and the size of 
+the object. Choosing to 
+represent the situation as an 
+oblique sketch and with the 
+formula for volume of a 
+triangular prism. Showing 
+calculations using the same units 
+and solving equations to 
+determine new dimensions. 
+III. 
+interpret and communicate
+findings in terms of the 
+context and any assumptions 
+or constraints  
+For example: 
+ 
+‘A building firm is constructing a 
+roof beam with an 11.4 m base 
+beam parallel to a 7.6 m roof 
+beam and 1.5 m apart. The firm 
+wants to insert a truss to 
+connect from one top corner to 
+the diagonal bottom corner to 
+ensure that the beam is rigid. 
+What is the total length of roof 
+beam needed to build the whole 
+roof beam?’ 
+Deciding that an exact answer to 
+the nearest millimetre is required 
+for building purposes and that the 
+truss is straight. Choosing to use 
+III. 
+interpret and communicate
+findings in terms of the 
+context and any assumptions 
+or constraints  
+For example: 
+ 
+‘A drone is hovering at a height 
+of 455 m. The angles of 
+depression from the drone to a 
+boat in trouble are at first 9° 
+and then 14°. How far has the 
+troubled boat travelled between 
+the two observations?’ Making 
+assumptions, such as the sea is 
+relatively flat, the drone’s height 
+is constant and that it does not 
+change position. Using 
+representations, such as a 
+diagram, choosing a 
+trigonometric function, such as 
+tangent and determining the 
+difference between the 
+horizontal distance from the 
+drone at 9° to 14°. 
+Communicating the solution in 
+terms of the drone and the  
+
+===== PAGE 77 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+74 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+the solution as an appropriate
+local time range for Maya  
+and checking against the  
+initial assumptions 
+ 
+‘Charlie is planning to knit a 
+floor rug. She already has 5 m of 
+braiding that she will use to go 
+around the outside edge of the 
+rug. She wants to know if she 
+should knit a square or a 
+rectangular rug to maximise the 
+floor space that the rug will 
+cover. What shape and 
+dimensions should Charlie 
+choose?’ 
+Deciding that an accurate 
+answer is required, that the 
+perimeter length needs to be 
+less than 5 m to allow the braid 
+ends to be connected, so a small 
+reduction in the length of braid 
+should be determined, and that 
+the room dimensions and visual 
+appeal of the rug will be 
+constraining factors. 
+Representing the situation using 
+Communicating the solution
+with the chosen units and 
+explaining that the solution 
+could differ, depending on the 
+dimension chosen to alter 
+properties of an isosceles
+trapezium and Pythagoras’ 
+theorem to determine the length 
+of the truss and the length of the 
+equal, non-parallel sides and the 
+perimeter of a trapezium to 
+determine the total length of 
+beam. Communicating the 
+solution in the context of the roof 
+beam and to the nearest 
+millimetre 
+boat and with reference to
+the assumptions 
+ 
+‘A construction firm needs to 
+build a bespoke hollow 
+cylindrical 1.25 m cement pipe 
+with an outer diameter of  
+32.5 cm and a pipe thickness of 
+6.5 cm. Determine the volume 
+of cement required to make the 
+pipe and the maximum capacity 
+of the pipe at any given time.’  
+Making assumptions, such as an 
+exact volume and capacity is 
+required and that the thickness 
+of the pipe is uniform with the 
+pipe cross-section congruent 
+throughout the length of the 
+pipe. Choosing to use 
+consistent, appropriate units, 
+such as metres. Selecting 
+efficient strategies and 
+appropriate formulas to 
+determine the volume of the 
+pipe in cubic metres, rounding 
+up appropriately to ensure 
+enough cement. Determining 
+
+===== PAGE 78 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+75 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+square and rectangle diagrams,
+choosing the attribute of area to 
+determine the largest floor 
+space and reasoning using 
+patterning, to find possible 
+dimensions that satisfy the braid 
+length (perimeter) of 4.92 m 
+(assuming 8 cm to connect the 
+braid). Determining the area of 
+each possibility in square units. 
+Identifying and communicating 
+that the square of side length 
+1.23 m provides the maximum 
+possible area of 1.51 m2, that it 
+satisfies the constraint of 4.92 m 
+and would be a suitable, visually 
+appealing shape 
+the volume of the hollow pipe
+and converting to capacity in 
+litres. Communicating the 
+solution to the total volume of 
+the pipe in cubic metres and the 
+capacity of the pipe in litres, 
+making reference to the 
+assumptions made 
+ 
+ 
+
+===== PAGE 79 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+76 
+Strand: Probability and statistics 
+Sub-strand: Probability and statistics 
+Year 7
+Year 8
+Year 9
+Year 10
+Construct sample spaces for
+single-stage chance experiments, 
+assign probabilities to the 
+outcomes and predict frequencies 
+for different numbers of trials  
+For example: 
+ 
+discussing probability 
+terminology, such as 
+probability, favourable 
+outcome, event, trial, sample 
+space, experiment. 
+Producing a sample space for a 
+standard six-sided dice 
+S = {1, 2, 3, 4, 5, 6} and 
+determining the probability of 
+rolling a 4 using   
+ 
+so P(4) =
+ଵ
+଺ ,  0.17, 16.67% or a 
+one-in-six chance. 
+In 100 trials, it would be 
+expected that the number of 
+Construct sample spaces, such as
+lists, simple tree diagrams, tables or 
+arrays, to show all possible outcomes 
+for two events. Assign probabilities to 
+outcomes and events including those 
+involving ‘and’, ‘not’, ‘at least’, 
+exclusive ‘or’ and inclusive ‘or’  
+For example: 
+ 
+constructing sample spaces to 
+show all outcomes for two free 
+throws at a basketball game, 
+where a score or miss is equally 
+likely, such as  
+S = {SS, SM, MS, MM} 
+or 
+ 
+or 
+Construct sample spaces to show
+outcomes for two-stage chance 
+experiments both with and without 
+replacement. Assign probabilities to 
+outcomes and make informal 
+connections to independent and 
+dependent events  
+For example: 
+ 
+the digits 1, 2, 3, 4 and 5 are 
+written on ping-pong balls and 
+placed in a bag. Two balls are 
+drawn consecutively without 
+replacement to make a two-digit 
+number. Choosing from a list, an 
+array or a tree diagram to show 
+all possible outcomes and use 
+this to find the probability that 
+the number formed is even. 
+Repeating with replacement. 
+Noting that the events of drawing 
+one ball after another with 
+replacement are independent as 
+Choose and construct
+appropriate sample spaces to 
+show outcomes for two- and 
+three-stage chance experiments 
+both with and without 
+replacement. Assign probabilities 
+to events involving conditional 
+statements, such as ‘if ... then’, 
+‘given’, ‘of’, ‘knowing that’  
+For example: 
+ 
+recognising and interpreting 
+the notation and language of 
+conditional probability, such as 
+from a dice roll and a coin toss, 
+determining 
+P(3 and a tail|dice shows a prime number) 
+i.e. the probability of flipping a 
+3 and a tail, given that the dice 
+roll was a prime number. 
+Choosing from a list, array or 
+tree diagram to show all 
+
+===== PAGE 80 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+77 
+Year 7
+Year 8
+Year 9
+Year 10
+times 4 would occur would be
+approximately 
+ଵ 
+଺× 100 = 16.67 which would 
+be rounded to 17 
+ 
+assigning probabilities to 
+events involving coins, dice, 
+spinners, cards, lucky dips etc. 
+and using to assign probabilities 
+to events, such as 
+P(a miss first and a score second) 
+P(a miss first or a score second)  
+P(at least one score) 
+P(not having any misses) 
+ 
+creating a sample space to show 
+all outcomes for rolling two 
+standard dice 
+and using to assign probabilities 
+to events, such as 
+the outcome of the first event
+does not impact the outcome of 
+the second event 
+ 
+choosing to construct a tree 
+diagram sample space to 
+represent a box of three 
+chocolates, containing one 
+strawberry and two caramel 
+chocolates, with two chocolates 
+being randomly selected, one 
+after the other. Determining the 
+probability of selecting two 
+caramels in each of the  
+following scenarios  
+ 
+with replacement: 
+the three chocolates have 
+coloured wrappers to 
+indicate the flavour. A 
+chocolate is randomly 
+chosen, the flavour noted 
+and the chocolate replaced 
+(independent events)  
+outcomes and assign a
+probability  
+ 
+choosing and representing a 
+suitable sample space, such as 
+an array, for rolling two  
+eight-sided dice to assist in 
+determining the probability of 
+a sum of 14, given that both 
+dice show an even number. 
+Use knowledge and reasoning 
+of conditional events to 
+restrict the sample space and 
+assign conditional probabilities 
+ 
+choosing to represent the 
+sample space of drawing three 
+marbles from a bag containing 
+two red, one green and two 
+blue marbles, one after the 
+other without replacement, in 
+a tree diagram. Determining 
+the probability of events, such 
+as ‘drawing a blue marble 
+third, given the first was red’ 
+and ‘drawing a green marble 
+first, knowing that the second  
+was blue’ 
+
+===== PAGE 81 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+78 
+Year 7
+Year 8
+Year 9
+Year 10
+P(rolling a 1 first)
+P(rolling at least one 5) 
+P(not rolling a double) 
+P(rolling a 4 first and a 4 second) 
+P(sum of 6) 
+Recognise that complementary 
+events have a combined probability 
+of one and use this relationship to 
+calculate probabilities 
+For example: 
+ 
+exploring the language of 
+complementary events, such as 
+rolling a 3 on a dice and not 
+rolling a 3 on a dice. Verifying 
+that as the probability of rolling a 
+3 on a dice is 
+ଵ
+଺ and the 
+probability of not rolling a 3 on a 
+dice is 
+ହ
+଺, then the sum of the 
+event and its complement is 1 
+ 
+using complementary events to 
+assign the probability of not 
+choosing a red 3 from a standard 
+pack of cards by 
+P(not choosing a red 3) 
+= 1 − P(choosing a red 3) 
+ 
+P(caramel, caramel) = 
+ସ
+ଽ 
+ 
+without replacement:  
+three unwrapped  
+chocolates, needing to be 
+eaten to identify flavours 
+(dependent events)  
+ 
+P(caramel, caramel) =
+ଶ
+଺=
+ଵ
+ଷ 
+Year 9 optional 
+Identify independent and dependent 
+two-stage chance events using 
+𝑃(𝐴 and 𝐵) = 𝑃(𝐴) × 𝑃(𝐵) and 
+sample spaces, such as tree 
+diagrams, to determine the 
+probability of independent events 
+Year 10 optional
+Use weighted tree diagrams 
+and/or formulas to assign 
+probabilities to two- and  
+three-stage chance events 
+including situations involving 
+conditional probability 
+
+===== PAGE 82 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+79 
+Year 7
+Year 8
+Year 9
+Year 10
+= 1 −
+ଶ
+ହଶ  
+= 
+ହ଴
+ହଶ or  
+ଶହ
+ଶ଺  
+or 96.2% or 0.962  
+or a 25 in 26 chance 
+ 
+using complementary events to 
+assign a probability to rolling at 
+most a 9 from a 10-sided dice roll 
+by identifying that P(at most a 9) 
+and P(10) are complementary 
+events. Using 1 − 
+ଵ
+ଵ଴  to 
+determine the  
+expected probability 
+Conduct repeated single-stage
+chance experiments and 
+simulations to produce datasets, 
+including through the use of digital 
+tools, for an increasingly large 
+number of trials. Discuss and 
+describe variation and  
+estimated probabilities for 
+outcomes, and compare to 
+predictions and theoretical 
+probability, where appropriate 
+Conduct repeated chance
+experiments and simulations for two 
+events to produce datasets, including 
+through the use of digital tools, for a 
+large number of trials. Discuss, 
+explain and compare variation and 
+estimated probabilities for simple 
+and compound events 
+For example: 
+ 
+conducting a simulation to 
+determine the estimated 
+probability of not getting two 
+tails when tossing two coins. 
+Conduct repeated two-stage chance
+experiments and simulations, both 
+with and without replacement, to 
+produce datasets, including through 
+the use of digital tools. Discuss, 
+compare and interpret variation and 
+estimated probabilities for 
+compound events 
+For example: 
+ 
+conducting an experiment to find 
+the estimated probability of 
+choosing two hazelnut  
+chocolates, one after the other, 
+Conduct repeated chance
+experiments and simulations to 
+model conditional probability and 
+produce datasets using digital 
+tools. Discuss, compare and 
+analyse variation and estimated 
+probabilities for conditional events 
+For example: 
+ 
+conducting an experiment to 
+find the estimated probability 
+of drawing a red marble third, 
+given the first was green, when 
+drawing three marbles 
+
+===== PAGE 83 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+80 
+Year 7
+Year 8
+Year 9
+Year 10
+For example:
+ 
+conducting an experiment to 
+find the estimated probability 
+of a drawing pin falling point up 
+or point down when tossed. 
+Completing 20 trials, 
+determining relative 
+frequencies (fraction of those 
+that landed point up or point 
+down), comparing with others, 
+describing variation in results 
+and estimating probabilities of 
+each outcome. Repeating over 
+a large number of trials, 
+comparing to others again and 
+using the data to estimate the 
+probability that a pin will land 
+point down when tossed. 
+Comparing this to former 
+estimates of probabilities  
+and discussing the law of  
+large numbers 
+ 
+conducting a simulation to 
+determine the chance of 
+randomly choosing a person 
+who supports the Dockers from 
+Predicting the probability before
+using a virtual coin toss or 
+random number generator with 1 
+representing ‘heads’ and 2 
+representing ‘tails’, to flip two 
+coins for a large number of trials. 
+Comparing results with others, 
+and with predicted and 
+theoretical probability results, 
+discussing and explaining any 
+variation and making connections 
+to complementary events. 
+ 
+Conducting an experiment to find 
+the estimated probability of a 
+difference of 6 between the sum 
+of the numbers shown on two 
+white dice and the number 
+shown on a green dice. 
+Completing an actual or virtual 
+dice experiment to produce a 
+large set of data, representing 
+results in a column graph and 
+using to estimate the probability 
+of the difference being 6. 
+Comparing the shape of the 
+graph in terms of clusters, gaps, 
+from a box containing seven
+strawberry, 11 hazelnut and two 
+caramel chocolates for the 
+following scenarios 
+ 
+with replacement: 
+the chocolates have coloured 
+wrappers to indicate the 
+flavour. A chocolate is 
+randomly chosen, the flavour 
+noted, the chocolate 
+replaced, and a second 
+chocolate is chosen, and the 
+flavour is noted 
+ 
+without replacement: 
+the chocolates are 
+unwrapped, needing to be 
+eaten to identify flavours (not 
+replaced), choosing and using 
+an appropriate tool, such as a 
+1–20 random number 
+generator (1–7 strawberry,  
+8–18 hazelnut and 19–20 
+caramel) to simulate and 
+generate large datasets for 
+both scenarios. 
+consecutively, without
+replacement, from a bag 
+containing 19 red, eight blue 
+and 13 green marbles. 
+Choosing and using an 
+appropriate tool, such as a 
+1–40 random number 
+generator, to simulate the 
+situation. Producing a large 
+number of trials to estimate 
+the probability of drawing a 
+red marble third, given the first 
+was green. Comparing results 
+with others, recognising the 
+effect of ‘without 
+replacement’, conditional 
+events and chance variation on 
+the datasets produced and the 
+estimated probability. 
+Comparing and analysing 
+differences between the  
+initial prediction and the 
+estimated probability. 
+For students engaging in Year 
+10 optional, extending and 
+connecting to the probability 
+formula for conditional events 
+
+===== PAGE 84 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+81 
+Year 7
+Year 8
+Year 9
+Year 10
+a family comprising three
+Eagles supporters, two Dockers 
+supporters and one Geelong 
+supporter. Predicting the 
+expected probability before 
+using a random number 
+generator from 1–6, with 1, 2, 
+3 representing the Eagles 
+supporters, 4 and 5 
+representing the Dockers 
+supporters and 6 representing 
+the Geelong supporter, over 20 
+trials. Determining the relative 
+frequency that a Dockers 
+supporter is chosen, comparing 
+results with others, describing 
+variation and estimating the 
+probability. Repeating over an 
+increasingly large number of 
+trials. Comparing results of 
+estimated probability to 
+theoretical probability and 
+discussing variation 
+ 
+conducting an experiment to 
+predict the unknown 
+distribution of red, green and 
+outliers and symmetry with
+others and noting variation. 
+Explaining and justifying 
+conclusions made regarding the 
+probability of a difference of 6 
+between the sum of the numbers 
+shown on two white dice and the 
+number shown on a green dice 
+Using the datasets to estimate
+the probability of drawing a 
+hazelnut followed by another 
+hazelnut in each case, comparing 
+and explaining differences in the 
+estimated probabilities of 
+drawing two hazelnuts between 
+scenarios. Discussing and 
+interpreting the effects of 
+with/without replacement and 
+the chance variation on the 
+datasets and the conclusions 
+drawn. 
+For students engaging in Year 9 
+optional, extending and 
+connecting to the probability 
+formula for independent events 
+ 
+conducting a simulation of an 
+amusement arcade game 
+where the prizes are three 
+toys, with the chances of 
+winning a toy dinosaur being 
+20%, a fluffy dice 50% and a 
+stuffed toy 30%. Making 
+predictions of the average 
+number of played games 
+required to win at least one of 
+each of all three prizes. 
+Choosing and using an 
+appropriate tool, such as a 
+virtual spinner or a random   
+1–10 number generator, to 
+simulate the situation and to 
+produce a large dataset. Using 
+data to estimate the average 
+number of games played to 
+collect at least one of each of 
+all three prizes. Comparing 
+results with others, describing 
+and explaining variation of 
+results. Discussing, comparing 
+and analysing differences in 
+the average number of games 
+
+===== PAGE 85 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+82 
+Year 7
+Year 8
+Year 9
+Year 10
+blue counters in a bag of 12.
+Randomly choosing a counter, 
+noting its colour, replacing and 
+recording the frequencies of 
+red, green and blue over 50 
+trials. Determining the relative 
+frequencies for each colour, 
+noting that they add to one. 
+Comparing results with others, 
+describing variation and 
+predicting colour distribution. 
+Repeating over many trials, and 
+again comparing to others, 
+calculating appropriate 
+averages, predicting colour 
+distribution, then confirming 
+the actual number of each 
+colour in the bag. Describing 
+comparisons of predicted and 
+actual colour distribution. 
+Relating to the theoretical 
+probability and discussing 
+variation in the experimental 
+probability as the number  
+of trials increases (law of  
+large numbers) 
+needed to win at least one of
+each of all three prizes, in 
+situations where it was given 
+that the first prize drawn was  
+ 
+a stuffed toy 
+ 
+a toy dinosaur 
+ 
+a fluffy dice 
+ 
+conducting simulations to 
+produce datasets for situations 
+involving chance, such as the 
+‘birthday problem’ or ‘three 
+door problem' 
+
+===== PAGE 86 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+83 
+Year 7
+Year 8
+Year 9
+Year 10
+Explore and determine the mean,
+mode, median and range for sets  
+of data and justify, using the 
+context, which measure best 
+reflects the dataset  
+For example: 
+ 
+using concrete materials, such 
+as a small collection of 
+ 
+beakers of different 
+amounts of water 
+ 
+‘fake’ $100 notes allocated 
+to students ($500, $200, 
+$500, $1400, $600, $0)  
+to physically show the mode 
+and the range, reordering to 
+demonstrate the median and 
+redistributing evenly between 
+each data point to show the 
+mean (generalising to a 
+numerical calculation of the 
+mean). Discussing which 
+measure of average best 
+reflects each physical context 
+ 
+given the mean number of pets 
+in seven households is 4.25, 
+working backwards to produce 
+and explain seven reasonable 
+data points 
+Analyse data represented in
+stem-and-leaf plots, column graphs 
+and frequency tables to determine 
+the mean, mode/s, median and 
+range. Describe the effect of any 
+outliers on the statistical measures  
+For example: 
+ 
+using information recorded in a 
+table, on the number of cups of 
+coffee consumed by people in an 
+office on a given day  
+Number of 
+cups 
+0 
+1 
+2 
+3 
+9 
+Frequency 
+12 
+27 
+16 
+5 
+1 
+determining the mean, mode, 
+median and range of the data 
+with and without the outlier, 
+manually or with digital tools. 
+Comparing and describing 
+differences in the two sets of 
+statistical measures (with and 
+without outlier), recognising the 
+impact of the outlier on mean 
+and range and understanding 
+why it is often more appropriate 
+to use the mode or median to 
+Analyse data with multiple variables
+represented in tables. Describe using 
+statistical measures and relative 
+frequencies to make inferences  
+For example: 
+ 
+describing data in tables involving 
+variables, such as the states of 
+Australia, their population, land 
+size and median house price. 
+Determining proportions, such as 
+the percentage of Australians 
+who live in NSW or the fraction of 
+land size that WA is of Australia, 
+and statistical measures, such as 
+the average median house price. 
+Discussing possible inferences 
+that could be made from the data
+Analyse bivariate data represented
+in a two-way table using 
+proportions and comment on 
+possible association between 
+categorical variables  
+For example: 
+ 
+forty people in the suburb of 
+Gosnells were randomly 
+surveyed about dog adoption 
+from the local dog shelter to 
+produce data to guide an 
+adoption advertising 
+campaign. Using the data given 
+in a two-way table 
+determining proportions, such 
+as  
+ଵହ
+ଷଵ  of the population that 
+live within 5 km of the dog 
+shelter have adopted a dog, 
+which is similar to  
+ସ
+ଽ  of the 
+population that live further 
+
+===== PAGE 87 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+84 
+Year 7
+Year 8
+Year 9
+Year 10
+ 
+using data sources, such as 
+primary, discrete data collected 
+from chance experiments, or 
+secondary, continuous data, 
+such as the maximum 
+temperature/rainfall in the 
+class town or city for each 
+month of the year, to 
+determine mean, mode, 
+median and range using 
+written jottings or digital tools 
+depending on the complexity 
+of the data. Explaining and 
+justifying which is the most 
+reflective of the dataset 
+describe data when an outlier is
+included in the calculations 
+than 5 km from the dog shelter
+and have adopted a dog. 
+Commenting that proximity to 
+a dog shelter does not appear 
+to have an association with 
+dog adoption. Discussing how 
+the information could be used 
+to guide the dog adoption 
+advertising campaign 
+Represent primary categorical and
+numerical data in a Venn diagram, 
+calculate related relative 
+frequencies and interpret results  
+For example: 
+ collecting data from a Year 7 
+maths class on different options 
+for an end of term activity, such 
+as those who would prefer to go 
+to a movie, those who would 
+prefer tenpin bowling, those 
+who are happy with either 
+Use secondary data represented in
+two-way tables and Venn diagrams to 
+describe events, including those that 
+are mutually exclusive. Estimate 
+related probabilities and make 
+predictions as appropriate  
+For example: 
+ 
+using data represented in 
+completed or partially completed 
+two-way tables, such as 
+information concerning jackets 
+Explore, choose and create
+graphical or visual representations 
+and justify choice with regards to 
+context, purpose, data type and 
+intended audience   
+For example: 
+ 
+using digital tools and a variety of 
+data types and data sizes, explore 
+and create standard and  
+non-standard representations, 
+such as histograms, line graphs, 
+Represent secondary data in
+two-way tables or Venn  
+diagrams and assign probabilities 
+to outcomes involving  
+conditional statements  
+For example: 
+ 
+choosing from a Venn diagram 
+or two-way table to represent 
+information, such as a 
+200-people survey about 
+which social media platform 
+
+===== PAGE 88 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+85 
+Year 7
+Year 8
+Year 9
+Year 10
+option and those who like none
+of the options. Representing the 
+results in a Venn diagram and 
+determining the proportion 
+(relative frequency) of students 
+who chose the movies and not 
+tenpin bowling (e.g. 
+ସ
+ହ ). 
+Analysing results, such as most 
+of our class would like to go to a 
+movie because the film playing 
+at that time is very popular. 
+Acknowledging that the data 
+would vary if recorded on a 
+different day or from a different 
+Year 7 class, impacting 
+conclusions. Discussing whether 
+it would be valid to use the data 
+from this maths class to make 
+decisions for the whole 
+population of Year 7 students 
+Represent collected data in a 
+stem-and-leaf plot, describe the 
+shape and spread including 
+outliers, and compare to dot plots 
+or column graphs. Use the data to 
+estimate probabilities of specific 
+outcomes  
+ordered by members of a netball
+club and whether the jacket had 
+a hood or a name printed on the 
+back 
+Determining and describing the 
+jackets of 14 students as having a 
+name printed but not having a 
+hood, 68 students as having a 
+hood and a name printed and 
+194 students having a hood, or a 
+name printed. Determining 
+related probabilities, such as a 
+student being chosen at random 
+who does not have a name 
+printed on their jacket. 
+Identifying and describing that 
+the outcomes of having a hood 
+and having a name printed are 
+not mutually exclusive, as they 
+can occur at the same time. 
+Using the data to predict that in a 
+future group of 300 netball club 
+members 
+Venn diagrams, two-way tables,
+stem-and-leaf plots, stacked bar 
+charts, pie charts, infographics or 
+3D graphs  
+ 
+discussing determining factors 
+involved in choosing an 
+appropriate representation, such 
+as where the representation will 
+be displayed, whether the data is 
+categorical, numerical, 
+continuous or discrete, the 
+message the representation will 
+be intending to convey, who will 
+be viewing the representation 
+and what level of detail or 
+complexity in the representation 
+is appropriate for the audience 
+ 
+using topics of interest involving 
+sports statistics, environmental 
+data over time, social media 
+‘likes’ etc., selecting and creating 
+an appropriate display based on 
+the dataset and the 
+determining factors  
+Interpret and compare multiple 
+datasets represented in back-to-back 
+they use. 115 use ‘Quickgram’
+only, 13 use ‘Z’ only and 45 use 
+neither. Determine the 
+probability that a person 
+chosen at random uses ‘Z’ 
+given that they also use 
+‘Quickgram’. 
+Note: situations involving 
+mutually exclusive events 
+should also be included 
+Represent the relationship 
+between bivariate data in a scatter 
+plot and draw a trend line by eye if 
+appropriate. Use the graph and 
+context to describe any association 
+in terms of strength, direction, 
+linearity and outliers. Make 
+predictions and recognise  
+and explain any limitations of  
+the model 
+For example: 
+ 
+representing data of the arm 
+span and height, in 
+centimetres, of a group of 
+students, manually or with 
+digital tools, depending on the 
+
+===== PAGE 89 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+86 
+Year 7
+Year 8
+Year 9
+Year 10
+For example:
+ 
+collecting data, such as the 
+number of items of stationery 
+in pencil cases, with one-half of 
+the class representing results 
+on a stem-and-leaf plot and the 
+other on a dot plot, manually 
+or by using digital tools. 
+Stem-and-leaf plot displaying 
+number of items of stationery 
+in pencil cases  
+ 
+Dot plot displaying number  
+of items of stationery in  
+pencil cases  
+ 
+ 
+ଵଵଶ
+ଶଶ଴ × 300 = 152.72, or   
+approximately half the members, 
+would order a jacket with a hood 
+but no name, acknowledging that 
+future outcomes will be affected 
+by chance variation, such as 
+fashion trends 
+ 
+using data represented in a 
+completed or partially completed 
+Venn diagram concerning a 
+sample of 180 people at the 
+Perth Royal Show being asked by 
+the organisers to complete a 
+questionnaire as to whether they 
+had visited the cat pavilion only, 
+the dog pavilion only, both  
+or neither.  
+ 
+Reasoning that the number of 
+people who had visited both 
+stem-and-leaf plots and histograms
+with consideration of shape, spread 
+and centre  
+For example: 
+ 
+given a back-to-back 
+stem-and-leaf plot of pulse rates 
+before and after exercise to show 
+heart beats per minute, 
+describing the shape of ‘before’ 
+and ‘after’ as both being non-
+symmetrical and positively 
+skewed. 
+ 
+Comparing the gaps (a significant 
+gap between 124 and the outlier 
+of 146 in the ‘after’ pulses), 
+clusters (tighter clustering 
+amount or complexity of the
+data, in a scatter plot. 
+ 
+Describing the data as having a 
+strong, positive, linear 
+relationship between arm span 
+and height, with arm span 
+increasing as height increases 
+and with no outliers. Using the 
+trend line to make predictions 
+between known data values, 
+such as predicting the height 
+of a student with an arm span 
+of 165 cm (interpolation), and 
+beyond known data values, 
+such as predicting the arm 
+span of a student who is 210 
+cm tall (extrapolation), 
+discussing the validity of each 
+
+===== PAGE 90 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+87 
+Year 7
+Year 8
+Year 9
+Year 10
+Each half of the class to
+comment on the shape of the 
+data from their distribution. 
+Identifying clustering of most 
+items between 12–16,  
+non-symmetrical, a spread in 
+items of 22 (30–8), gaps 
+between 9–12 and 16–20 and 
+an outlier of 30, recognising 
+that 30 items could be the 
+result of an error or that one 
+person has a lot of stationery 
+items. Comparing displays and 
+recognising that a stem-and-
+leaf plot provides detailed 
+information about individual 
+data points and the dot plot (or 
+column/bar graph) provides a 
+clear picture of the mode, 
+shape, spread and outliers of 
+the distribution. Determining 
+the probability that a person 
+chosen at random from the 
+class would be someone from 
+the ‘cluster’, that is, has 12–16 
+items of stationery in their 
+pencil case 
+pavilions was 25. Determining
+related probabilities of a person 
+being chosen at random for a 
+follow-up survey, who had visited 
+at least one of the pavilions.  
+Recognising that visiting the cat 
+pavilion and the dog pavilion are 
+not mutually exclusive events, as 
+both events could occur. 
+Understanding that for mutually 
+exclusive events, such as buying a 
+Royal Show entrance ticket 
+online or buying it at the gate, a 
+Venn diagram depicting how 
+visitors purchased tickets  
+would appear as two  
+non-interconnecting circles. 
+Determining that approximately 
+36% of visitors to the Royal Show 
+do not go to either pavilion and 
+using this to inform possible 
+action for future Royal Shows, 
+acknowledging that future 
+predictions will be affected by 
+chance variation, such as weather
+Investigate and explain techniques 
+for data collection, including census, 
+around the middle values in the
+‘after’ pulses) and range 
+(significantly higher in the ‘after’ 
+pulses due to the outlier). 
+Determining the mean, mode and 
+median of ‘before’ and ‘after’, 
+recognising that the ‘after’ pulses 
+have more than one mode and 
+calculating the differences 
+between the mean and the 
+median between each of the 
+datasets. Generalising to ‘after’ 
+pulse rates have higher central 
+tendencies, a wider spread and 
+tighter clustering compared to 
+the ‘before’ pulse rates 
+ describing comparative 
+histograms displaying the growth 
+of seedlings after different 
+fertilisers are applied, in terms of 
+shape and spread 
+prediction and explaining the
+predictions limitations in terms 
+of chance variation 
+Represent and analyse boxplots. 
+Explain differences between 
+multiple boxplot datasets in terms 
+of shape, spread and centre. 
+Compare or match the shapes of 
+boxplots to distributions depicting 
+the same data 
+For example: 
+ 
+using a five-number summary 
+calculated from a dataset to 
+assist in producing a boxplot 
+manually or with digital tools, 
+depending on the size and 
+complexity of the data, and 
+conversely, using a given 
+boxplot to extract a  
+five-number summary. 
+Analysing the distribution in 
+terms of shape (symmetry, 
+skewness and clustering), 
+spread (range and IQR) and 
+centre (median) 
+
+===== PAGE 91 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+88 
+Year 7
+Year 8
+Year 9
+Year 10
+survey, experiment and observation,
+and explain the practicalities and 
+implications of obtaining data 
+through these techniques  
+For example: 
+ 
+defining and identifying data 
+collection techniques and 
+explaining the practicalities and 
+implications of each in situations, 
+such as  
+ 
+Australian Bureau of 
+Statistics, five-yearly surveys 
+ 
+polling voters  
+ 
+testing a new medicine 
+ 
+studying animal behaviour 
+Explore, analyse and compare 
+variation between results from same 
+size random samples drawn from the 
+same population. Identify and explain 
+how chance variation impacts on 
+data validity, reliability and 
+conclusions drawn  
+For example: 
+ 
+defining sample, random sample 
+and population in the context of 
+producing a dataset of the 
+ 
+describing the shape, spread and 
+centre of the Australian Bureau 
+of Statistics population pyramid, 
+in terms of the age structure of 
+people in Australia over time 
+Describe different sampling methods 
+and analyse how the different 
+methods can affect the results of 
+surveys. Identify and explain how 
+chance variation impacts on the data 
+validity, reliability and conclusions 
+drawn from surveys 
+ 
+representing multiple datasets, 
+such as test results for Class A 
+and Class B, manually or with 
+digital tools, on the same scale 
+and comparing differences 
+between the shape, spread 
+and centre of the distributions 
+ 
+ 
+analysing a negatively skewed 
+distribution, where the mean 
+is smaller than the median, 
+and comparing it with a 
+positively skewed distribution, 
+where the mean is larger than 
+the median 
+ 
+
+===== PAGE 92 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+89 
+Year 7
+Year 8
+Year 9
+Year 10
+heights of a sample of five
+students, randomly chosen from 
+the Year 8 school population 
+using a random number 
+generator. Determining mean, 
+mode, median, range and 
+proportions (e.g. fraction or 
+percentage of students between 
+150 and 155 cm tall) manually or 
+with digital tools from this 
+sample. Repeating for different 
+samples of five students, 
+comparing and analysing 
+variation between the samples, 
+including the effect of outliers. 
+Repeating the process with 
+samples of 15 students, 
+recognising the effect of the 
+increased sample size on 
+variation. Commenting on the 
+impact of the sample size and the 
+validity and reliability of the 
+datasets as indicators of the 
+height of the total population of 
+Year 8 students 
+For example:
+ 
+exploring and explaining 
+systematic, stratified, clustered, 
+convenience or 
+capture-recapture sampling 
+methods, and deciding which 
+method would be most 
+representative of a total 
+population (e.g. stratified 
+sampling would be most  
+suitable when surveying 
+employee satisfaction across 
+different departments) 
+ 
+conducting a survey of fellow 
+students to decide a suitable 
+frozen yoghurt to be included in 
+the school canteen menu. 
+Assigning different sampling 
+methods to groups of students to 
+each produce two different 
+samples. Each group analysing 
+their samples separately to 
+determine and compare findings, 
+discussing chance variation. 
+Comparing results between 
+groups and discussing factors 
+ 
+describing the shape of 
+boxplots and matching the 
+distributions to histograms  
+and dot plots 
+Year 10 optional 
+Produce, organise and represent 
+accurate and valid data in a 
+cumulative frequency graph, and 
+use this to analyse quartiles  
+and percentiles  
+Year 10 optional 
+Determine the mean and standard 
+deviation of a dataset. Investigate, 
+analyse and interpret the effect of 
+individual data values, including 
+outliers, on the standard deviation 
+
+===== PAGE 93 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+90 
+Year 7
+Year 8
+Year 9
+Year 10
+that could explain differences.
+Suggesting and explaining which 
+of the sampling methods 
+produces a valid and reliable 
+dataset on which a prediction of 
+the total population for this 
+scenario can be made  
+ 
+explaining how the number of 
+people with Type A blood could 
+be estimated, justifying choices 
+of sampling size and method with 
+consideration to ensuring the 
+collection of valid and  
+reliable data 
+Year 9 optional  
+Produce and organise accurate and 
+valid, ungrouped continuous data to 
+construct histograms and frequency 
+polygons. Determine summary 
+statistics and analyse the distribution 
+in terms of centre, shape and spread  
+
+===== PAGE 94 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+91 
+Year 7
+Year 8
+Year 9
+Year 10
+Critically analyse statistical
+statements made in the media and 
+other real-life situations, that 
+relate to the averages of mean, 
+mode and median. Investigate the 
+impact of chance variation on the 
+dataset from which the averages 
+were determined 
+For example: 
+ 
+critically commenting on the 
+terminology and meaning of 
+the averages quoted and the 
+impact of chance variation in 
+data, on statements made in 
+the media, such as 
+ 
+the average Australian 
+family has 2.1 children 
+ 
+the Fever netball team 
+scored 42 goals in a game 
+on three occasions in the 
+season. This number of 
+goals occurred more than 
+any other score that 
+season 
+ 
+half of Australia’s 
+population earn less than 
+Critically analyse visual
+representations and tables in the 
+media and other real-life situations to 
+identify misleading or inaccurate 
+features and interpretations. 
+Recognise the impact of the validity 
+and reliability of the data used  
+For example: 
+ 
+using the following graphical 
+display showing the cost of 
+services for a day care business, 
+to describe misleading features 
+Recognising the title and axes 
+labels do not provide clarity as to 
+the purpose of the graph, the 
+scale is distorted or non-existent, 
+the use of selective data from 
+only four years and no 
+acknowledgement of the source 
+Critically analyse statistics in the
+media and other real-life situations 
+relating to data samples, including 
+the effect of chance variation on 
+sample analyses 
+For example: 
+ 
+critically commenting on whether 
+a statistical sample is produced 
+from valid and reliable data by 
+considering factors, such as 
+sample size, random variation, 
+measurement or recording error, 
+inconsistencies or biases in 
+where, when and how the data 
+sample was collected. 
+Recognising that uncertainty in 
+sampling produces uncertainty of 
+conclusions. Commenting on 
+situations such as  
+ 
+a newsagent in a small 
+country town advertises that 
+they have had two  
+million-dollar winners in the 
+past week, encouraging 
+customers to buy the winning 
+ticket from them 
+Critically analyse the claims,
+inferences and conclusions of 
+statistical reports in the media and 
+other real-life situations, and 
+identify potential sources of bias 
+For example: 
+ 
+critically analysing the source, 
+sampling method, validity and 
+reliability of the dataset, 
+accuracy and appropriateness 
+of statistical measures and 
+representations, interpretation 
+and extrapolation of results, 
+including conclusions 
+regarding association, and 
+overall implications and 
+recommendations outlined, to 
+identify possible bias in reports 
+involving  
+ 
+the effectiveness of a  
+new exercise regimen in  
+a magazine 
+ 
+climate change trends and 
+the impact on a local 
+ecosystem reported in the 
+community newspaper 
+
+===== PAGE 95 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+92 
+Year 7
+Year 8
+Year 9
+Year 10
+$75 000 per year and the
+average wage is $98 000 
+per year 
+ 
+a popular confectionery 
+company stating that the 
+typical price of a 180 g 
+chocolate bar is $4.25 
+presenting the display, thus
+meaning the data that the graph 
+is depicting may not be valid and 
+reliable. There is an inappropriate 
+use of size for each of the 
+‘blocks’, creating the impression 
+that the fourth year had at least 
+four times the cost of services 
+than the second. The graph is a 
+biased representation and 
+influences the audience into 
+thinking that the cost of services 
+has increased more than it 
+actually has 
+ 
+the results of people completing 
+the written learner driver’s 
+licence test in a town in WA for 
+one month were represented in a 
+column graph for the State 
+Licensing report. The report 
+stated: ‘There was great  
+variation in results; however, the 
+average score was 25.3 and most 
+people scored above the pass 
+mark of 26’ 
+ 
+a major national supermarket
+conducted a survey about 
+brand preferences using an 
+online form. They received  
+65 responses 
+ 
+researchers want to estimate 
+the population of fish in a 
+dam using the 
+capture-recapture method. 
+They capture and tag 100 
+fish, release them back into 
+the dam and after a month, 
+capture another 100 fish, 
+finding that 10 of them are 
+tagged. They estimate the 
+population of fish in the dam 
+to be 1000 
+ 
+a pharmaceutical company 
+conducts a paid clinical trial 
+with 30 volunteers to test  
+the efficacy of a new drug  
+for headaches 
+ 
+a post on social media
+concerning crime rates in 
+your local area 
+ 
+satisfaction ratings and 
+reports on social media 
+concerning restaurants or 
+other places to visit 
+
+===== PAGE 96 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+93 
+Year 7
+Year 8
+Year 9
+Year 10
+ 
+Critically looking at the validity  
+of including the outlier in the 
+comments and calculations, the 
+mean being the chosen  
+‘average’ and the accuracy of  
+the calculations 
+ 
+ 
+
+===== PAGE 97 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+94 
+Sub-strand: Modelling with probability and statistics 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+In real-world situations involving
+assigning a probability to  
+single-stage chance experiments  
+or simulations, statistical  
+measures, stem-and-leaf plots, dot 
+plots, column graphs and/or  
+Venn diagrams 
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation  
+III. 
+interpret, draw inferences and 
+communicate findings in 
+terms of the context, 
+assumptions, constraints, 
+chance variation and 
+knowledge or insights gained 
+In real-world situations involving
+two-stage chance experiments or 
+simulations, complementary events, 
+data collection methods, same-sized 
+random sampling and/or analysis of 
+graphs, tables and data 
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation  
+III. 
+interpret, draw inferences and 
+communicate findings in 
+terms of the context, 
+assumptions, constraints, 
+chance variation and 
+knowledge or insights gained 
+In real-world situations involving
+two-stage chance experiments or 
+simulations both with or without 
+replacement, different sampling 
+methods, choosing and creating 
+graphical representations  
+and/or analysis of tables and 
+comparative graphs  
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation  
+III. 
+interpret, draw inferences and 
+communicate findings in 
+terms of the context, 
+assumptions, constraints, 
+chance variation and 
+knowledge or insights gained 
+In real-world situations involving
+two- and three-stage chance 
+experiments both with and without 
+replacement, conditional probability 
+or statements, boxplots, bivariate 
+data and/or two-way tables 
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation  
+III. 
+interpret, draw inferences and 
+communicate findings, in 
+terms of the context, 
+assumptions, constraints, 
+chance variation and 
+knowledge or insights gained  
+
+===== PAGE 98 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+95 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+For example:
+ 
+‘What are the chances that the 
+next song on a shuffled playlist 
+is 3.5 minutes long?’ 
+Analysing the situation by 
+considering the number of 
+songs on a playlist, where to 
+find the length of a song on the 
+playlist and the time units used 
+to show the length of a song. 
+Posing questions, such as ‘How 
+long is a song?’ Determining 
+experimental constraints, such 
+as choosing a sample of class 
+members’ playlists to represent 
+the group and only using the 
+first 20 songs played. Discussing 
+how data from the sample could 
+be collated and recorded to 
+ensure validity and reliability, 
+including rounding. 
+Representing the data as a 
+stem-and-leaf plot, determining 
+the relative frequencies for 
+lengths (e.g. fraction of songs 
+that were  
+For example:
+ 
+‘Who has the best chance of 
+winning in a game of throwing 
+two 10-sided dice where Player 
+One wins if the sum of the dice 
+is 9, 10, 11 or 12, Player Two 
+wins if the sum is 13, 14, 15 or 
+16 and Player Three wins for all 
+other sums of dice?’ 
+Analysing the situation by 
+considering the sums of dice 
+Player Three could win with. 
+Posing questions, such as ‘What 
+are all the possible sums when 
+two 10-sided dice are rolled?’ 
+and ‘What is the probability of 
+each sum occurring?’. Making 
+assumptions, such as the dice 
+are fair and that the game is 
+based on a single roll of the 
+dice. Deciding to represent the 
+problem by producing an array 
+or by conducting a simulation 
+over a large number of trials. 
+Using representation, data or 
+complementary events to 
+determine the chance of each 
+For example:
+ 
+‘What are the chances of Kevin 
+randomly choosing two 
+consecutive days in April next 
+year to holiday?’ 
+Analysing the situation by 
+recognising that days cannot be 
+repeated and that the last day of 
+April cannot be included as the 
+first of the consecutive days. 
+Posing questions, such as ‘How 
+many days in April?’ and ‘What 
+are the possible consecutive 
+dates?’ Producing a large set of 
+data using a random calendar 
+date or sequence generator, 
+representing the results in a 
+table and using to estimate the 
+probability of randomly 
+choosing two consecutive April 
+dates. Interpreting and 
+communicating the result, 
+recognising and acknowledging 
+the impact of chance variation  
+ 
+‘Oliver is planning his holidays 
+for next year. He wants to spend 
+For example:
+Using the modelling process to 
+investigate topics, such as 
+ 
+analysing the number of kicks 
+made by two Western 
+Australian football teams in the 
+previous football season, 
+comparing to the number of 
+games won and providing advice 
+to coaching staff for the 
+upcoming season 
+ 
+investigating the validity of a 
+statement in a health magazine 
+that read, ‘The average 
+adolescent has a resting heart 
+rate of approximately 80 beats 
+per minute which is reduced 
+depending on the number of 
+hours of exercise they do per 
+week’  
+Year 10 optional  
+Using the modelling process to 
+design and conduct a chance 
+experiment, simulation or statistics 
+experiment on a topic of interest 
+
+===== PAGE 99 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+96 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+3.2 minutes long) and the mean,
+mode, median and range. 
+Analysing the shape and 
+distribution of the data, 
+commenting on variation. 
+Interpreting the results and 
+drawing inferences to predict 
+the probability of the next song 
+being 3.5 minutes long. 
+Communicating findings in 
+terms of the playlist, qualifying 
+that variation would exist due to 
+reasons, such as the order songs 
+were shuffled, the chosen class 
+members and the type of music 
+they prefer, and commenting on 
+whether and why the dataset 
+would be reflective of a broader 
+population of songs 
+player winning and hence, the
+winner. Communicating the 
+results in the context of the 
+game and with a consideration 
+to variation 
+ 
+‘The health department has 
+noticed an increase in back 
+problems in 13–15-year-old 
+adolescents. The recommended 
+weight of backpacks for this  
+age group is 8 kg or less. 
+Investigate if this backpack 
+weight is typical for adolescents 
+in this age group.’  
+Analysing the situation by 
+considering an appropriate 
+sample size of backpacks to be 
+weighed, the units of weight to 
+be used and what is meant  
+by ‘typical’. Posing questions, 
+such as ‘How much does a 
+backpack weigh?’ From the 
+analysis, determining 
+constraints, such as a sample of 
+backpacks from Year 8 students 
+should be weighed rather than 
+the population of Year 8 
+a week in Esperance for one
+holiday and a week in Geraldton 
+for another holiday. Oliver 
+wants to determine the best 
+months to holiday according to 
+the weather.’  
+Analysing the situation by 
+determining the important 
+aspects of weather. Posing 
+questions, such as ‘What is the 
+maximum temperature in each 
+month for each of the places in 
+the last 10 years?’ Making 
+assumptions, such as his 
+employer allowing him to take 
+holidays in two separate weeks. 
+Producing valid and reliable 
+data from a source, such as the 
+Bureau of Meteorology. 
+Choosing and using appropriate 
+comparative representations 
+depending on the data 
+collected. Analysing and 
+interpreting the 
+representations, communicating 
+when Oliver should travel to 
+
+===== PAGE 100 =====
+ 
+Mathematics │ Scope and sequence │ Years 7–10 │ For implementation in 2026 
+97 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+students and the backpacks
+should be weighed to the 
+nearest half kilogram. Making 
+assumptions, such as the 
+measuring scale is accurate and 
+that the weight reflects what 
+students carry on a daily basis.  
+Randomly choosing a student 
+sample using a random number 
+generator, weighing their 
+backpacks and recording the 
+results in a frequency table. 
+Determining the mean, mode, 
+median and range, representing 
+in an appropriate graph and 
+commenting on variation and 
+the effect of outliers. Repeating 
+the task with a different 
+same-sized sample to consider 
+variation. Communicating the 
+findings in terms of the average 
+weights of the sample 
+backpacks compared to the 
+recommended weight, and 
+commenting if and why this 
+result would be reflective of the 
+broader population 
+these destinations in reference
+to the initial qualifications 
+ 

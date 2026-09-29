@@ -1,0 +1,3478 @@
+
+===== PAGE 1 =====
+ 
+Western Australian Curriculum 
+Mathematics 
+Scope and sequence of the mandated curriculum content 
+Pre-primary–Year 10 | For implementation in 2026 
+ 
+
+===== PAGE 2 =====
+ 
+2024/77069[v9] 
+Acknowledgement of Country 
+Kaya. The School Curriculum and Standards Authority (the Authority) acknowledges that our offices are on Whadjuk Noongar boodjar and that we deliver 
+our services on the country of many traditional custodians and language groups throughout Western Australia. The Authority acknowledges the traditional 
+custodians throughout Western Australia and their continuing connection to land, waters and community. We offer our respect to Elders past and present. 
+Copyright 
+© School Curriculum and Standards Authority, 2025 
+This document – apart from any third-party copyright material contained in it – may be freely copied, or communicated on an intranet, for non-commercial purposes in 
+educational institutions, provided that the School Curriculum and Standards Authority (the Authority) is acknowledged as the copyright owner, and that the Authority’s 
+moral rights are not infringed. 
+Copying or communication for any other purpose can be done only within the terms of the Copyright Act 1968 or with prior written permission of the Authority. Copying or 
+communication of any third-party copyright material can be done only within the terms of the Copyright Act 1968 or with permission of the copyright owners. 
+Any content in this document that has been derived from the Australian Curriculum may be used under the terms of the Creative Commons Attribution 4.0 International 
+licence. 
+This document incorporates material from Mathematics K–10 Syllabus (2022) © 2022 NSW Education Standards Authority (NESA) for and on behalf of the Crown in right of 
+the State of New South Wales. 
+Disclaimer 
+Any resources such as texts, websites and so on that may be referred to in this document are provided as examples of resources that teachers can use to support their 
+learning programs. Their inclusion does not imply that they are mandatory or that they are the only resources relevant to the course. Teachers must exercise their 
+professional judgement as to the appropriateness of any they may wish to use.
+
+===== PAGE 3 =====
+ 
+ 
+Contents 
+Overview ....................................................................................................................................................................................................................... 1 
+Guide to reading this document ................................................................................................................................................................................................ 1 
+Pre-primary–Year 6 ........................................................................................................................................................................................................ 3 
+Strand: Number and algebra .......................................................................................................................................................................................... 3 
+Sub-strand: Understanding number .......................................................................................................................................................................................... 3 
+Sub-strand: Understanding equalities and inequalities ............................................................................................................................................................ 7 
+Sub-strand: Patterns and relationships ..................................................................................................................................................................................... 8 
+Sub-strand: Calculating with number ........................................................................................................................................................................................ 9 
+Sub-strand: Financial mathematics ......................................................................................................................................................................................... 11 
+Sub-strand: Modelling with number ....................................................................................................................................................................................... 11 
+Strand: Measurement and geometry ............................................................................................................................................................................ 13 
+Sub-strand: Two-dimensional space and structures ............................................................................................................................................................... 13 
+Sub-strand: Three-dimensional space and structures............................................................................................................................................................. 16 
+Sub-strand: Non-spatial measurement ................................................................................................................................................................................... 17 
+Sub-strand: Modelling with measurement and geometry ...................................................................................................................................................... 18 
+Strand: Probability and statistics .................................................................................................................................................................................. 20 
+Sub-strand: Probability ............................................................................................................................................................................................................ 20 
+Sub-strand: Statistics ............................................................................................................................................................................................................... 22 
+Years 7–10 ................................................................................................................................................................................................................... 24 
+Strand: Number and algebra ........................................................................................................................................................................................ 24 
+Sub-strand: Understanding number ........................................................................................................................................................................................ 24 
+Sub-strand: Calculating with number ...................................................................................................................................................................................... 27 
+
+===== PAGE 4 =====
+ 
+ 
+Sub-strand: Algebraic techniques ............................................................................................................................................................................................ 28 
+Sub-strand: Linear and non-linear equations and inequalities ............................................................................................................................................... 30 
+Sub-strand: Linear and non-linear patterns and relationships ............................................................................................................................................... 32 
+Sub-strand: Financial mathematics ......................................................................................................................................................................................... 35 
+Sub-strand: Modelling with number and algebra ................................................................................................................................................................... 36 
+Strand: Measurement and geometry ............................................................................................................................................................................ 37 
+Sub-strand: Two-dimensional space and structures ............................................................................................................................................................... 37 
+Sub-strand: Three-dimensional space and structures............................................................................................................................................................. 41 
+Sub-strand: Non-spatial measurement ................................................................................................................................................................................... 42 
+Sub-strand: Modelling with measurement and geometry ...................................................................................................................................................... 43 
+Strand: Probability and statistics .................................................................................................................................................................................. 44 
+Sub-strand: Probability and statistics ...................................................................................................................................................................................... 44 
+Sub-strand: Modelling with probability and statistics ............................................................................................................................................................ 48 
+ 
+
+===== PAGE 5 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+1 
+Overview 
+The Western Australian Curriculum: Mathematics has been adapted from the previous Western Australian Curriculum (adopted from the Australian 
+Curriculum version 8.1), the New South Wales Curriculum (following the New South Wales Curriculum Reform) and the Australian Curriculum version 9. 
+It has been contextualised for the Western Australian Curriculum and Assessment Outline. 
+Guide to reading this document 
+The Scope and sequence shows the mandated curriculum for teaching, written as content descriptions across year levels so that a sequence can be viewed 
+across the years of schooling from Pre-primary to Year 10. 
+The document is organised by three Mathematics strands: Number and algebra; Measurement and geometry; and Probability and statistics. 
+The Number and algebra strand for Pre-primary to Year 6 includes: Understanding number; Understanding equalities and inequalities; Patterns and 
+relationships; Calculating with number; Financial mathematics; and Modelling with number. 
+The Number and algebra strand for Years 7–10 includes: Understanding number; Calculating with number; Algebraic techniques; Linear and non-linear 
+equations and inequalities; Linear and non-linear patterns and relationships; Financial mathematics; and Modelling with number and algebra. 
+The Measurement and geometry strand for Pre-primary to Year 10 includes: Two-dimensional space and structures; Three-dimensional space and 
+structures; Non-spatial measurement; and Modelling with measurement and geometry. 
+The Probability and statistics strand for Pre-primary to Year 6 includes: Probability and Statistics. 
+The Probability and statistics strand for Years 7–10 includes: Probability and statistics; and Modelling with probability and statistics.  
+The Mathematics curriculum includes optional content in Years 9 and 10, which is intended to build and extend students’ year level knowledge according to 
+areas of interest, understanding of content and preparation for subsequent study. Teachers may choose optional content according to the needs of  
+the student/s. 
+ 
+
+===== PAGE 6 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+2 
+The tables below outline the subject organisation for the Pre-primary to Year 10 Mathematics curriculum.  
+Pre-primary to Year 6 
+Number and algebra 
+Understanding 
+number 
+Understanding 
+equalities and 
+inequalities 
+Patterns and 
+relationships 
+Calculating with 
+number 
+Financial 
+mathematics 
+Modelling with number 
+ 
+Measurement and geometry 
+Two-dimensional space and 
+structures 
+Three-dimensional space and 
+structures 
+Non-spatial measurement 
+Modelling with measurement 
+and geometry 
+ 
+Probability and statistics 
+Probability 
+Statistics 
+Years 7–10 
+Number and algebra 
+Understanding 
+number 
+Calculating with 
+number 
+Algebraic 
+techniques 
+Linear and 
+non-linear 
+equations and 
+inequalities 
+Linear and 
+non-linear patterns 
+and relationships 
+Financial 
+mathematics 
+Modelling with 
+number and 
+algebra 
+ 
+Measurement and geometry 
+Two-dimensional space and 
+structures 
+Three-dimensional space and 
+structures 
+Non-spatial measurement 
+Modelling with measurement 
+and geometry 
+ 
+Probability and statistics 
+Probability and statistics 
+Modelling with probability and statistics 
+ 
+ 
+
+===== PAGE 7 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+3 
+Pre-primary–Year 6 
+Strand: Number and algebra 
+Sub-strand: Understanding number 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Say, read, write and 
+order numbers to 
+20, from any 
+starting point. 
+Count collections 
+to 20   
+Say, read, write and 
+order numbers to 
+120 and recognise 
+the repetition of 
+the 0–9 sequence 
+of digits. Skip count 
+collections by twos, 
+fives and tens from 
+zero 
+Read, write and 
+order numbers to 
+at least 1020, 
+including on a 
+number line. 
+Recognise the 
+repetition of the 
+0–99 sequence of 
+digits and the role 
+of zero. Skip count 
+forwards and 
+backwards by twos, 
+threes, fives and 
+tens from any 
+starting point 
+Read, write and 
+order numbers to 
+at least four digits, 
+including on a 
+number line. 
+Recognise the 
+repetition of the 
+0–999 sequence of 
+digits  
+Read, write and 
+order numbers to 
+at least six digits. 
+Recognise the 
+significance of the 
+final digit to 
+determine odd and 
+even numbers 
+Read, write and 
+order seven-digit 
+numbers and 
+beyond 
+Investigate the use 
+of positive and 
+negative integers 
+to represent 
+everyday 
+situations. Read, 
+write and order 
+integers on a 
+number line 
+ 
+ 
+ 
+ 
+Read and write 
+decimal numbers 
+up to two decimal 
+places 
+Read, write, 
+compare and order 
+decimal numbers, 
+including on a 
+number line 
+ 
+
+===== PAGE 8 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+4 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Subitise, partition 
+and compare small 
+collections 
+Explore different 
+ways to represent 
+and partition 
+collections up to 
+100, including in 
+groups of 10, using 
+concrete materials 
+Explore different 
+ways to represent 
+and partition two- 
+and three-digit 
+numbers, including 
+in groups of 10 and 
+10 groups of 10 to 
+make 100, using 
+concrete materials, 
+numbers and 
+symbols  
+Represent and 
+partition numbers  
+up to four digits, 
+including groups of 
+10 (tens), 10 
+groups of 10 
+(hundreds) and 
+beyond, using 
+concrete materials 
+and number 
+sentences. 
+Recognise that the 
+value of a digit is 
+determined by its 
+place in a number 
+Represent numbers 
+up to five digits 
+using place value 
+and non-standard 
+partitions with 
+equations. 
+Recognise the 
+multiplicative (10 
+times as many) 
+place value 
+relationship 
+between adjacent 
+places from right to 
+left 
+Represent and 
+partition numbers 
+up to seven digits. 
+Use the 
+multiplicative place 
+value relationship 
+between adjacent 
+places to explain 
+the value of a digit   
+Represent and 
+explain the 
+multiplicative place 
+value relationship 
+between places in 
+any number, 
+including decimals 
+ 
+ 
+ 
+ 
+Represent and 
+explain the 
+relationship 
+between one 
+whole being shared 
+equally among 10 
+as 0.1 or  
+1
+10  and 
+being shared 
+equally among 100 
+as 0.01 or  
+1
+100  
+Represent and 
+partition decimal 
+numbers. Use the 
+multiplicative place 
+value relationship 
+between adjacent 
+places to explain 
+the value of a digit 
+ 
+ 
+
+===== PAGE 9 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+5 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+using concrete 
+materials 
+  
+Explore partitions 
+of numbers with 
+small collections 
+using part-part-
+whole relationships 
+Explore the 
+relationship 
+between addition 
+and subtraction 
+with small 
+collections using 
+part-part-whole 
+knowledge, 
+numbers and 
+symbols 
+Represent and 
+explain the 
+relationship 
+between addition 
+and subtraction 
+using part-part-
+whole models and 
+number sentences 
+ 
+  
+ 
+ 
+ 
+Recall addition and 
+subtraction facts to 
+10 
+Recall addition and 
+subtraction facts to 
+20 
+ 
+ 
+ 
+Explore grouping 
+and sharing of 
+small collections 
+Explore different 
+ways to equally 
+group or share 
+collections 
+Explore 
+multiplication and 
+division using 
+repeated addition, 
+equal grouping and 
+arrays 
+Explore and 
+represent the 
+relationship 
+between 
+multiplication and 
+division using 
+diagrams, arrays 
+and number 
+sentences 
+Represent and 
+explain the 
+relationship 
+between 
+multiplication and 
+division using 
+arrays and 
+equations 
+Explore, identify 
+and represent 
+factors and 
+multiples of whole 
+numbers in arrays 
+and explain 
+reasoning 
+Explore, identify 
+and represent 
+square, prime and 
+composite 
+numbers in arrays 
+and explain 
+reasoning 
+
+===== PAGE 10 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+6 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+ 
+Recall 
+multiplication facts 
+of 2, 3, 4, 5 and 10, 
+and related division 
+facts 
+Recall 
+multiplication facts 
+up to 10 × 10, and 
+related division 
+facts 
+ 
+ 
+ 
+Explore and create 
+a half by dividing a 
+physical whole into 
+two equal parts or 
+a collection into 
+two equal 
+quantities, using 
+the language of 
+sharing and 
+grouping 
+Recognise, describe 
+and create halves, 
+quarters and 
+eighths by 
+repeatedly halving 
+a physical whole or 
+a collection 
+Recognise, 
+represent and 
+describe unit 
+fractions 
+1
+2 ,
+1
+3 ,
+1
+4 ,
+1
+5  and 
+1
+10. 
+Combine unit 
+fractions with the 
+same denominator 
+to create a 
+complete whole 
+Explore and 
+represent common 
+equivalent 
+fractions and make 
+connections to 
+their decimal 
+representation 
+Count by unit 
+fractions, locate 
+and represent on 
+number lines and 
+extend to mixed 
+numerals 
+Order common 
+fractions with the 
+same and related 
+denominators, 
+including mixed 
+numerals, using 
+diagrams and 
+number lines 
+ 
+ 
+ 
+ 
+ 
+Identify the use of 
+percentages in 
+everyday situations 
+and recognise that 
+100% represents a 
+complete whole, 
+which is equal to 
+one 
+Connect commonly 
+used percentages, 
+including 10%, 25% 
+and 50%, to 
+fractions and 
+decimals, including 
+on a number line 
+
+===== PAGE 11 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+7 
+Sub-strand: Understanding equalities and inequalities 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+Use the equality 
+symbol to indicate 
+the same value in 
+number sentences 
+involving addition 
+and subtraction  
+Explore and use the 
+greater than, less 
+than and equality 
+symbols to 
+compare two 
+whole numbers or 
+statements 
+involving addition 
+and subtraction 
+Decide if 
+statements of 
+equality and 
+inequality involving 
+the four operations 
+are true, and 
+explain reasoning 
+Complete and 
+check statements 
+of equality and 
+inequality involving 
+the four 
+operations, and 
+explain reasoning 
+Complete, check 
+and construct 
+statements of 
+equality and 
+inequality involving 
+the four 
+operations, 
+including the use of 
+brackets and order 
+of operations, and 
+explain reasoning 
+
+===== PAGE 12 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+8 
+Sub-strand: Patterns and relationships 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Copy and continue 
+repeating patterns 
+in everyday 
+environments using 
+a range of 
+materials, sounds 
+and movement 
+Continue and 
+create repeating 
+patterns. Explore 
+and label repeating 
+patterns to show 
+how many of each 
+element is in a 
+repeat unit (core) 
+Recognise and 
+continue increasing 
+or decreasing 
+additive patterns 
+with collections 
+and numbers, and 
+identify missing 
+elements in a 
+pattern 
+Create and 
+represent 
+increasing or 
+decreasing additive 
+patterns from any 
+starting point, 
+using concrete 
+materials and 
+numbers, and 
+describe rules to 
+represent the 
+pattern  
+Create and 
+represent 
+increasing 
+multiplicative 
+patterns, using 
+concrete materials 
+and numbers, and 
+describe rules to 
+represent the 
+pattern  
+Follow rules to 
+create increasing or 
+decreasing additive 
+and multiplicative 
+patterns using 
+concrete materials 
+and numbers. 
+Explore ways to 
+predict unknown 
+values 
+Create and 
+represent 
+increasing or 
+decreasing patterns 
+using concrete 
+materials and 
+numbers. Use 
+words to generalise 
+rules that relate 
+each element of a 
+pattern to its 
+position 
+ 
+ 
+
+===== PAGE 13 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+9 
+Sub-strand: Calculating with number 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+Manipulate 
+collections to add 
+and subtract 
+quantities to 20 and 
+beyond, exploring a 
+range of strategies 
+Add and subtract 
+one- and two-digit 
+numbers, using a 
+range of strategies 
+Add and subtract 
+two- and three-digit 
+numbers using a 
+range of strategies 
+Add and subtract 
+whole numbers up 
+to four digits using 
+flexible and efficient 
+strategies 
+Add and subtract 
+any whole numbers 
+using flexible and 
+efficient strategies 
+Choose and use 
+flexible and efficient 
+strategies to 
+calculate with 
+whole numbers, 
+involving any of the 
+four operations, 
+and explore the use 
+of the order of 
+operations 
+ 
+ 
+ 
+ 
+ 
+Add and subtract 
+fractions with the 
+same denominator 
+using flexible and 
+efficient strategies 
+Add and subtract 
+fractions with 
+related 
+denominators, 
+using flexible and 
+efficient strategies, 
+based on 
+knowledge of 
+equivalence 
+ 
+ 
+ 
+ 
+ 
+ 
+Add and subtract 
+decimals to two 
+decimal places, 
+using flexible and 
+efficient strategies 
+
+===== PAGE 14 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+10 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+ 
+ 
+Multiply two-digit 
+numbers by 
+one- and two-digit 
+numbers, and 
+divide whole 
+numbers by 
+one-digit numbers, 
+where there is no 
+remainder, using 
+flexible and efficient 
+strategies 
+Multiply larger 
+whole numbers by 
+one- and two-digit 
+numbers and divide 
+whole numbers by 
+one-digit numbers, 
+including those with 
+remainders, using 
+flexible and efficient 
+strategies 
+Multiply decimals 
+by whole numbers 
+and multiply and 
+divide decimals by 
+powers of 10, using 
+flexible and efficient 
+strategies 
+ 
+ 
+ 
+ 
+ 
+ 
+Determine a 
+familiar fraction, 
+decimal or 
+percentage of a 
+whole number 
+ 
+ 
+  
+Explore additive 
+estimation 
+strategies to 
+evaluate the 
+reasonableness of a 
+calculation in 
+familiar contexts 
+Explore a range of 
+additive estimation 
+strategies for 
+different situations, 
+including using 
+knowledge of odd 
+and even numbers 
+Explore 
+multiplicative 
+estimation 
+strategies and their 
+appropriateness in 
+different situations 
+Use estimation and 
+rounding to make 
+reasonable 
+evaluations and 
+justify results 
+
+===== PAGE 15 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+11 
+Sub-strand: Financial mathematics 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Explore making 
+purchases using 
+coins, notes and 
+debit cards 
+Explore different 
+payment formats 
+and identify 
+Australian coins 
+and notes, 
+according to their 
+value 
+Explore and 
+describe the 
+relationship 
+between dollars ($) 
+and cents (c) and 
+their value in the 
+contexts of 
+spending, saving 
+and donating  
+Investigate 
+financial 
+transactions, 
+recognising 
+equivalent values 
+and change 
+Investigate and 
+represent saving 
+and spending, 
+recognising that 
+limited amounts of 
+money are 
+available 
+Identify features of 
+budgets and create 
+a simple budget, 
+comparing prices 
+where possible 
+Develop plans for 
+savings goals, 
+predict expenses 
+and identify that 
+saving money with 
+a bank attracts 
+interest   
+Sub-strand: Modelling with number 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Explore and 
+represent familiar 
+real-world 
+situations involving 
+adding, removing, 
+grouping or sharing 
+small collections 
+using role-play or 
+concrete materials  
+Represent 
+quantities and 
+actions in 
+real-world 
+situations involving 
+adding, taking 
+away, sharing or 
+equal groupings 
+using role-play, 
+concrete materials, 
+Identify and 
+represent 
+real-world 
+situations involving 
+addition, 
+subtraction, simple 
+multiplication or 
+division using 
+objects or diagrams 
+labelled with 
+Identify and 
+represent a range 
+of real-world 
+addition and 
+subtraction 
+situations with 
+part-part-whole 
+models, and 
+multiplication and 
+division situations 
+Identify and 
+represent 
+real-world additive 
+and multiplicative 
+situations with 
+diagrams and 
+equations to reach 
+a solution. 
+Interpret and 
+Identify and 
+represent a range 
+of real-world 
+additive and 
+multiplicative 
+situations with 
+equations, using 
+diagrams where 
+needed. Interpret 
+In real-world 
+situations involving 
+whole numbers, 
+order of operations 
+and fractions with the 
+same denominator, 
+use the following 
+process 
+I. analyse the 
+situation and 
+
+===== PAGE 16 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+12 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+drawings or 
+numbers. Describe 
+the meaning of the 
+representations 
+and answers in 
+context  
+numbers and 
+symbols that match 
+the actions in the 
+situation. Interpret 
+the meaning of 
+answers in context 
+with arrays. Write 
+number sentences 
+to reach a solution 
+and interpret in 
+context 
+communicate 
+findings in context 
+and communicate 
+findings in context 
+identify relevant 
+information 
+II. mathematically 
+represent the 
+situation, 
+including using 
+equations to 
+reach a solution  
+III. interpret and 
+communicate 
+findings in the 
+context, exploring 
+and justifying 
+decisions 
+ 
+ 
+
+===== PAGE 17 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+13 
+Strand: Measurement and geometry 
+Sub-strand: Two-dimensional space and structures 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Sort, name and 
+represent familiar 
+two-dimensional 
+shapes and 
+recognise them 
+within the 
+environment 
+Name and classify 
+familiar 
+two-dimensional 
+shapes based on 
+sides and vertices 
+using informal 
+language 
+Identify and draw 
+two-dimensional 
+shapes and 
+describe their 
+similarities and 
+differences using 
+formal spatial 
+language 
+Explore one-step 
+slides (translations) 
+and flips 
+(reflections) of 
+familiar 
+two-dimensional 
+shapes, make 
+connections to line 
+symmetry and 
+describe the 
+movement of the 
+shape 
+Explore, visualise, 
+describe and create 
+two-dimensional 
+shapes that result 
+from combining or 
+splitting familiar 
+shapes 
+Explore line and 
+rotational 
+symmetry in 
+two-dimensional 
+shapes 
+Explore, visualise 
+and describe 
+translations, 
+reflections or 
+rotations of 
+two-dimensional 
+shapes 
+Explore and directly 
+compare the length 
+of everyday items 
+to say which is 
+longer and explain 
+reasoning 
+Directly and 
+indirectly compare 
+lengths, including 
+by counting 
+uniform informal 
+units 
+Estimate, measure 
+and compare 
+lengths by choosing 
+appropriate 
+uniform informal 
+units and placing 
+end to end without 
+gaps or overlaps  
+Estimate, measure 
+and order lengths 
+in uniform units, 
+including 
+millimetres, 
+centimetres and 
+metres  
+Estimate, measure 
+and compare  
+the perimeter of 
+two-dimensional 
+shapes, using 
+scaled instruments 
+and appropriate 
+informal or  
+formal units 
+Choose and use 
+appropriate metric 
+units and part units 
+to estimate and 
+measure lengths 
+Convert between 
+units of length by 
+connecting metric 
+units to the 
+decimal system and 
+extend to units of 
+mass and capacity 
+
+===== PAGE 18 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+14 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+ 
+ 
+ 
+Describe and test a 
+sequence of steps 
+to determine the 
+perimeter of 
+rectangles 
+ 
+ 
+ 
+Explore and 
+directly compare 
+the areas of two 
+shapes by 
+superimposing one 
+over the other 
+Compare the areas 
+of two shapes 
+indirectly, using 
+uniform informal 
+units, without gaps 
+and overlaps  
+Estimate, measure 
+and compare the 
+areas of rectangles 
+using uniform 
+informal square 
+units in arrays 
+Identify dimensions 
+of a metric square 
+unit. Estimate, 
+measure and 
+compare areas 
+using metric square 
+units 
+Describe and test a 
+sequence of steps 
+to determine the 
+area of rectangles 
+based on 
+dimensions 
+ 
+ 
+Explore quarter-, 
+half- and full turns 
+in everyday 
+situations 
+Identify angles as 
+measures of turn 
+between two lines 
+that intersect and 
+directly compare 
+angle sizes in 
+everyday situations 
+Indirectly compare 
+angles and identify 
+as being equal to, 
+greater than or less 
+than a right angle 
+Estimate, measure 
+and construct 
+angles in degrees 
+using a protractor. 
+Classify acute, 
+right, obtuse, reflex 
+and straight angles  
+Investigate angles 
+in a right angle, on 
+a straight line, 
+angles at a point 
+and vertically 
+opposite angles, to 
+determine 
+unknown angles 
+and explain 
+reasoning 
+
+===== PAGE 19 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+15 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Show and describe 
+position and 
+movement in 
+familiar locations  
+Give and follow 
+directions within 
+familiar locations 
+Locate positions 
+and pathways on 
+simple maps of 
+familiar locations 
+Create and 
+interpret simple 
+maps to show 
+positions and 
+pathways, 
+considering the 
+relative position of 
+key features 
+Create or interpret 
+grid maps, describe 
+positions and 
+pathways, and 
+explore scales and 
+legends 
+Use directional 
+language, grid 
+references and grid 
+coordinates to 
+describe positions 
+and pathways 
+Explore the 
+Cartesian plane as 
+the intersection of 
+two number lines 
+at zero, using the 
+coordinate system 
+to locate points in 
+all four quadrants 
+ 
+ 
+
+===== PAGE 20 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+16 
+Sub-strand: Three-dimensional space and structures 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Explore familiar 
+three-dimensional 
+objects in the 
+environment 
+Recognise, sort and 
+name familiar 
+three-dimensional 
+objects and 
+identify the 
+two-dimensional 
+shapes that 
+comprise them  
+Manipulate, 
+visualise and name 
+familiar 
+three-dimensional 
+objects, informally 
+describe features 
+and connect to 
+common uses 
+Visualise and make 
+models of 
+three-dimensional 
+objects. Compare 
+and classify objects 
+according to the 
+key features of 
+faces, edges and 
+vertices 
+Connect 
+three-dimensional 
+objects to their 
+two-dimensional 
+representations 
+and visualise and 
+describe key 
+features that 
+cannot be seen  
+Visualise and 
+connect 
+three-dimensional 
+objects to their 
+nets and build 
+objects from their 
+nets 
+Visualise, sketch and 
+construct 
+three-dimensional 
+objects, including 
+prisms and pyramids 
+Explore capacity 
+and directly 
+compare 
+containers to say 
+which holds more 
+and explain 
+reasoning 
+Directly and 
+indirectly compare 
+the capacities of a 
+pair of containers 
+Estimate, measure 
+and compare the 
+capacities of 
+different 
+containers using 
+uniform informal 
+units  
+Measure and order 
+capacity in uniform 
+units, including 
+millilitres. Estimate 
+larger capacities 
+using a litre 
+container 
+Estimate, measure 
+and compare 
+capacity in litres 
+and millilitres using 
+scaled instruments 
+Choose 
+appropriate units 
+to estimate and 
+measure capacity 
+ 
+ 
+ 
+ 
+ 
+Explore and 
+compare volume, 
+and recognise that 
+objects with 
+different shapes 
+can have the same 
+volume 
+Identify the 
+dimensions of a 
+metric cubic unit. 
+Construct and 
+compare 
+rectangular prisms 
+using cubes and 
+determine their 
+volume 
+Describe and test a 
+sequence of steps to 
+determine the 
+volume of 
+rectangular prisms 
+based on 
+dimensions 
+
+===== PAGE 21 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+17 
+Sub-strand: Non-spatial measurement 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Explore mass and 
+directly compare 
+everyday items by 
+hefting 
+Directly compare 
+the masses of two 
+objects by hefting 
+and using balance 
+scales 
+Estimate and 
+compare masses of 
+objects using 
+balance scales and 
+uniform informal 
+units 
+Measure mass to 
+compare objects to 
+everyday items 
+using kilograms 
+and grams 
+Estimate and 
+measure mass in 
+kilograms and 
+grams using 
+analogue and 
+digital scales 
+Choose 
+appropriate units 
+to estimate, 
+measure and 
+compare mass 
+ 
+Sequence days of 
+the week and times 
+of the day, making 
+connections to 
+routines, and 
+compare duration 
+of familiar events 
+using everyday 
+language  
+Read the time on 
+digital clocks and 
+make connections 
+to routines. Explore 
+and describe 
+duration informally 
+in years, months, 
+weeks, days, hours, 
+minutes and 
+seconds 
+Tell time to the 
+hour, half- and 
+quarter-hour on 
+analogue and 
+digital clocks. 
+Identify the date 
+and determine the 
+duration between 
+two events in days 
+using a calendar 
+Tell the time in 
+minutes using 
+analogue and 
+digital clocks. 
+Describe duration 
+in hours, minutes 
+and seconds and 
+identify the 
+relationship 
+between them 
+Convert between 
+units of time, tell 
+the time on digital 
+and analogue 
+clocks using ‘am’ 
+and ‘pm’ notation 
+and determine 
+duration 
+Explore, describe 
+and convert 
+between 12- and 
+24-hour time 
+systems and use to 
+determine duration 
+Use timetables and 
+itineraries in  
+12- and 24-hour 
+time systems to 
+determine the 
+duration of events 
+and journeys 
+ 
+ 
+
+===== PAGE 22 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+18 
+Sub-strand: Modelling with measurement and geometry 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+ 
+ 
+In real-world 
+situations involving 
+two-dimensional 
+shapes, 
+three-dimensional 
+objects, grid maps, 
+determining length, 
+capacity or mass in 
+metric units or 
+converting 
+between units of 
+time, 
+mathematically 
+represent the 
+problem to reach a 
+solution. Interpret 
+and communicate 
+findings in the 
+context of the 
+situation  
+In real-world 
+situations involving 
+transformation of 
+two-dimensional 
+shapes, nets, grid 
+reference systems, 
+determining length, 
+area, capacity, 
+volume or mass in 
+metric units or 
+converting 
+between 12- and 
+24-hour time, 
+mathematically 
+represent the 
+problem to reach a 
+solution. Interpret 
+and communicate 
+findings in the 
+context of the 
+situation 
+In real-world 
+situations involving 
+transformation of 
+two-dimensional 
+shapes, rectangular 
+prisms, pyramids, 
+Cartesian planes, 
+measuring and 
+converting metric 
+units for length, 
+mass and capacity, 
+determining 
+volume and area in 
+metric units or 
+determining the 
+duration of events 
+and journeys, use 
+the following 
+process 
+I. analyse the 
+situation and 
+identify relevant 
+information 
+
+===== PAGE 23 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+19 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+II. mathematically 
+represent the 
+situation to 
+reach a 
+solution  
+III. interpret and 
+communicate 
+findings in the 
+context, 
+exploring and 
+justifying 
+decisions 
+ 
+ 
+
+===== PAGE 24 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+20 
+Strand: Probability and statistics 
+Sub-strand: Probability 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Identify and 
+describe familiar 
+events using the 
+everyday language 
+of chance 
+Describe and 
+reason about the 
+likelihood of 
+familiar events 
+occurring, using the 
+everyday language 
+of chance 
+Classify familiar 
+events involving 
+chance as being 
+‘possible’ or 
+‘impossible’ and 
+using the everyday 
+language of chance 
+to compare the 
+likelihood of them 
+happening 
+Describe familiar 
+events using the 
+language of 
+chance. Identify 
+and list possible 
+outcomes of 
+everyday chance 
+events 
+Order the 
+likelihood of 
+everyday chance 
+events. Identify 
+when events are 
+not affected by 
+previous events 
+Compare a range of 
+everyday chance 
+events, grouping 
+into those with 
+outcomes that are 
+equally likely or not 
+equally likely 
+Order everyday 
+chance events and 
+phrases on a scale 
+from 0 to 1, where 
+0 represents an 
+event that is 
+certain not to 
+happen 
+(impossible) and 1 
+represents an 
+event that is 
+certain to happen 
+ 
+ 
+ 
+Identify the 
+likelihood of 
+outcomes for 
+planned, equally 
+likely, repeated 
+chance 
+experiments. 
+Conduct the 
+experiments and 
+recognise variation 
+in the results 
+Predict the 
+likelihood of 
+outcomes of 
+unequally likely, 
+repeated chance 
+experiments. 
+Conduct the 
+experiments, 
+describe variation 
+Conduct repeated 
+chance 
+experiments with 
+equally likely 
+outcomes, 
+including with the 
+use of digital tools. 
+Represent results 
+as fractions, 
+compare with 
+Conduct repeated 
+chance 
+experiments and 
+simulations with 
+equally likely or 
+unequally likely 
+outcomes, 
+including with the 
+use of digital tools, 
+for an increasing 
+number of trials. 
+
+===== PAGE 25 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+21 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+and compare to the 
+prediction   
+ 
+others and discuss 
+variation 
+Compare expected 
+and observed 
+frequencies in 
+terms of variation 
+as the number of 
+trials increase 
+ 
+ 
+
+===== PAGE 26 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+22 
+Sub-strand: Statistics 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+Describe and 
+interpret real-life 
+data represented 
+in lists, tables and 
+one-to-one block 
+and picture graphs 
+Describe and 
+interpret real-life 
+data represented 
+in dot plots and 
+column graphs 
+with scale intervals 
+of one 
+Describe and 
+interpret real-life 
+data represented 
+in many-to-one 
+pictographs and 
+column graphs 
+Describe and 
+interpret line 
+graphs that show 
+how real-life 
+continuous data 
+changes over time  
+Describe and 
+interpret a range of 
+displays for real-life 
+numerical data, 
+including side-by-side 
+column graphs, using 
+mode, range and 
+shape 
+ 
+ 
+ 
+ 
+ 
+ 
+Describe how the 
+features of  
+real-life data displays 
+may influence an 
+audience  
+Collect, group and 
+compare data 
+using objects and 
+images to answer 
+questions 
+Answer simple 
+questions of 
+interest by 
+collecting and 
+comparing 
+categorical data to 
+record frequencies 
+Choose and answer 
+questions of 
+interest by 
+collecting and 
+comparing 
+categorical data. 
+Display data using 
+lists, tables and 
+one-to-one block 
+and picture graphs 
+In a real-world 
+context, explore 
+questions of 
+interest by 
+collecting 
+categorical or 
+discrete numerical 
+data through 
+observation or 
+surveys. Organise 
+In a real-world 
+context, pose 
+questions and 
+collect categorical 
+or discrete 
+numerical data, 
+checking for 
+accuracy and 
+consistency. 
+Organise and 
+In a real-world 
+context, pose and 
+refine questions, 
+and collect 
+categorical or 
+discrete numerical 
+data. Organise and 
+make choices to 
+represent data. 
+Interpret and 
+In a real-world 
+context involving 
+continuous and 
+discrete numerical 
+data, use the 
+following process 
+I. analyse the 
+situation to pose a 
+question   
+
+===== PAGE 27 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+23 
+Pre-primary 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+and represent data 
+in dot plots, tables 
+and column graphs 
+and interpret to 
+answer a question  
+represent data in 
+pictographs and 
+column graphs, 
+and interpret the 
+data to 
+communicate 
+findings in terms of 
+the context 
+communicate 
+findings in terms of 
+the context, and 
+reflect on variation 
+and accuracy  
+II. choose the most 
+appropriate way 
+to collect data to 
+ensure accuracy 
+and consistency, 
+and make choices 
+to represent data, 
+including line 
+graphs and  
+side-by-side 
+column graphs  
+III. interpret and 
+communicate 
+findings in terms 
+of the context 
+and describe 
+reasons for 
+variation  
+ 
+ 
+
+===== PAGE 28 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+24 
+Years 7–10  
+Strand: Number and algebra 
+Sub-strand: Understanding number 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and represent equivalent 
+fractions with related and unrelated 
+denominators, visually  
+and numerically  
+Explore and explain relationships 
+between fractions, decimals and 
+percentages 
+Draw and label, or use a given 
+number line, to locate, order and 
+compare with equality and 
+inequality symbols, fractions, 
+terminating decimals, percentages 
+and integers  
+Investigate, define, identify and use 
+correct notation for rational and 
+irrational numbers, including 
+terminating, recurring and  
+rounded decimals  
+Draw and label, or use a given 
+number line, to locate, order and 
+compare with equality and 
+inequality symbols, rational and 
+irrational numbers, including 
+numbers written in index form and 
+percentages 
+Investigate very large and very small 
+numbers and move flexibly between 
+their exact and approximated 
+scientific notation  
+Investigate, define, compare and 
+order real numbers, with  
+equality and inequality symbols, 
+including those expressed in 
+scientific notation 
+Year 9 optional 
+Explore to develop a sequence of 
+steps to flexibly move between 
+recurring decimals and fractions 
+Move flexibly between real number 
+inequalities expressed as a worded 
+statement, algebraically or on a 
+number line  
+
+===== PAGE 29 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+25 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore to extend addition and 
+subtraction of positive integers to 
+include negative integers 
+Explore and interpret multiplication 
+and division of positive fractions, 
+visually and numerically 
+Explore and interpret multiplication 
+and division of positive decimals, 
+visually and numerically 
+Use place value understanding to 
+explore rounding decimals to a 
+specified number of decimal places 
+Explore to extend multiplicative 
+thinking with positive integers to 
+include multiplication and division 
+of negative integers 
+ 
+ 
+Extend the use of associative, 
+commutative and distributive laws, 
+additive and multiplicative 
+partitioning, inverse operations, 
+order of operations, equality and 
+inequality to validate a range of 
+mental and written strategies 
+involving the four operations on 
+whole numbers, positive fractions 
+and decimals, and addition and 
+subtraction of integers  
+Extend the use of associative, 
+commutative and distributive laws, 
+additive and multiplicative 
+partitioning, inverse operations, 
+order of operations, equality and 
+inequality to validate a range of 
+mental and written strategies 
+involving the four operations on any 
+rational number 
+ 
+ 
+
+===== PAGE 30 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+26 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and explain the use of ratios 
+and fractions to compare numbers 
+and quantities. Make connections 
+between equivalent fractions and 
+between equivalent ratios 
+Explore and apply proportional 
+reasoning to determine unknown 
+numbers in equivalent ratios and 
+fractions  
+Identify, interpret, compare and use 
+familiar rates, including those 
+represented as graphs that show a 
+quantity varying over time  
+ 
+ 
+ 
+ 
+
+===== PAGE 31 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+27 
+Sub-strand: Calculating with number 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Convert between fractions, 
+decimals and percentages using 
+flexible and efficient strategies 
+Determine percentages of 
+quantities and express one quantity 
+as a percentage of another using 
+flexible and efficient strategies 
+Calculate percentage increases  
+and decreases, using knowledge of 
+fractions and decimals to  
+improve efficiency 
+ 
+ 
+Add and subtract integers using 
+flexible and efficient strategies  
+Add and subtract positive fractions 
+with related and unrelated 
+denominators using flexible and 
+efficient strategies  
+Multiply and divide positive 
+fractions using flexible and  
+efficient strategies  
+Multiply and divide positive 
+decimals using flexible and  
+efficient strategies  
+Use appropriate rounding, 
+estimation strategies and context to 
+check reasonableness of solutions 
+Multiply and divide integers using 
+flexible and efficient strategies 
+Use flexible and efficient strategies 
+for calculations involving the four 
+operations with rational numbers, 
+including those written in index 
+form, using rounding, estimation or 
+the context to check reasonableness 
+of results 
+Use flexible and efficient strategies 
+for calculations involving the four 
+operations with real numbers and 
+express solutions in exact form or as 
+an approximation 
+Use absolute and percentage error 
+to compare the result of using 
+approximate rather than exact real 
+numbers on final calculations 
+
+===== PAGE 32 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+28 
+Sub-strand: Algebraic techniques 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Represent in expanded form, 
+evaluate, and compare numbers 
+expressed in index notation, 
+including powers of 10 
+Extend knowledge of factors to 
+represent natural numbers as 
+products of prime factors using 
+index notation as appropriate  
+Explore and explain connections 
+between square numbers and 
+square roots, cube numbers and 
+cube roots, as products of repeated 
+factors 
+Develop and apply the index laws 
+for numbers in index form with 
+positive-integer and zero indices  
+Extend and apply index laws with 
+positive-integer indices and the zero 
+index to variable bases, and simplify 
+where appropriate  
+Extend and apply index laws with 
+numerical expressions of base-10 to 
+include negative-integer indices. 
+Develop the relationship between 
+these negative indices and 
+equivalent fractions and decimals  
+Extend and apply index laws  
+with positive-integer indices and 
+variable bases, to include 
+negative-integer indices  
+Substitute values into real-life 
+linear, quadratic or simple 
+exponential formulas to determine 
+unknowns using digital tools 
+Year 10 optional 
+Simplify algebraic products and 
+quotients involving indices with 
+integer and fractional indices 
+Year 10 optional 
+Establish the connection between 
+fractional indices and surds. 
+Perform the four operations with 
+surds and rationalise the 
+denominator if required 
+Year 10 optional 
+Interpret and use base-10 
+logarithmic scales on graphs of  
+real-life contexts  
+
+===== PAGE 33 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+29 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Use real-world contexts or 
+concrete materials to introduce 
+the concept of a variable to 
+represent a number using a letter. 
+Create simple algebraic 
+expressions and evaluate by 
+substituting a given value for  
+the variable/s 
+Extend and apply the associative 
+and commutative laws and 
+properties of numbers to include 
+variables  
+Extend and apply knowledge of 
+additive and multiplicative 
+partitioning, order of operations 
+and the associative and 
+commutative laws of numbers, to 
+create or simplify algebraic 
+expressions involving the four 
+operations 
+Extend and apply knowledge of the 
+distributive law with numbers to 
+algebraically expand and factorise 
+expressions with a common 
+numerical factor 
+Explore and apply the distributive 
+law to expand and factorise 
+algebraic expressions with a 
+common algebraic factor,  
+including collecting like terms  
+where appropriate  
+Explore and apply the  
+distributive law to expand binomial 
+products, collecting like terms 
+where appropriate 
+Year 9 optional 
+Explore efficient strategies to 
+simplify expressions that involve 
+addition, subtraction,  
+multiplication or division of 
+algebraic fractions with an algebraic 
+term in the numerator and a whole 
+number denominator 
+Extend and apply knowledge of  
+the expansion of binomial  
+products to explore the 
+factorisation of monic quadratics 
+Year 10 optional 
+Factorise monic and non-monic 
+quadratic expressions  
+using techniques, such as 
+completing the square, perfect 
+squares, difference of squares and 
+grouping in pairs for four-term 
+expressions 
+Year 10 optional 
+Explore efficient strategies to 
+simplify expressions that involve 
+addition, subtraction, multiplication 
+or division of algebraic fractions 
+with an algebraic expression in the 
+numerator and/or denominator, 
+including the use of factorisation 
+
+===== PAGE 34 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+30 
+Sub-strand: Linear and non-linear equations and inequalities 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Solve simple linear equations 
+involving up to two operations and 
+verify the solution by substitution  
+Solve linear equations involving  
+up to three operations, including 
+those with negative coefficients  
+or requiring collection of like  
+terms, and verify the solution  
+by substitution  
+Determine and explain why there 
+are two solutions to a quadratic 
+equation of the form  
+𝑥2 = 𝑘 if 𝑘> 0  
+Solve linear equations involving 
+brackets and/or a variable on each 
+side of the equation, and verify the 
+solution by substitution  
+Determine and explain why there 
+are up to two solutions to a 
+quadratic equation of the form 
+𝑎𝑥2 = 𝑘 and verify the possible 
+solution/s by substitution 
+Year 9 optional 
+Solve linear equations that involve 
+simple algebraic fractions with 
+numerical denominators and verify 
+the solution by substitution 
+Year 9 optional 
+Solve quadratic equations in 
+factorised form using the null factor 
+theorem and verify the solution/s  
+by substitution 
+Solve one-variable linear 
+inequalities involving brackets 
+and/or a variable on each side. 
+Represent the solution on a  
+number line and verify the solution 
+by substitution  
+Determine the solution to linear 
+simultaneous equations in the 
+forms 𝑦= 𝑚𝑥+ 𝑐 or 𝑎𝑥+ 𝑏𝑦= 𝑐  
+graphically and verify the solution 
+by substitution 
+Year 10 optional 
+Determine the solution to linear 
+simultaneous equations in the 
+forms 𝑦= 𝑚𝑥+ 𝑐  or 𝑎𝑥+ 𝑏𝑦= 𝑐  
+algebraically and verify the solution 
+by substitution or using digital tools 
+Year 10 optional 
+Identify the region on the Cartesian 
+plane defined by linear inequalities  
+Year 10 optional 
+Solve monic and non-monic 
+quadratic equations graphically and 
+
+===== PAGE 35 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+31 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+algebraically, including the use of 
+the quadratic formula, factorising 
+techniques and digital tools, and 
+verify the solution/s by substitution  
+Year 10 optional 
+Use algebraic techniques to solve 
+exponential equations that involve 
+terms with related bases  
+Year 10 optional 
+Solve cubic equations in the form 
+𝑎𝑥3 = 𝑘  or in factored form, 
+algebraically or using digital tools 
+ 
+ 
+
+===== PAGE 36 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+32 
+Sub-strand: Linear and non-linear patterns and relationships 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore, describe and represent 
+concrete and real-world, linear and 
+non-linear growing patterns using a 
+table of values and a graph. 
+Determine unknown values in  
+the pattern 
+Use a table of values to move 
+flexibly between the equation of a 
+line represented by 𝑦= 𝑚𝑥+ 𝑐 and 
+its graph and make connections 
+between the algebraic and graphical 
+solution of the equation. Explore 
+and explain similarities and 
+differences between multiple lines 
+on the same axes  
+Use the Cartesian plane to explore 
+finding the distance, gradient and 
+midpoint between two points 
+Move flexibly between the equation 
+of a line, represented by 
+ 𝑦= 𝑚𝑥+ 𝑐, and its graph using the 
+gradient and 𝑦-intercept. Graph the 
+equation of a line represented in 
+𝑎𝑥+ 𝑏𝑦= 𝑐  form  
+Year 9 optional 
+Develop and use the algebraic 
+formulas for finding the distance, 
+midpoint and gradient between  
+two points 
+Year 9 optional 
+Rearrange formulas, including  
+𝑎𝑥+ 𝑏𝑦= 𝑐, to change the subject 
+of the formula 
+Use a table of values to plot points 
+and graph quadratic functions of the 
+form 𝑦= 𝑎𝑥2 + 𝑐. Identify and relate 
+key graphical and algebraic features 
+and make connections to the 
+graphical and algebraic solution/s of 
+𝑎𝑥2 + 𝑐= 𝑘. Use digital tools to 
+explore the shapes, features and 
+related solutions to more complex 
+quadratic functions 
+Use a table of values to plot points 
+and graph exponential functions of 
+the form 𝑦= 𝑎𝑥 where 𝑎> 0. 
+Identify and relate key graphical and 
+algebraic features and use these to 
+determine graphical solutions of 
+related equations. Use digital tools 
+to explore the shapes, features and 
+related solutions to more complex 
+exponential functions 
+
+===== PAGE 37 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+33 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+ 
+ 
+Identify rates as direct proportion, 
+represent algebraically and 
+graphically, and use both forms  
+to predict unknown values and 
+interpret in the context of  
+the situation  
+Use a table of values to plot points 
+and graph quadratic functions of the 
+form 𝑦= 𝑎𝑥2, describe key features 
+and make connections to the 
+algebraic solution/s of 𝑎𝑥2 = 𝑘  
+Year 9 optional 
+Investigate indirect proportion, 
+represent algebraically and 
+graphically, use both forms  
+to predict unknown values and 
+interpret in the context of  
+the situation 
+Identify and distinguish between 
+linear, quadratic and exponential 
+functions represented by equations, 
+tables of values and graphs 
+Year 10 optional 
+Use gradient and/or point/s to 
+graphically and algebraically 
+determine equations of parallel and 
+perpendicular lines  
+Year 10 optional 
+Graph monic and non-monic 
+quadratics of the form  
+𝑦= 𝑎𝑥2 + 𝑏𝑥+ 𝑐  or 
+𝑦= 𝑎(𝑥−𝑝)2 + 𝑞  and their 
+transformations, manually and using 
+digital tools. Identify and connect 
+key graphical and algebraic features 
+and make connections to the 
+algebraic solution/s 
+Year 10 optional 
+Explore and use strategies, including 
+digital tools, to model the equation 
+of a quadratic function from a table 
+of values or graph 
+
+===== PAGE 38 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+34 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 10 optional 
+Explore, describe and interpret 
+circles and rectangular hyperbolas 
+where the asymptotes are parallel 
+to the axes, and their 
+transformations, using digital  
+tools, and make connections 
+between the algebraic and  
+graphical representations 
+ 
+ 
+
+===== PAGE 39 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+35 
+Sub-strand: Financial mathematics 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Identify the features of 
+transactional statements and verify 
+transactions. Explain reasons for 
+checking and keeping financial 
+records 
+Identify the advantages and 
+disadvantages of various forms of 
+payment for goods and services, 
+and determine penalties, such as 
+interest charged and fees, inherent 
+in these payments  
+Explore, explain and perform 
+calculations that relate to earning 
+income. Identify the elements of an 
+income statement/pay slip, 
+including employer superannuation 
+contributions and income tax as a 
+deduction from gross income  
+Develop and use the simple interest 
+formula to solve problems relating 
+to saving and borrowing  
+Year 9 optional 
+Use authenticated websites to 
+explore and compare different 
+savings account options based on 
+their characteristics (interest rates, 
+fees, withdrawal policy) 
+or 
+Compare price, quality, terms  
+and conditions of goods and 
+services, such as phone plans and 
+digital subscriptions 
+Explore, explain and calculate 
+income tax, including the use of  
+tax tables  
+Apply repeated simple interest to 
+develop the compound interest 
+formula and solve problems that 
+relate to saving and borrowing  
+Year 10 optional 
+Use authenticated websites to 
+investigate how changes to the 
+principal, rate of return, voluntary 
+contributions and time can affect 
+superannuation balances 
+or 
+Compare characteristics of 
+insurance, such as young driver car 
+insurance or holiday insurance, and 
+recognise that the cost is higher 
+when the risk is higher 
+ 
+ 
+
+===== PAGE 40 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+36 
+Sub-strand: Modelling with number and algebra 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+In real-world situations involving 
+whole numbers, positive fractions, 
+decimals and percentages, addition 
+and subtraction of integers, 
+numbers in index form, linear 
+equations with up to two 
+operations, simple number  
+patterns and/or transactional 
+money statements 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints 
+In real-world situations involving 
+rational and irrational numbers, 
+ratios, rates, percentage increases 
+and decreases, numbers in index 
+form, the distributive law, 
+factorisation, linear equations with 
+up to three operations, linear or 
+simple quadratic relationships 
+and/or penalties involved in 
+different forms of goods and 
+services payment 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints 
+In real-world situations involving 
+scientific notation, real numbers, 
+linear equations with variables 
+and/or brackets on either side of 
+the equation, quadratic graphs and 
+equations, direct proportion and/or 
+simple interest, earning income or 
+income statements 
+I. 
+analyse the situation, decide 
+if an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+In real-world situations involving 
+real numbers, absolute and 
+percentage error, linear inequalities, 
+simultaneous equations, real-world 
+formulas, quadratic or exponential 
+functions, taxation and/or 
+compound interest 
+I. 
+analyse the situation, decide 
+if an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints 
+ 
+ 
+
+===== PAGE 41 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+37 
+Strand: Measurement and geometry 
+Sub-strand: Two-dimensional space and structures 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Establish and apply relationships 
+between lengths of sides, perimeter 
+and area for squares, rectangles and 
+triangles. Generalise and apply 
+formulas, using appropriate units 
+Explore and explain efficient 
+strategies to determine the 
+perimeter and area of irregular or 
+composite shapes composed of 
+squares and rectangles  
+Explore and establish connections 
+and conversions between units  
+of area 
+Establish and apply relationships 
+between lengths of sides, 
+perpendicular lengths, lengths of 
+diagonals, perimeter and area for 
+parallelograms, trapeziums, 
+rhombuses and kites. Generalise 
+and apply formulas, using 
+appropriate units  
+Identify, describe and explore the 
+relationship between the radius, 
+diameter and circumference of a 
+circle and use this to establish and 
+apply formulas to determine 
+perimeter and area, using 
+appropriate units  
+Investigate in order to establish, 
+define and use Pythagoras’ theorem 
+to determine the length of an 
+unknown side in a right-angled 
+triangle  
+ 
+Explore, explain and use efficient 
+strategies to determine the 
+perimeter and area of composite 
+shapes involving triangles, 
+quadrilaterals and/or circles, 
+(including sectors), using 
+appropriate units 
+Use Pythagoras’ theorem to 
+determine the perimeter and area 
+of shapes involving right-angled 
+triangles, in both exact and decimal 
+approximation form. Investigate and 
+apply the converse of Pythagoras’ 
+theorem to establish whether a 
+triangle is right-angled 
+Year 9 optional  
+Explore and apply Pythagoras’ 
+theorem and trigonometry to simple 
+situations involving right-angled 
+triangles in three-dimensional 
+contexts projected to two 
+dimensions 
+Use Pythagoras’ theorem and/or 
+trigonometry to determine 
+unknown sides and angles in  
+right-angled triangles involving 
+angles of elevation and depression 
+Year 10 optional 
+Apply right-angled trigonometry to 
+two-dimensional situations 
+involving navigational bearings  
+Year 10 optional 
+Explore to establish and use the 
+sine, cosine and area rule to 
+determine unknown sides and 
+angles for any triangle  
+Year 10 optional 
+Use the unit circle and dynamic 
+geometry software to explore  
+and represent trigonometric 
+functions graphically 
+
+===== PAGE 42 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+38 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 10 optional 
+Solve simple trigonometric 
+equations graphically, algebraically 
+or using the unit circle and verify 
+solution/s by substitution 
+Explore, identify, define, name, 
+label and apply the language, 
+notation and conventions of 
+geometry for points, lines, angles 
+and polygons 
+Investigate, identify and describe 
+corresponding, alternate and  
+co-interior angles formed when two 
+parallel lines are crossed by a 
+transversal. Use relationships to 
+determine unknown angles and 
+explain reasoning 
+Demonstrate that the interior angle 
+sum of a triangle is 180° 
+Explore to classify and name 
+triangles according to their side and 
+angle properties. Use the properties 
+to determine unknown angles in 
+triangles and explain reasoning 
+Explore, identify, classify and 
+establish properties of 
+quadrilaterals, including the interior 
+angle sum. Use this to determine 
+unknown sides and angles in 
+quadrilaterals and explain reasoning 
+Explore to identify and describe 
+conditions for triangles to be 
+congruent. Use this to determine 
+unknown sides or angles in pairs  
+of congruent triangles and  
+explain reasoning 
+Explore to identify and describe 
+conditions for triangles to be 
+similar. Use this to determine 
+unknown sides and angles in pairs 
+of similar triangles and explain 
+reasoning 
+Year 10 optional 
+Explore geometric relationships and 
+apply deductive reasoning and a 
+sequence of logically connected 
+statements, to produce proofs of 
+similar triangles and 
+angle/chord/radius/tangent 
+properties in circles 
+
+===== PAGE 43 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+39 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Plot coordinates on the Cartesian 
+plane and explore, visualise, predict 
+and determine image coordinates 
+after translation or reflection  
+across the axes, or rotation about 
+the origin 
+Recognise and identify equal 
+corresponding sides and equal 
+corresponding angles of congruent 
+figures. Explore, visualise, predict 
+and determine the translation, 
+reflection, rotation, or combination 
+of these transformations, to match 
+one congruent figure to another 
+Construct similar figures by 
+enlargement and reduction, and use 
+this to establish, explain and apply 
+properties of similar figures 
+Use similarity to investigate and 
+explain the constancy of the sine, 
+cosine and tangent ratios for a given 
+angle in right-angled triangles. 
+Choose and use a trigonometric 
+ratio to determine the length of an 
+unknown side or the size of an 
+unknown angle 
+Apply the properties of similarity  
+to determine scales, lengths and 
+angles of real-life figures from  
+scale drawings, maps, plans  
+and photographs  
+Year 9 optional 
+Explore the relationship between 
+sine and cosine ratios and the unit 
+circle, determine their approximate 
+values for angles from 0° to 360°, 
+and identify pairs of angles that 
+share the same ratio value 
+Investigate, explore and determine 
+the effect on the perimeter and 
+area of shapes when they are 
+enlarged or reduced by a scale 
+factor 
+
+===== PAGE 44 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+40 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 9 optional 
+Apply deductive reasoning and use 
+a sequence of logically connected 
+statements to produce proofs of 
+congruent triangles 
+ 
+ 
+
+===== PAGE 45 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+41 
+Sub-strand: Three-dimensional space and structures 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Move flexibly between building  
+and drawing rectangular and 
+composite rectangular prisms from 
+different views 
+Explore in order to visualise and 
+draw cross-sections of different 
+solids and use this to identify prisms 
+ 
+ 
+Establish and apply relationships 
+between the number of identical 
+layers of cubic units, the number of 
+cubic units in each identical layer 
+and volume for rectangular prisms 
+and composite rectangular prisms. 
+Generalise and apply the formula, 
+using appropriate units 
+Establish and apply relationships 
+between the area of a uniform 
+cross-section, the length 
+perpendicular to that uniform  
+cross-section and the volume of 
+right prisms. Generalise, apply 
+formulas and use this to connect to 
+capacity if required, using 
+appropriate units 
+Explore and establish connections 
+and conversions between units of 
+volume and between units of 
+volume and capacity 
+Establish, explain and apply 
+formulas to determine the volume, 
+capacity and surface area of 
+cylinders, using appropriate units 
+Explore and explain efficient 
+strategies to determine the surface 
+area of right prisms using 
+appropriate units  
+Use dynamic geometry software  
+to explore and construct familiar 
+objects in three dimensions  
+using transformations of  
+two-dimensional figures 
+Use efficient strategies and apply 
+formulas to determine the volume, 
+capacity and surface area of 
+composite solids, using  
+appropriate units 
+Investigate, calculate and identify 
+the impact of errors on the accuracy 
+and outcome of results in 
+measurement situations 
+Investigate in order to determine 
+the effect on surface area and 
+volume when objects are enlarged 
+or reduced by a scale factor 
+
+===== PAGE 46 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+42 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 10 optional 
+Explore, explain and apply efficient 
+strategies and formulas to 
+determine the surface area and 
+volume of right pyramids, right 
+cones, spheres and related 
+composite solids 
+Sub-strand: Non-spatial measurement 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Explore and interpret 
+representations of time zones 
+within Australia using 
+12- and 24-hour time and  
+determine the local time at 
+different locations considering 
+different times of the year  
+Explore and interpret 
+representations of national and 
+international time zones using 
+12- and 24-hour time, and 
+determine the duration of events 
+across multiple time zones 
+ 
+ 
+ 
+ 
+
+===== PAGE 47 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+43 
+Sub-strand: Modelling with measurement and geometry 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+In real-world situations involving 
+perimeter and area of squares, 
+rectangles, triangles and rectangular 
+composite shapes, parallel lines, 
+properties of triangles, 
+transformations of points, views of 
+rectangular prisms and rectangular 
+composite objects, volume and/or 
+Australian time zones 
+I. 
+analyse the situation, decide 
+if an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints  
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+In real-world situations involving 
+perimeter and area of quadrilaterals 
+and circles, properties of 
+quadrilaterals, transformations of 
+figures, Pythagoras’ theorem, 
+congruency, cross-sections, volume 
+or capacity of prisms and/or 
+international time zones 
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+In real-world situations involving the 
+perimeter and area of composite 
+shapes and right-angled triangles, 
+enlargement and reduction of 
+similar figures, finding unknown 
+side lengths and angles using 
+trigonometric ratios, scale in similar 
+figures and/or volume, capacity and 
+surface area of right prisms and 
+cylinders  
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+In real-world situations involving 
+Pythagoras’ theorem, trigonometry 
+and angles of elevation and 
+depression in right-angled triangles, 
+volume, capacity and surface area 
+of composite objects, the impact of 
+errors in measurement and/or the 
+effect of enlargement and reduction 
+on perimeter, area and volume of 
+similar figures and objects  
+I. 
+analyse the situation, decide if 
+an exact or approximate 
+solution is required and 
+determine assumptions  
+and constraints 
+II. 
+represent the situation 
+mathematically in order to 
+reach a solution 
+III. 
+interpret and communicate 
+findings in terms of the 
+context and any assumptions 
+or constraints  
+ 
+ 
+
+===== PAGE 48 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+44 
+Strand: Probability and statistics 
+Sub-strand: Probability and statistics 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Construct sample spaces for  
+single-stage chance experiments, 
+assign probabilities to the outcomes 
+and predict frequencies for different 
+numbers of trials  
+Construct sample spaces, such as 
+lists, simple tree diagrams, tables or 
+arrays, to show all possible 
+outcomes for two events. Assign 
+probabilities to outcomes and 
+events including those involving 
+‘and’, ‘not’, ‘at least’, exclusive ‘or’ 
+and inclusive ‘or’  
+Recognise that complementary 
+events have a combined probability 
+of one and use this relationship to 
+calculate probabilities 
+Construct sample spaces to show 
+outcomes for two-stage chance 
+experiments both with and without 
+replacement. Assign probabilities to 
+outcomes and make informal 
+connections to independent and 
+dependent events  
+Year 9 optional 
+Identify independent and 
+dependent two-stage chance events 
+using 𝑃(𝐴 and 𝐵) = 𝑃(𝐴) × 𝑃(𝐵) and 
+sample spaces, such as tree 
+diagrams, to determine the 
+probability of independent events 
+Choose and construct  
+appropriate sample spaces to show 
+outcomes for two- and three-stage 
+chance experiments both with and 
+without replacement. Assign 
+probabilities to events involving 
+conditional statements, such as ‘if ... 
+then’, ‘given’, ‘of’, ‘knowing that’  
+Year 10 optional 
+Use weighted tree diagrams and/or 
+formulas to assign probabilities to 
+two- and three-stage chance events 
+including situations involving 
+conditional probability 
+
+===== PAGE 49 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+45 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Conduct repeated single-stage 
+chance experiments and simulations 
+to produce datasets, including 
+through the use of digital tools, for 
+an increasingly large number of 
+trials. Discuss and describe variation 
+and estimated probabilities for 
+outcomes, and compare to 
+predictions and theoretical 
+probability, where appropriate 
+Conduct repeated chance 
+experiments and simulations for 
+two events to produce datasets, 
+including through the use of digital 
+tools, for a large number of trials. 
+Discuss, explain and compare 
+variation and estimated 
+probabilities for simple and 
+compound events 
+Conduct repeated two-stage chance 
+experiments and simulations, both 
+with and without replacement, to 
+produce datasets, including through 
+the use of digital tools. Discuss, 
+compare and interpret variation and 
+estimated probabilities for 
+compound events 
+Conduct repeated chance 
+experiments and simulations to 
+model conditional probability and 
+produce datasets using digital tools. 
+Discuss, compare and analyse 
+variation and estimated 
+probabilities for conditional events 
+Explore and determine the mean, 
+mode, median and range for sets  
+of data and justify, using the 
+context, which measure best 
+reflects the dataset 
+Analyse data represented in 
+stem-and-leaf plots, column graphs 
+and frequency tables to determine 
+the mean, mode/s, median and 
+range. Describe the effect of any 
+outliers on the statistical measures 
+Analyse data with multiple variables 
+represented in tables. Describe 
+using statistical measures and 
+relative frequencies to make 
+inferences  
+Analyse bivariate data represented 
+in a two-way table using 
+proportions and comment on 
+possible association between 
+categorical variables 
+Represent primary categorical and 
+numerical data in a Venn diagram, 
+calculate related relative 
+frequencies and interpret results 
+Use secondary data represented in 
+two-way tables and Venn diagrams 
+to describe events, including those 
+that are mutually exclusive. 
+Estimate related probabilities and 
+make predictions as appropriate  
+Explore, choose and create  
+graphical or visual representations 
+and justify choice with regards to 
+context, purpose, data type and 
+intended audience   
+Represent secondary data in  
+two-way tables or Venn  
+diagrams and assign probabilities 
+to outcomes involving  
+conditional statements  
+
+===== PAGE 50 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+46 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Represent collected data in a 
+stem-and-leaf plot, describe the 
+shape and spread including outliers, 
+and compare to dot plots or column 
+graphs. Use the data to estimate 
+probabilities of specific outcomes 
+Investigate and explain techniques 
+for data collection, including census, 
+survey, experiment and 
+observation, and explain the 
+practicalities and implications of 
+obtaining data through these 
+techniques  
+Explore, analyse and compare 
+variation between results from 
+same size random samples drawn 
+from the same population. Identify 
+and explain how chance variation 
+impacts on data validity, reliability 
+and conclusions drawn  
+Interpret and compare multiple 
+datasets represented in 
+back-to-back stem-and-leaf plots 
+and histograms with consideration 
+of shape, spread and centre  
+Describe different sampling 
+methods and analyse how the 
+different methods can affect the 
+results of surveys. Identify and 
+explain how chance variation 
+impacts on the data validity, 
+reliability and conclusions drawn 
+from surveys 
+Year 9 optional  
+Produce and organise accurate and 
+valid, ungrouped continuous data to 
+construct histograms and frequency 
+polygons. Determine summary 
+statistics and analyse the 
+distribution in terms of centre, 
+shape and spread 
+Represent the relationship between 
+bivariate data in a scatter plot and 
+draw a trend line by eye if 
+appropriate. Use the graph and 
+context to describe any association 
+in terms of strength, direction, 
+linearity and outliers. Make 
+predictions and recognise  
+and explain any limitations of  
+the model 
+Represent and analyse boxplots. 
+Explain differences between 
+multiple boxplot datasets in terms 
+of shape, spread and centre. 
+Compare or match the shapes of 
+boxplots to distributions depicting 
+the same data 
+Year 10 optional 
+Produce, organise and represent 
+accurate and valid data in a 
+cumulative frequency graph, and 
+use this to analyse quartiles  
+and percentiles 
+
+===== PAGE 51 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+47 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+Year 10 optional 
+Determine the mean and standard 
+deviation of a dataset. Investigate, 
+analyse and interpret the effect of 
+individual data values, including 
+outliers, on the standard deviation 
+Critically analyse statistical 
+statements made in the media and 
+other real-life situations, that relate 
+to the averages of mean, mode and 
+median. Investigate the impact of 
+chance variation on the dataset 
+from which the averages were 
+determined 
+Critically analyse visual 
+representations and tables in the 
+media and other real-life situations 
+to identify misleading or inaccurate 
+features and interpretations. 
+Recognise the impact of the validity 
+and reliability of the data used  
+Critically analyse statistics in the 
+media and other real-life situations 
+relating to data samples, including 
+the effect of chance variation on 
+sample analyses 
+Critically analyse the claims, 
+inferences and conclusions of 
+statistical reports in the media and 
+other real-life situations, and 
+identify potential sources of bias 
+ 
+ 
+
+===== PAGE 52 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+48 
+Sub-strand: Modelling with probability and statistics 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+In real-world situations involving 
+assigning a probability to  
+single-stage chance experiments  
+or simulations, statistical  
+measures, stem-and-leaf plots, dot 
+plots, column graphs and/or  
+Venn diagrams 
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation  
+III. 
+interpret, draw inferences 
+and communicate findings in 
+terms of the context, 
+assumptions, constraints, 
+In real-world situations involving 
+two-stage chance experiments or 
+simulations, complementary events, 
+data collection methods, same-sized 
+random sampling and/or analysis of 
+graphs, tables and data 
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation 
+III. 
+interpret, draw inferences 
+and communicate findings in 
+terms of the context, 
+assumptions, constraints, 
+chance variation and 
+knowledge or insights gained 
+In real-world situations involving 
+two-stage chance experiments or 
+simulations both with or without 
+replacement, different sampling 
+methods, choosing and creating 
+graphical representations  
+and/or analysis of tables and 
+comparative graphs  
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation 
+III. 
+interpret, draw inferences 
+and communicate findings in 
+terms of the context, 
+assumptions, constraints, 
+In real-world situations involving 
+two- and three-stage chance 
+experiments both with and without 
+replacement, conditional probability 
+or statements, boxplots, bivariate 
+data and/or two-way tables 
+I. 
+analyse the situation, pose 
+questions as required and 
+determine assumptions  
+and constraints  
+II. 
+determine appropriate 
+production of a valid and 
+reliable dataset, statistical 
+measures, data 
+representations and analyses, 
+including examination of 
+distributions, to effectively 
+investigate the situation  
+III. 
+interpret, draw inferences 
+and communicate findings, in 
+terms of the context, 
+assumptions, constraints, 
+chance variation and 
+knowledge or insights gained  
+
+===== PAGE 53 =====
+ 
+Mathematics │ Scope and sequence of the mandated curriculum content │ Pre-primary–Year 10 │ For implementation in 2026  
+49 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+chance variation and 
+knowledge or insights gained 
+chance variation and 
+knowledge or insights gained 
+Year 10 optional  
+Using the modelling process to 
+design and conduct a chance 
+experiment, simulation or statistics 
+experiment on a topic of interest 
+ 

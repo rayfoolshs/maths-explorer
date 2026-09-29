@@ -1,0 +1,5044 @@
+
+===== PAGE 1 =====
+ 
+Western Australian Curriculum 
+Mathematics 
+Scope and sequence | Pre-primary–Year 6  
+For implementation in 2026 
+
+===== PAGE 2 =====
+ 
+2024/52514[v20] 
+Acknowledgement of Country 
+Kaya. The School Curriculum and Standards Authority (the Authority) acknowledges that our offices are on Whadjuk Noongar boodjar and that we deliver 
+our services on the country of many traditional custodians and language groups throughout Western Australia. The Authority acknowledges the traditional 
+custodians throughout Western Australia and their continuing connection to land, waters and community. We offer our respect to Elders past and present. 
+Copyright 
+© School Curriculum and Standards Authority, 2025 
+This document – apart from any third-party copyright material contained in it – may be freely copied, or communicated on an intranet, for non-commercial purposes in 
+educational institutions, provided that the School Curriculum and Standards Authority (the Authority) is acknowledged as the copyright owner, and that the Authority’s 
+moral rights are not infringed. 
+Copying or communication for any other purpose can be done only within the terms of the Copyright Act 1968 or with prior written permission of the Authority. Copying or 
+communication of any third-party copyright material can be done only within the terms of the Copyright Act 1968 or with permission of the copyright owners. 
+Any content in this document that has been derived from the Australian Curriculum may be used under the terms of the Creative Commons Attribution 4.0 International 
+licence. 
+This document incorporates material from Mathematics K–10 Syllabus (2022) © 2022 NSW Education Standards Authority (NESA) for and on behalf of the Crown in right of 
+the State of New South Wales. 
+Disclaimer 
+Any resources such as texts, websites and so on that may be referred to in this document are provided as examples of resources that teachers can use to support their 
+learning programs. Their inclusion does not imply that they are mandatory or that they are the only resources relevant to the course. Teachers must exercise their 
+professional judgement as to the appropriateness of any they may wish to use.
+
+===== PAGE 3 =====
+ 
+ 
+Contents 
+Overview ....................................................................................................................................................................................................................... 1 
+Guide to reading this document ................................................................................................................................................................................................ 1 
+Pre-primary–Year 2 ........................................................................................................................................................................................................ 3 
+Strand: Number and algebra .......................................................................................................................................................................................... 3 
+Sub-strand: Understanding number .......................................................................................................................................................................................... 3 
+Sub-strand: Understanding equalities and inequalities .......................................................................................................................................................... 10 
+Sub-strand: Patterns and relationships ................................................................................................................................................................................... 11 
+Sub-strand: Calculating with number ...................................................................................................................................................................................... 12 
+Sub-strand: Financial mathematics ......................................................................................................................................................................................... 14 
+Sub-strand: Modelling with number ....................................................................................................................................................................................... 15 
+Strand: Measurement and geometry ............................................................................................................................................................................ 16 
+Sub-strand: Two-dimensional space and structures ............................................................................................................................................................... 16 
+Sub-strand: Three-dimensional space and structures............................................................................................................................................................. 19 
+Sub-strand: Non-spatial measurement ................................................................................................................................................................................... 20 
+Strand: Probability and statistics .................................................................................................................................................................................. 23 
+Sub-strand: Probability ............................................................................................................................................................................................................ 23 
+Sub-strand: Statistics ............................................................................................................................................................................................................... 23 
+Years 3–6 ..................................................................................................................................................................................................................... 27 
+Strand: Number and algebra ........................................................................................................................................................................................ 27 
+Sub-strand: Understanding number ........................................................................................................................................................................................ 27 
+Sub-strand: Understanding equalities and inequalities .......................................................................................................................................................... 38 
+Sub-strand: Patterns and relationships ................................................................................................................................................................................... 39 
+
+===== PAGE 4 =====
+ 
+ 
+Sub-strand: Calculating with number ...................................................................................................................................................................................... 41 
+Sub-strand: Financial mathematics ......................................................................................................................................................................................... 51 
+Sub-strand: Modelling with number ....................................................................................................................................................................................... 52 
+Strand: Measurement and geometry ............................................................................................................................................................................ 54 
+Sub-strand: Two-dimensional space and structures ............................................................................................................................................................... 54 
+Sub-strand: Three-dimensional space and structures............................................................................................................................................................. 62 
+Sub-strand: Non-spatial measurement ................................................................................................................................................................................... 65 
+Sub-strand: Modelling with measurement and geometry ...................................................................................................................................................... 68 
+Strand: Probability and statistics .................................................................................................................................................................................. 71 
+Sub-strand: Probability ............................................................................................................................................................................................................ 71 
+Sub-strand: Statistics ............................................................................................................................................................................................................... 73 
+Acknowledgements...................................................................................................................................................................................................... 79 
+ 
+
+===== PAGE 5 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+1 
+Overview 
+The Western Australian Curriculum: Mathematics has been adapted from the previous Western Australian Curriculum (adopted from the Australian 
+Curriculum version 8.1), the New South Wales Curriculum (following the New South Wales Curriculum Reform) and the Australian Curriculum version 9. 
+It has been contextualised for the Western Australian Curriculum and Assessment Outline. 
+Guide to reading this document 
+The Scope and sequence shows the mandated curriculum for teaching, written as content descriptions across year levels so that a sequence can be viewed 
+across the years of schooling from Pre-primary to Year 10. The examples illustrate the content and are not mandated. Teachers should use examples 
+relevant to the context of the school and needs of their students. 
+This Scope and sequence shows the Pre-primary to Year 6 Mathematics curriculum organised by phases of learning: Pre-primary–Year 2 and Years 3–6. 
+The Mathematics curriculum is organised by three Mathematics strands: Number and algebra; Measurement and geometry; and Probability and statistics. 
+The Number and algebra strand for Pre-primary to Year 6 includes: Understanding number; Understanding equalities and inequalities; Patterns and 
+relationships; Calculating with number; Financial mathematics; and Modelling with number. 
+The Measurement and geometry strand for Pre-primary to Year 2 includes: Two-dimensional space and structures; Three-dimensional space and 
+structures; and Non-spatial measurement. 
+The Measurement and geometry strand for Years 3–6 includes: Two-dimensional space and structures; Three-dimensional space and structures; 
+Non-spatial measurement; and Modelling with measurement and geometry (Years 4–6 only). 
+The Probability and statistics strand for Pre-primary to Year 6 includes: Probability and Statistics. 
+ 
+ 
+ 
+
+===== PAGE 6 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+2 
+The tables below outline the subject organisation for the Pre-primary to Year 6 Mathematics curriculum. 
+Pre-primary–Year 2 
+Number and algebra 
+Understanding 
+number 
+Understanding 
+equalities and 
+inequalities 
+Patterns and 
+relationships 
+Calculating with 
+number 
+Financial 
+mathematics 
+Modelling with number 
+ 
+Measurement and geometry 
+Two-dimensional space and structures 
+Three-dimensional space and structures 
+Non-spatial measurement 
+ 
+Probability and statistics 
+Probability 
+Statistics 
+ 
+Years 3–6 
+Number and algebra 
+Understanding 
+number 
+Understanding 
+equalities and 
+inequalities 
+Patterns and 
+relationships 
+Calculating with 
+number 
+Financial 
+mathematics 
+Modelling with number 
+ 
+Measurement and geometry 
+Two-dimensional space and 
+structures 
+Three-dimensional space and 
+structures 
+Non-spatial measurement 
+Modelling with measurement 
+and geometry 
+ 
+Probability and statistics 
+Probability 
+Statistics 
+ 
+
+===== PAGE 7 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+3 
+Pre-primary–Year 2 
+Strand: Number and algebra  
+Sub-strand: Understanding number 
+Pre-primary 
+Year 1 
+Year 2 
+Say, read, write and order numbers to 20, from 
+any starting point. Count collections to 20  
+For example: 
+• 
+counting for a purpose, such as counting how 
+many children are in a group so the correct 
+number of items can be collected 
+• 
+counting forwards and backwards by ones 
+from a given number 
+• 
+internalising the principles of counting, 
+including each object must be touched or 
+included exactly once as the numbers are 
+said once in order, the objects can be 
+touched in any order from any starting point 
+and the arrangement does not affect the 
+count, and the last number tells ‘how many’ 
+in the whole collection and does not describe 
+the last object touched 
+• 
+recognising that numbers represent 
+quantities and ‘zero’ is the same as ‘no 
+items’, and that adding one to the count is 
+Say, read, write and order numbers to 120 and 
+recognise the repetition of the 0–9 sequence of 
+digits. Skip count collections by twos, fives and 
+tens from zero 
+For example: 
+• 
+counting forwards and backwards by ones 
+from a given number, noticing that counting 
+forward by ones is adding one each count 
+and counting backwards by ones is 
+subtracting one each count 
+• 
+identifying the number before and after a 
+two-digit number  
+• 
+exploring hundreds charts to recognise the 
+repetition of digits  
+ 
+Read, write and order numbers to at least 1020, 
+including on a number line. Recognise the 
+repetition of the 0–99 sequence of digits and the 
+role of zero. Skip count forwards and backwards 
+by twos, threes, fives and tens from any starting 
+point 
+For example: 
+• 
+comparing different hundreds charts, such as 
+101−200 and 701−800, to identify patterns 
+• 
+identifying the number before and after a 
+given three-digit number  
+• 
+reading and ordering numbers up to four 
+digits using patterns in the number system, 
+including numbers with zeros in different 
+places and numbers that look and sound 
+similar, such as 808, 880, 818 and 881 
+• 
+recognising features of number lines, such as 
+the even spaces between the markings and 
+the starting point at 0 
+
+===== PAGE 8 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+4 
+Pre-primary 
+Year 1 
+Year 2 
+one more and removing one from the count 
+is one less 
+• 
+identifying the number before and after a 
+given number 
+• 
+understanding and using ordinal numbers, 
+such as ‘Abby will have her turn first, Ben will 
+go second, and Jack will be third’  
+ 
+• 
+ordering numbers using numbered cards or 
+number tracks 
+• 
+counting the same collection by ones, twos, 
+fives or tens  
+ 
+• 
+identifying the missing numbers on the 
+markings for a given number line, such as  
+ 
+ 
+Subitise, partition and compare small collections 
+For example: 
+• 
+recognising with a quick look the number of 
+objects in a collection and saying the number 
+without counting 
+Explore different ways to represent and partition 
+collections up to 100, including in groups of 10, 
+using concrete materials  
+For example: 
+• 
+recognising that 10 ones is the same as  
+one 10 
+Explore different ways to represent and partition 
+two- and three-digit numbers, including in groups 
+of 10 and 10 groups of 10 to make 100, using 
+concrete materials, numbers and symbols  
+For example: 
+• 
+counting and representing large sets of 
+
+===== PAGE 9 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+5 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+partitioning collections of up to 10 objects in 
+different ways, such as partitioning a 
+collection of six counters into four counters 
+and two counters, or into three counters and 
+three counters 
+• 
+comparing and describing small collections 
+using the language more, less and same 
+• 
+bundling sticks in groups of 10 and combining 
+these with loose sticks to make two-digit 
+numbers. Trusting that a previously prepared 
+bundle contains 10 sticks  
+• 
+using concrete materials to represent 
+two-digit numbers, then partitioning the 
+number in different ways, such as 
+representing 24 as 10, 10 and 4, or 10 and 
+14 
+concrete materials by systematically grouping 
+in tens and hundreds  
+• 
+using models, such as base-ten materials and 
+interlocking cubes, to represent and explain 
+grouping 
+• 
+using concrete materials to partition, 
+rearrange, regroup and rename three-digit 
+numbers in different ways, such as 574 being 
+shown as 5 hundreds, 7 tens and 4 ones or 57 
+tens and 4 ones 
+ 
+Explore partitions of numbers with small 
+collections using part-part-whole relationships 
+For example: 
+• 
+creating, recording and recognising 
+combinations of two numbers that add up to 
+numbers up to 10, such as partitioning five 
+into four and one or into three and two, 
+including making all possible whole-number 
+combinations 
+• 
+exploring part-part-whole 10 facts by 
+arranging collections of 10 objects in 
+different ways  
+Explore the relationship between addition and 
+subtraction with small collections using 
+part-part-whole knowledge, numbers and 
+symbols  
+For example: 
+• 
+exploring combinations of two numbers that 
+add to numbers from 11 up to and  
+including 20  
+• 
+representing the difference between two 
+numbers using concrete materials and 
+diagrams, such as the difference between 7 
+and 4 being 3  
+ 
+
+===== PAGE 10 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+6 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+• 
+describing combinations for numbers using 
+more than, less than and double, such as ‘five 
+is one more than four’ or ‘double two and 
+one more’  
+ 
+• 
+representing addition and subtraction as 
+inverse operations using concrete materials, 
+drawings and diagrams  
+ 
+18 = 11 + 7  and 11 = 18 − 7   
+ 
+ 
+Recall addition and subtraction facts to 10 
+For example: 
+
+===== PAGE 11 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+7 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+recalling combinations of two numbers that 
+add up to 10 and related subtraction facts 
+• 
+using related number facts, such as 
+8 + 2 = 10, so 10 −2 = 8 and 10 −8 = 2 
+Explore grouping and sharing of small collections 
+For example: 
+• 
+role-playing equal sharing by distributing 
+objects one by one or in groups of two and 
+counting the number in each group to ensure 
+they have the same amount  
+• 
+sorting collections of items, such as blocks or 
+shells, into two groups, identifying those that 
+can be shared into equal groups and those 
+that cannot  
+Explore different ways to equally group or share 
+collections 
+For example: 
+• 
+grouping and sharing small collections in 
+different ways using concrete materials, 
+drawings or diagrams, such as splitting a 
+collection of 24 items into equal groups 
+• 
+using grouping to help count large 
+collections, such as grouping items into fives 
+or tens and skip counting to find the total  
+• 
+recognising that the more groups to be made 
+from a quantity, the smaller the size of each 
+group  
+Explore multiplication and division using repeated 
+addition, equal grouping and arrays 
+For example: 
+• 
+representing multiplication as repeated 
+addition and division as sharing or equal 
+grouping, using concrete materials, drawings 
+or diagrams 
+ 
+
+===== PAGE 12 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+8 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+connecting grouping to arrays, determining 
+and distinguishing between the number of 
+rows/columns and the number in each 
+row/column 
+ 
+• 
+recognising the commutative property of 
+multiplication using an array  
+ 
+
+===== PAGE 13 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+9 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+Explore and create a half by dividing a physical 
+whole into two equal parts or a collection into 
+two equal quantities, using the language of 
+sharing and grouping 
+For example: 
+• 
+sharing a collection of objects into two equal 
+groups, recognising that one group is half of 
+the whole collection 
+• 
+exploring halves in context, such as a half of a 
+sandwich and the halves of an orange 
+• 
+exploring different ways to share rectangles 
+or squares of paper into two equal parts, 
+describing them as a half or halves 
+ 
+Recognise, describe and create halves, quarters 
+and eighths by repeatedly halving a physical 
+whole or a collection 
+For example: 
+• 
+describing physical representations of 
+fractions using words and numerical 
+representations, such as one-quarter as  
+1
+4 
+which means one part out of four equal parts  
+• 
+using repeated halving of a range of shapes, 
+objects or collections to make halves, 
+quarters and eighths, such as partitioning a 
+strip of paper into two equal lengths, then 
+halving the halves, naming the four equal 
+parts as quarters, then repeating for eighths 
+• 
+exploring different ways to cut paper squares 
+into halves and quarters, considering 
+questions such as ‘Are two quarters always 
+the same amount as one half?’  
+ 
+
+===== PAGE 14 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+10 
+Sub-strand: Understanding equalities and inequalities 
+Pre-primary 
+Year 1  
+Year 2 
+ 
+ 
+Use the equality symbol to indicate the same 
+value in number sentences involving addition and 
+subtraction  
+For example: 
+• 
+using the equality symbol to mean ‘is the 
+same as’, such as recognising the quantities 
+on both sides of the equals sign are the same  
+ 
+• 
+using the equality symbol to produce true 
+number sentences, such as  
+5 + 2 = 3 + 4  or  9 −4 = 7 −2 
+• 
+discussing if a given number sentence is true, 
+such as  3 = 9 −5 
+
+===== PAGE 15 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+11 
+Sub-strand: Patterns and relationships 
+Pre-primary 
+Year 1 
+Year 2 
+Copy and continue repeating patterns in 
+everyday environments using a range of 
+materials, sounds and movement  
+For example: 
+• 
+recognising familiar patterns and repetitions 
+in the natural world and everyday life, such 
+as noticing repeated patterns in a frieze or 
+bunting on a class display board 
+• 
+using objects, drawings, movements or 
+sounds to recognise that the same pattern 
+can be represented in different ways and 
+used to predict what comes next 
+ 
+Continue and create repeating patterns. Explore 
+and label repeating patterns to show how many 
+of each element is in a repeat unit (core) 
+For example: 
+• 
+identifying the repeating unit, labelling with 
+symbols such as b, b, b, w, w  
+ 
+• 
+continuing patterns in everyday situations, 
+such as days of the week, labelling as M, Tu, 
+W, Th, F, Sa, Su and recognising that there 
+are seven days in a repeat unit  
+• 
+choosing materials to create a pattern that 
+shows a provided number sequence, such as 
+1, 2, 1, 2, 1, 2 
+Recognise and continue increasing or decreasing 
+additive patterns with collections and numbers, 
+and identify missing elements in a pattern  
+For example: 
+• 
+identifying the changes in growing patterns as 
+repeated addition and making connections to 
+skip counting. Using a calculator to enter 3 
+and repeatedly add 3, to model the pattern  
+ 
+• 
+identifying missing elements in a given 
+pattern 
+ 
+
+===== PAGE 16 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+12 
+Sub-strand: Calculating with number 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+Manipulate collections to add and subtract 
+quantities to 20 and beyond, exploring a range of 
+strategies  
+For example:  
+• 
+exploring strategies, such as counting on, 
+counting back, partitioning and 
+part-part-whole knowledge, to solve addition 
+and subtraction problems 
+• 
+using concrete materials to partition 
+quantities to assist in addition and 
+subtraction, such as using ten-frames to 
+calculate 9 + 7  
+ 
+• 
+using non-count-by-one strategies, such as 
+using doubles for near doubles and 
+combining numbers that add to 10, such as 
+4 + 5 as double 4, add 1  
+• 
+counting back using the jump strategy, such 
+as 16 −7 becoming 16 −6 −1 
+Add and subtract one- and two-digit numbers, 
+using a range of strategies  
+For example:  
+• 
+selecting and applying strategies, such as 
+counting on, partitioning, part-part-whole 
+knowledge, rearranging, regrouping, doubles, 
+near doubles and bridging to 10  
+• 
+partitioning and rearranging numbers using 
+concrete and written representations  
+
+===== PAGE 17 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+13 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+• 
+using number lines or hundreds charts by 
+moving along or up and down in tens and 
+ones to solve addition and subtraction 
+problems, such as the jump strategy for  
+79 −33 
+
+===== PAGE 18 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+14 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+Sub-strand: Financial mathematics 
+Pre-primary 
+Year 1 
+Year 2 
+Explore making purchases using coins, notes and 
+debit cards  
+For example:  
+• 
+describing that money is used to buy things  
+• 
+sorting coins, notes and debit cards  
+• 
+using coins, notes or debit cards to role-play 
+making purchases using appropriate language 
+Explore different payment formats and identify 
+Australian coins and notes, according to their 
+value  
+For example:  
+• 
+arranging Australian coins and notes by value 
+and counting small collections of each with 
+the same denomination 
+• 
+demonstrating different payment formats 
+using coins and notes, such as a $5 note 
+being equal to five $1 coins in play-based 
+situations 
+Explore and describe the relationship between 
+dollars ($) and cents (c) and their value in the 
+contexts of spending, saving and donating  
+For example:  
+• 
+identifying that $3 is the same as 300 cents  
+• 
+counting small collections of coins and using 
+the $ and c symbols to record amounts 
+• 
+discussing the benefits of saving and 
+donating, including goals and reasons why 
+people save and donate money 
+• 
+identifying and comparing the cost of familiar 
+items at the school canteen or stalls at a 
+market, noticing the different ways money is 
+represented, such as $5, 35c, $2.40 
+
+===== PAGE 19 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+15 
+Sub-strand: Modelling with number 
+Pre-primary 
+Year 1 
+Year 2 
+Explore and represent familiar real-world 
+situations involving adding, removing, grouping 
+or sharing small collections using role-play or 
+concrete materials  
+For example:  
+• 
+using role-play and materials to represent 
+mathematical relationships in stories, such as 
+a group bringing three sandwiches and 
+another group adding four more, or children 
+starting with 10 apples but eating three 
+during the picnic; drawing a picture and using 
+materials to represent the situation, 
+discussing and recording the result of the 
+action with a numeral  
+• 
+using objects to role-play sharing out a 
+collection one by one or handing out 
+equal-sized collections for a purpose, such as 
+sharing art materials like crayons, markers 
+and paper 
+Represent quantities and actions in real-world 
+situations involving adding, taking away, sharing 
+or equal groupings using role-play, concrete 
+materials, drawings or numbers. Describe the 
+meaning of the representations and answers in 
+context  
+For example:  
+• 
+modelling situations, such as keeping track of 
+the number of people on a bus as it stops to 
+pick up and drop off people. Using role-play 
+to represent the situation, explaining 
+connections, such as when people are picked 
+up the number is added to the people already 
+on the bus and recognising the answer as the 
+number of people on the bus when it arrives 
+at the final destination 
+Identify and represent real-world situations 
+involving addition, subtraction, simple 
+multiplication or division using objects or 
+diagrams labelled with numbers and symbols that 
+match the actions in the situation. Interpret the 
+meaning of answers in context 
+For example:  
+• 
+modelling situations, such as determining 
+how many juice boxes priced at $2 can be 
+purchased with 10 $1 coins. Representing 
+the situation using concrete materials, such 
+as grouping 10 $1 coins into pairs, explaining 
+that each group represents the cost of one 
+juice box, then counting the groups and 
+recognising that five groups means that five 
+juice boxes can be purchased 
+• 
+using familiar situations, such as  
+▪ 
+a fundraising activity where children 
+collect bottles for recycling, earning 10c 
+for each bottle  
+▪ 
+sharing a raffle prize of biscuits between 
+children 
+▪ 
+keeping score when playing sport 
+ 
+ 
+
+===== PAGE 20 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+16 
+Strand: Measurement and geometry  
+Sub-strand: Two-dimensional space and structures  
+Pre-primary 
+Year 1 
+Year 2 
+Sort, name and represent familiar 
+two-dimensional shapes and recognise them 
+within the environment   
+For example:  
+• 
+sorting and naming 2D shapes, such as 
+rectangles, squares, triangles, ovals and 
+circles, based on chosen criteria  
+• 
+locating shapes in the school environment, 
+such as circles and rectangles on the netball 
+court  
+Name and classify familiar two-dimensional 
+shapes based on sides and vertices using informal 
+language   
+For example:  
+• 
+classifying familiar 2D shapes, such as 
+triangles, quadrilaterals, circles and ovals, 
+according to the number of sides and 
+vertices   
+• 
+exploring the characteristics of rectangles 
+and squares, and saying that both have 
+straight sides and square corners  
+ 
+• 
+describing a shape, so that others can name 
+the shape and give reasons for their choice  
+Identify and draw two-dimensional shapes and 
+describe their similarities and differences using 
+formal spatial language  
+For example: 
+• 
+describing 2D shapes using spatial terms, 
+including opposite, parallel, curved, straight 
+and vertices    
+• 
+drawing 2D shapes, such as triangles, 
+quadrilaterals, circles and ovals, with 
+increasing attention to accuracy  
+• 
+stating that a square is a rectangle, as both 
+are quadrilaterals with two pairs of parallel 
+sides, but all four sides in a square are equal 
+length 
+• 
+identifying which shape ‘doesn’t belong’ to a 
+given group, explaining the reasoning   
+
+===== PAGE 21 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+17 
+Pre-primary 
+Year 1 
+Year 2 
+Explore and directly compare the length of 
+everyday items to say which is longer and explain 
+reasoning  
+For example: 
+• 
+recognising length as the measure of an 
+object ‘end to end’, such as comparing two 
+leaves side by side to determine which is 
+longer  
+• 
+using everyday language and phrases, such as 
+longer than, taller than and shorter than, to 
+explain the comparisons 
+Directly and indirectly compare lengths, including 
+by counting uniform informal units  
+For example:  
+• 
+using uniform informal units as a 
+‘go-between’ to indirectly compare the 
+length of objects, such as using paperclips or 
+connecting blocks to compare the length of a 
+pencil and scissors 
+• 
+recognising that the same informal unit must 
+be used repeatedly and explaining the 
+relationship between the size of a unit and 
+the number of units needed  
+Estimate, measure and compare lengths by 
+choosing appropriate uniform informal units and 
+placing end to end without gaps or overlaps  
+For example:  
+• 
+choosing suitable uniform informal units and 
+explaining choices, such as using longer units 
+to measure the width of a room  
+• 
+investigating how gaps and overlaps impact 
+accuracy  
+ 
+• 
+creating an informal unit measuring tape 
+using matchsticks or paperclips as the unit 
+ 
+ 
+Explore and directly compare the areas of two 
+shapes by superimposing one over the other  
+For example: 
+• 
+using everyday practical situations to identify 
+area as the total space taken up by a 2D 
+surface, such as the area covered by a rug  
+• 
+comparing the areas of two similar shapes 
+directly by drawing, tracing or cutting and 
+pasting  
+
+===== PAGE 22 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+18 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+superimposing similar shapes to compare 
+their areas and using everyday language to 
+explain the comparisons, such as placing a 
+foot against the sole of a shoe or lids on jars  
+ 
+ 
+Explore quarter-, half- and full turns in everyday 
+situations  
+For example:  
+• 
+identifying turns that happen in familiar 
+environments, such as a spinner in a board 
+game (full turn), a half-turn on a hand of a 
+toy clock or a door opening and closing 
+(quarter-turn)  
+• 
+connecting quarter- and half-turns of the 
+minute hand on a clock to the passing of 
+quarter- and half-hours, and the language of 
+clockwise and anticlockwise   
+Show and describe position and movement in 
+familiar locations  
+For example: 
+• 
+showing positions of people and objects in 
+both practical and play-based situations, and 
+describing using words such as in, out, under, 
+next to, in between etc.  
+• 
+describing movement in familiar settings 
+using everyday language  
+Give and follow directions within familiar 
+locations  
+For example: 
+• 
+narrating a pathway as a sequence of steps, 
+using everyday directional language, such as 
+left, right, forward, backward, turn and using 
+familiar landmarks  
+Locate positions and pathways on simple maps of 
+familiar locations  
+For example: 
+• 
+interpreting simple maps by identifying 
+objects in different locations 
+• 
+recognising maps as representations seen 
+from above (bird’s-eye view)  
+• 
+following a simple route on a map using 
+landmarks and directional language, such as 
+
+===== PAGE 23 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+19 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+describing the path to a particular location in 
+the classroom or playground  
+• 
+providing verbal directions to a particular 
+point or object within the classroom or 
+school play areas   
+• 
+carrying out own and peer instructions to 
+move around the school, noticing and 
+addressing any inaccuracies   
+‘to get to the park, walk towards the pond 
+and then take the path to the left’  
+Sub-strand: Three-dimensional space and structures  
+Pre-primary 
+Year 1 
+Year 2 
+Explore familiar three-dimensional objects in the 
+environment  
+For example: 
+• 
+locating 3D objects and differentiating from 
+2D shapes  
+• 
+building with 3D objects, such as construction 
+materials, blocks or loose parts, to investigate 
+stacking and rolling  
+ 
+Recognise, sort and name familiar 
+three-dimensional objects and identify the 
+two-dimensional shapes that comprise them  
+For example: 
+• 
+naming familiar 3D objects, including cubes, 
+cylinders, cones, spheres and rectangular 
+prisms 
+• 
+recognising 2D shapes on surfaces of 3D 
+objects, such as a circle visible on the bottom 
+of a glass 
+• 
+selecting a set of 2D shapes from a collection 
+to match the faces of a provided 3D object  
+ 
+Manipulate, visualise and name familiar 
+three-dimensional objects, informally describe 
+features and connect to common uses  
+For example: 
+• 
+selecting a 3D object from a small collection 
+inside a bag, including cubes, cylinders, 
+cones, spheres and rectangular prisms, and 
+describing it by feel, so that others can name 
+the 3D object and give reasons for their 
+choice  
+• 
+considering how key features of 3D objects, 
+such as flat or curved surfaces, are related to 
+common uses (stacking or rolling) 
+Explore capacity and directly compare containers 
+to say which holds more and explain reasoning 
+Directly and indirectly compare the capacities of 
+a pair of containers  
+Estimate, measure and compare the capacities of 
+different containers using uniform informal units  
+
+===== PAGE 24 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+20 
+Pre-primary 
+Year 1 
+Year 2 
+For example: 
+• 
+in a play-based context, exploring capacity 
+through intentional questioning focused on 
+how much containers can hold  
+• 
+directly comparing two containers by filling 
+one with liquid and then pouring it into the 
+other, observing if it fills the second 
+container a little bit, half full, full or 
+overflowing  
+For example: 
+• 
+filling two different containers with liquid, 
+then pouring their contents into two identical 
+transparent containers to compare how 
+much they hold  
+• 
+exploring containers with the same capacity 
+but different shapes to recognise that a tall, 
+narrow container may hold the same amount 
+as a short, wide container  
+For example: 
+• 
+using a uniform informal unit such as a 
+yoghurt cup, estimate how many yoghurt 
+cups of water it will take to fill larger 
+containers, pouring water into the containers 
+and counting how many cups they can hold 
+• 
+identifying that the larger the unit, the fewer 
+number of units the container will hold (less 
+yoghurt cups will be needed to fill a container 
+than tablespoons) 
+• 
+recognising and explaining why containers of 
+different shapes may have the same capacity  
+Sub-strand: Non-spatial measurement  
+Pre-primary 
+Year 1 
+Year 2 
+Explore mass and directly compare everyday 
+items by hefting 
+For example: 
+• 
+directly comparing everyday items to say 
+which is heavier or lighter 
+• 
+manipulating objects of varying sizes and 
+weights, such as pillows and rocks, to 
+challenge the misconception that larger 
+objects are heavier 
+Directly compare the masses of two objects by 
+hefting and using balance scales  
+For example: 
+• 
+exploring the use of tools, such as pulleys, 
+balance scales and seesaws, to compare the 
+mass of two objects 
+• 
+predicting the action of balance scales before 
+placing objects on each side of the scale  
+Estimate and compare masses of objects using 
+balance scales and uniform informal units  
+For example: 
+• 
+placing an object on one side of the balance 
+scale and estimating the number of counters 
+or blocks needed on the other side of the 
+scale to balance the object 
+• 
+determining the weight of a lump of 
+playdough using uniform informal units, then 
+
+===== PAGE 25 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+21 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+comparing objects of similar size but different 
+weights, such as golf balls and ping-pong 
+balls   
+• 
+using comparative language, such as heavier 
+and lighter, and recognising that the larger 
+object is not necessarily the heavier object  
+• 
+comparing a range of objects to witness 
+relative mass (an object may be lighter than 
+something, but heavier than something else) 
+reshaping it to witness that the shape of the 
+object does not alter the mass    
+• 
+ordering the mass of three or more objects 
+and using comparative language to explain 
+the order; lightest, light, heavier, heaviest  
+Sequence days of the week and times of the day, 
+making connections to routines, and compare 
+duration of familiar events using everyday 
+language  
+For example: 
+• 
+exploring the cyclical nature of days of the 
+week, identifying routine days, such as 
+‘library day’  
+• 
+describing sequences of events using words, 
+such as morning, lunchtime, afternoon, 
+night-time, yesterday, today and tomorrow  
+• 
+sequencing familiar events, including the 
+representation of time, with pictorial 
+timelines  
+• 
+identifying time as a measurement for 
+practical comparisons, such as noticing that 
+eating a meal takes longer (more time) than 
+brushing your teeth  
+Read the time on digital clocks and make 
+connections to routines. Explore and describe 
+duration informally in years, months, weeks, 
+days, hours, minutes and seconds 
+For example: 
+• 
+exploring how time on a digital clock is read 
+in hours and minutes, recognising that if the 
+hour numbers are followed by 00, it is read 
+as o’clock, and if the hour is followed by 
+other numbers (minutes), it is read as nine-
+fifteen or ten twenty-five   
+• 
+discussing events and activities and deciding 
+duration, such as having a drink of water 
+taking seconds, recess lasting minutes and 
+the school day lasting hours 
+Tell time to the hour, half- and quarter-hour on 
+analogue and digital clocks. Identify the date and 
+determine the duration between two events in 
+days using a calendar 
+For example: 
+• 
+identifying which hour has passed when the 
+hour hand is not pointing to a numeral   
+ 
+
+===== PAGE 26 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+22 
+Pre-primary 
+Year 1 
+Year 2 
+• 
+describing the position of the minute hand on 
+the clock for half past, quarter past and 
+quarter to, recognising that the same time 
+can be read in different ways, such as half 
+past four, four-thirty and thirty minutes past 
+four    
+• 
+finding specific dates on a calendar, such as 
+birthdays and school events, and determining 
+how many days are left between today and 
+the event, including when the two dates are 
+in different months    
+ 
+ 
+
+===== PAGE 27 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+23 
+Strand: Probability and statistics 
+Sub-strand: Probability 
+Pre-primary 
+Year 1 
+Year 2 
+Identify and describe familiar events using the 
+everyday language of chance   
+For example:  
+• 
+reading a story and asking what might 
+happen next and what cannot possibly 
+happen next  
+• 
+describing real and imagined situations, using 
+terms like will happen, can happen, might 
+happen and cannot happen   
+Describe and reason about the likelihood of 
+familiar events occurring, using the everyday 
+language of chance   
+For example:  
+• 
+expressing the likelihood for events, such as 
+‘The sun rising in the morning’, ‘Flying home 
+today’ or ‘Rain on sports day’, using terms 
+like cannot happen, unlikely to happen, might 
+happen or certain to happen 
+• 
+recognising times and reasoning when things 
+don’t go as expected, such as the school bell 
+not ringing at the end of the day 
+Classify familiar events involving chance as being 
+‘possible’ or ‘impossible’ and using the everyday 
+language of chance to compare the likelihood of 
+them happening   
+For example:  
+• 
+distinguishing impossible from unlikely 
+events with statements such as ‘We never go 
+to the park after school, but it isn’t 
+impossible, as it could happen’  
+• 
+comparing the likelihood of events, such as 
+‘Are we more likely to see a bird or a 
+kangaroo in the playground?’ or ‘Is it more 
+likely we will eat lunch at school or have a 
+picnic in the park?’ 
+Sub-strand: Statistics 
+Pre-primary 
+Year 1 
+Year 2 
+  
+  
+Describe and interpret real-life data represented 
+in lists, tables and one-to-one block and picture 
+graphs  
+
+===== PAGE 28 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+24 
+Pre-primary 
+Year 1 
+Year 2 
+For example:  
+• 
+interpreting a picture graph and discussing 
+questions such as ‘Are there more pears or 
+more bananas?’; ‘Which fruit is there most 
+of?’; selecting a fruit not in the display 
+(grapes) and asking ‘How many people 
+brought grapes? How can you tell?’  
+ 
+• 
+interpreting a table, reading the headings 
+and categories to determine what data is 
+being shown and answering questions, such 
+as ‘How many children were asked about 
+their favourite sport?’  
+
+===== PAGE 29 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+25 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+Collect, group and compare data using objects 
+and images to answer questions 
+For example:   
+• 
+sorting a collection of leaves from the school 
+grounds to co-create a visual display. Making 
+comparative statements based on the data, 
+such as ‘There are more yellow than brown 
+leaves’  
+• 
+using objects to organise data when exploring 
+questions, such as ‘Do you prefer running, 
+cycling or dancing?’ and comparing the data 
+by subitising, counting and reasoning  
+Answer simple questions of interest by collecting 
+and comparing categorical data to record 
+frequencies   
+For example:  
+• 
+collecting and comparing data using objects, 
+pictures, tallies and numbers using 
+one-to-one representation 
+• 
+exploring strategies to collect and record data 
+to answer a question, such as ‘What is the 
+most common material used in playground 
+equipment?’ and recording the frequency of 
+observations  
+Choose and answer questions of interest by 
+collecting and comparing categorical data. 
+Display data using lists, tables and one-to-one 
+block and picture graphs   
+For example:  
+• 
+answering questions, such as ‘Which month 
+has the most birthdays?’, recording 
+responses and displaying this data on a 
+graph, recognising the need to use similar 
+sized symbols and spacing them uniformly  
+ 
+
+===== PAGE 30 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+26 
+Pre-primary 
+Year 1 
+Year 2 
+ 
+ 
+ 
+• 
+displaying data from observations in a table 
+or list 
+ 
+ 
+ 
+
+===== PAGE 31 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+27 
+Years 3–6 
+Strand: Number and algebra 
+Sub-strand: Understanding number 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Read, write and order numbers to at 
+least four digits, including on a 
+number line. Recognise the 
+repetition of the 0–999 sequence of 
+digits  
+For example: 
+• 
+using diagrams to support 
+reading large numbers based on 
+understanding of place value  
+ 
+• 
+arranging numbers in the 
+hundreds in ascending and 
+descending order   
+Read, write and order numbers to at 
+least six digits. Recognise the 
+significance of the final digit to 
+determine odd and even numbers 
+For example: 
+• 
+using diagrams to support 
+reading of numbers to at least 
+six digits, recognising that the 
+sequence of ones, tens and 
+hundreds is repeated in the 
+thousands  
+Read, write and order seven-digit 
+numbers and beyond 
+For example: 
+• 
+using diagrams to partition 
+numbers in groups of  
+three digits, associate them to 
+the place value (i.e. billions, 
+millions etc.) and support 
+reading 
+• 
+arranging numbers in the 
+millions in ascending and 
+descending order  
+Investigate the use of positive and 
+negative integers to represent 
+everyday situations. Read, write and 
+order integers on a number line 
+For example: 
+• 
+identifying negative integers in 
+familiar contexts, such as 
+temperatures, sea levels, bank 
+balances and buildings with 
+underground parking  
+ 
+
+===== PAGE 32 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+28 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+comparing different hundreds 
+charts, such as 1301–1400 and 
+1901–2000, to identify patterns 
+• 
+identifying missing numbers on 
+the markings for a given number 
+line  
+ 
+• 
+arranging numbers in the 
+thousands in ascending and 
+descending order   
+• 
+identifying that all whole 
+numbers that end in the digits 0, 
+2, 4, 6 and 8 are even and that 
+whole numbers ending in 1, 3, 5, 
+7 and 9 are odd  
+• 
+interpreting the marking of 
+increments on the number line 
+on both sides of the zero mark 
+ 
+ 
+Read and write decimal numbers up 
+to two decimal places 
+For example: 
+• 
+reading decimal numbers 
+correctly, such as 0.25 as ‘zero 
+point two five’  
+• 
+express decimals as both tenths 
+and hundredths, such as 0.25 is 
+2 tenths and 5 hundredths or 25 
+hundredths 
+Read, write, compare and order 
+decimal numbers, including on a 
+number line 
+For example: 
+• 
+reading decimal numbers 
+correctly, such as 1.436 as ‘one 
+point four three six’  
+• 
+comparing decimal numbers, 
+such as 0.25 < 2.5, 2.46 > 2 
+and 1.45 < 1.54 
+• 
+comparing and ordering decimal 
+numbers, such as 
+0.5, 0.75, 0.25, 0.001, and 
+positioning them on a number 
+line 
+ 
+
+===== PAGE 33 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+29 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+interpreting zero digit/s at the 
+end of a decimal, such as 
+recognising that 0.170 and 0.17 
+have the same value 
+Represent and partition numbers  
+up to four digits, including groups of 
+10 (tens), 10 groups of 10 
+(hundreds) and beyond, using 
+concrete materials and number 
+sentences. Recognise that the value 
+of a digit is determined by its place 
+in a number 
+For example:  
+• 
+bundling materials (e.g. 
+pipe-cleaners or popsticks) into 
+groups of 10, 10 groups of 10 to 
+form 100 and 10 groups of 100 
+to form 1000, connecting 
+bundles to numerals 
+• 
+using expanded notation to see 
+partitions of a number, including 
+using a calculator, such as 
+328 = 300 + 20 + 8 
+• 
+exploring non-standard 
+partitions, such as  
+Represent numbers up to five digits 
+using place value and non-standard 
+partitions with equations. Recognise 
+the multiplicative (10 times as 
+many) place value relationship 
+between adjacent places from right 
+to left 
+For example:  
+• 
+partitioning numbers using 
+place value, such as 
+1276 = 1000 + 200 + 70 + 6, 
+and non-standard partitions, 
+such as 
+3733 = 3500 + 200 + 28 + 5 
+or 3733 as 37 hundreds and 33 
+ones 
+• 
+recognising the place value 
+relationships 
+1(ones)  10 = 10 (tens) 
+10 (tens)  10 = 100 (hundreds) 
+100 (hundreds)  10 = 1000 (thousands) 
+1000 (thousands)  10 = 10 000 (ten 
+thousands)                                    
+Represent and partition numbers up 
+to seven digits. Use the 
+multiplicative place value 
+relationship between adjacent 
+places to explain the value of a digit  
+For example:  
+• 
+partitioning numbers using 
+place value, such as  
+3 487 621 = 3 000 000 + 400 
+000 + 80 000 + 7000 + 600 + 
+20 + 1, 
+and non-standard partitions, 
+such as 
+645 522 = 500 000 + 100 000 
++ 45 000 + 522 
+• 
+using the multiplicative place 
+value relationship, explaining 
+the different values of the fours 
+in 5446 i.e. the 4 in the 
+hundreds place is 10 times as 
+many as the 4 in the tens place 
+Represent and explain the 
+multiplicative place value 
+relationship between places in any 
+number, including decimals 
+For example:  
+• 
+using calculators to explore 
+multiplying and dividing whole 
+numbers and decimals by 
+powers of 10, recording results 
+and noticing patterns 
+ 
+ 
+
+===== PAGE 34 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+30 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+328 = 200 + 125 + 3 or 328 as 
+3 hundreds and 28 ones  
+• 
+recognising the different place 
+values of a digit, such as 8 in 
+2848 
+ 
+• 
+identifying how rearranging 
+digits changes the size of a 
+number, such as forming the 
+second largest number by 
+rearranging the digits within 
+4321   
+• 
+identifying the place value 
+relationships 
+10 000 (ten thousands) ÷ 10 = 1000 
+(thousands) 
+1000 (thousands) ÷ 10 = 100 
+(hundreds) 
+100 (hundreds) ÷ 10 = 10 (tens) 
+10 (tens) ÷ 10 = 1 (ones)  
+ 
+ 
+• 
+explaining the multiplicative 
+place value relationship, such as 
+▪ 
+62 is 10 times as many as 
+6.2 because 60 is 10 times 
+as many as 6 and 2 is 10 
+times as many as 0.2 
+▪ 
+20.8 is 100 times as many 
+as 0.208 because 20 is 
+100 times as many as 0.2 
+and 0.8 is 100 times as 
+many as 0.08 
+ 
+Represent and explain the 
+relationship between one whole 
+being shared equally among 10 as 
+0.1 or  
+1
+10  and being shared equally 
+among 100 as 0.01 or  
+1
+100  using 
+concrete materials 
+For example: 
+• 
+dividing a long strip of paper 
+into 10 equal parts labelled as 
+0.1 and then dividing the last 
+tenth into ten equal parts to 
+demonstrate 0.01 (hundredths 
+of the whole) 
+• 
+using a calculator to perform the 
+same process, such as 
+Represent and partition decimal 
+numbers. Use the multiplicative 
+place value relationship between 
+adjacent places to explain the value 
+of a digit 
+For example: 
+• 
+using place value to partition 
+decimals, such as 
+5.37 = 5 + 0.3 + 0.07 and 
+5.429 is 5 ones and 429 
+thousandths  
+• 
+comparing the value of digits by 
+determining numbers that are 
+10 times the original decimal 
+ 
+
+===== PAGE 35 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+31 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+1 ÷ 10 = 0.1 (recognising that 1 
+is 10 times as many as 0.1) 
+and 0.1 ÷ 10 = 0.01 
+(recognising that 0.1 is 10 times 
+as many as 0.01) 
+number, such as 5.0 is 10 times 
+0.5  
+• 
+exploring multiplying and 
+dividing by 10 using digital tools 
+and explaining place value 
+relationships, such as 
+492 731 ÷ 10 = 49 273.1 
+49 273.1 ÷ 10 = 4927.31 
+4927.31 ÷ 10 = 492.731 
+Represent and explain the 
+relationship between addition and 
+subtraction using part-part-whole 
+models and number sentences  
+For example:  
+• 
+using part-part-whole models to 
+demonstrate how addition and 
+subtraction are inverse 
+operations  
+ 
+ 
+ 
+ 
+Recall addition and subtraction facts 
+to 20 
+For example:  
+ 
+ 
+ 
+
+===== PAGE 36 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+32 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+recalling combinations of two 
+numbers that add up to 20 and 
+related subtraction facts 
+• 
+using related number facts,  
+such as 14 + 6 = 20, so 20 −
+6 = 14 and 20 −14 = 6 
+Explore and represent the 
+relationship between multiplication 
+and division using diagrams, arrays 
+and number sentences 
+For example:  
+• 
+understanding that an array is a 
+rectangular arrangement of 
+objects used to model 
+multiplicative situations, where 
+rows represent the first factor 
+and columns represent the 
+second factor 
+• 
+arranging and rearranging a 
+collection of 12 into arrays, 
+exploring the connection 
+between multiplication and 
+division, such as  
+ 
+Represent and explain the 
+relationship between multiplication 
+and division using arrays and 
+equations 
+For example:  
+• 
+using knowledge of arrays to 
+explain how many rows of seven 
+are needed to make 42 
+ 
+Explore, identify and represent 
+factors and multiples of whole 
+numbers in arrays and explain 
+reasoning 
+For example:  
+• 
+ 
+• 
+using blocks or grids to form 
+different rectangles to list all 
+possible factors for that 
+number, such as 12 can form the 
+following rectangles: 1 × 12,
+2 × 6 and 3 × 4  
+• 
+demonstrating that all multiples 
+can be formed by combining or 
+regrouping, such as multiples of 
+seven can be formed by 
+combining a multiple of two 
+with the corresponding multiple 
+of five  
+Explore, identify and represent 
+square, prime and composite 
+numbers in arrays and explain 
+reasoning  
+For example:  
+• 
+using visual representations to 
+explore and reason about 
+square numbers 
+
+===== PAGE 37 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+33 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+• 
+investigating the result of 
+multiplying and dividing by one 
+and multiplying by zero  
+• 
+relating doubling to 
+multiplication facts for two and 
+four, recognising that doubling 
+is multiplying by two and halving 
+is dividing by two  
+ 
+ 
+• 
+identifying lowest common 
+multiples and highest common 
+factors of pairs or triples of 
+whole numbers, such as the 
+lowest common multiple of six 
+and nine is 18 and the highest 
+common factor is three and the 
+lowest common multiple of 
+three, four and five is 60 and the 
+highest common factor is one  
+• 
+creating a sequence of steps 
+based on multiplication and 
+division facts to determine if a 
+number is a multiple or a factor 
+of another number, and 
+representing this in diagrams or 
+flow charts, such as a yes/no 
+flow chart 
+• 
+using tiles, blocks or visual 
+representations to form arrays 
+to explore and explain what 
+makes a number prime or 
+composite 
+• 
+recognising that a prime 
+number, which has exactly two 
+distinct factors, itself and one, 
+has only one row when 
+represented as an array  
+Recall multiplication facts of 2, 3, 4, 
+5 and 10, and related division facts 
+For example: 
+Recall multiplication facts up to 
+10 × 10, and related division facts  
+For example: 
+ 
+ 
+
+===== PAGE 38 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+34 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+recognising and using the 
+symbols for multiplied by (×) 
+and divided by (÷)  
+• 
+using the commutative property 
+of multiplication to extend 
+multiplication facts, such as 
+recognising that if 10 × 3 = 30  
+then 3 × 10 = 30 
+• 
+using arrays and grid paper to 
+represent and explain patterns 
+in the multiplication and division 
+facts related to 10 × 10 
+• 
+using knowledge of doubles and 
+near doubles to establish the 
+multiplication facts, such as 
+using doubles for 8 × 6 where 
+       2 × 6 = 12 doubles to   
+       4 × 6 = 24 doubles to  
+       8 × 6 = 48   
+• 
+recognising the distributive 
+property of multiplication, such 
+as when finding 6 × 7, knowing 
+that 7 is made up of 2 and 5, so  
+6 × 2 = 12 and 6 × 5 = 30, and 
+therefore 12 + 30 = 42 
+Recognise, represent and describe 
+unit fractions 
+1
+2 ,
+1
+3 ,
+1
+4 ,
+1
+5  and 
+1
+10. 
+Combine unit fractions with the 
+same denominator to create a 
+complete whole  
+For example:  
+• 
+describing fractions using words 
+and numerical representations, 
+such as one-third as one part 
+out of three, 
+1
+3  or 1 ÷ 3   
+Explore and represent common 
+equivalent fractions and make 
+connections to their decimal 
+representation  
+For example:  
+• 
+representing a line, shape, 
+object or collection using 
+equivalent fractions  
+Count by unit fractions, locate and 
+represent on number lines and 
+extend to mixed numerals  
+For example:  
+• 
+cutting objects, such as oranges, 
+into sixths and counting by 
+sixths to find the total 
+• 
+counting forwards and 
+backwards by unit fractions 
+Order common fractions with the 
+same and related denominators, 
+including mixed numerals, using 
+diagrams and number lines 
+For example:  
+• 
+using a range of 
+representations, such as 
+number lines, paper strips, 
+shapes and objects, to assist in 
+ordering common fractions, 
+
+===== PAGE 39 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+35 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+exploring fraction walls 
+ 
+• 
+representing fractions using 
+shapes, objects, paper folding, 
+fraction strips or number lines 
+ 
+• 
+finding the quantity of a whole 
+collection, given the number of 
+objects in one-third 
+ 
+ 
+• 
+demonstrating equivalent 
+fractions as lengths and using 
+paper folding 
+• 
+building familiarity with 
+common equivalent fractions, 
+such as 
+ 
+• 
+connecting fractions and 
+decimals by aligning number 
+lines to show equivalence 
+• 
+describing and representing 
+quantities that are more than 
+one whole  
+• 
+moving flexibly between mixed 
+numerals and improper 
+fractions, such as seeing that 1
+1
+4  
+is equivalent to  
+5
+4 
+such as  
+1
+2 ,  
+2
+3  and  
+1
+6, and 
+demonstrating that 
+1
+3  is 
+equivalent to  
+2
+6 when ordering 
+fractions on a number line 
+ 
+ 
+
+===== PAGE 40 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+36 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+• 
+sharing collections, such as 
+popsticks or counters, between 
+three, four and five people and 
+connecting division with 
+fractions, such as sharing 
+between three people gives  
+1
+3  
+of the collection to each and 
+sharing between five people 
+gives  
+1
+5  of the collection to each  
+ 
+ 
+ 
+Identify the use of percentages in 
+everyday situations and recognise 
+that 100% represents a complete 
+whole, which is equal to one 
+For example:  
+• 
+using grid paper to represent a 
+whole 
+Connect commonly used 
+percentages, including 10%, 25% 
+and 50%, to fractions and decimals, 
+including on a number line 
+For example:  
+• 
+recognising the percentage 
+symbol (%) is used to show a 
+ratio out of 100  
+• 
+contextualising percentages, 
+such as comparing the 
+advantages of being offered a 
+
+===== PAGE 41 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+37 
+ 
+ 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+• 
+identifying the use of 
+percentages in familiar contexts, 
+such as battery levels on laptops 
+or tablets, sport statistics or 
+supermarket discounts 
+• 
+recognising percentages that 
+represent more or less than a 
+whole, such as 120% is more 
+than a whole and 75% is less 
+than a whole 
+10%, 25% or 50% discount, in 
+connection to fractions, such as 
+‘50% off’ is half price 
+• 
+using representations to identify 
+fractions and the corresponding 
+percentages  
+• 
+using visual aids to explore 
+percentages as parts of a whole, 
+exploring wholes that are 
+different sizes 
+ 
+
+===== PAGE 42 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+38 
+Sub-strand: Understanding equalities and inequalities 
+Year 3  
+Year 4 
+Year 5 
+Year 6 
+Explore and use the greater than, 
+less than and equality symbols to 
+compare two whole numbers or 
+statements involving addition and 
+subtraction  
+For example: 
+• 
+recognising and using the 
+symbols for greater than (>) 
+and less than (<)  
+• 
+using the correct inequality 
+symbol to compare two given 
+numbers, such as 5  2 
+• 
+using equality and inequality 
+symbols to compare numbers 
+and statements, such as  
+7 + 3 11 
+12 + 8  1 + 19 
+8 + 4  7 + 6 
+20 – 12 + 2  10 −3 
+Decide if statements of equality and 
+inequality involving the four 
+operations are true, and explain 
+reasoning 
+For example: 
+• 
+classifying statements as true (T) 
+or false (F) 
+17 + 0 = 0 (F) 
+52 + 17 < 70 (T) 
+60 −10 > 60 ÷ 10 (T) 
+16 ÷ 1 > 16 × 1 (F) 
+• 
+reasoning to identify, without 
+calculating, that 
+6 × 12 < 6 × 14  because 
+multiplying 6 by a larger number 
+will result in a larger answer 
+• 
+reasoning to insert the correct 
+value to make the statement 
+true when there is an unknown 
+quantity, such as 12 +  = 20 
+Complete and check statements of 
+equality and inequality involving the 
+four operations, and explain 
+reasoning 
+For example: 
+• 
+completing statements, such as  
+28  5 ÷  = 28 
+2  3  4  5 = 4  3   
+• 
+checking statements, such as 
+ 2 × 18 = 4 × 9, to identify if 
+they are true or false, explaining 
+that doubling one number and 
+halving the other will give the 
+same result  
+• 
+reasoning to insert the correct 
+symbol to make true statements 
+without calculating, such as  
+15 + 87  16 + 86 
+• 
+reasoning to make the 
+statement true when there is an 
+unknown quantity, such as   
+35   = 70 
+Complete, check and construct 
+statements of equality and 
+inequality involving the four 
+operations, including the use of 
+brackets and order of operations, 
+and explain reasoning 
+For example: 
+• 
+checking statements to say if 
+they are true (T) or false (F), 
+such as   
+1
+2 × 0 =
+1
+2 (F) 
+10 × 0.2 < 10 ÷ 2 (T) 
+• 
+completing statements, such as 
+(3 + 5)  2  23 + 5  2 
+and explaining reasoning using 
+order of operations 
+• 
+explaining where to put 
+brackets in a number sentence 
+to make the statement true, 
+such as 2 + 4 × 7 = 42 
+ 
+ 
+
+===== PAGE 43 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+39 
+Sub-strand: Patterns and relationships 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Create and represent increasing or 
+decreasing additive patterns from 
+any starting point, using concrete 
+materials and numbers, and 
+describe rules to represent the 
+pattern  
+For example: 
+• 
+using concrete materials to 
+represent an increasing additive 
+pattern and describing it, 
+recognising the importance of 
+the starting point, such as 
+‘starting at five and adding three 
+more each time’ 
+ 
+Create and represent increasing 
+multiplicative patterns, using 
+concrete materials and numbers, 
+and describe rules to represent the 
+pattern  
+For example: 
+• 
+using concrete materials to 
+represent an increasing 
+multiplicative pattern and 
+describing it, such as ‘starting at 
+six and multiplying by two each 
+time’ 
+ 
+• 
+creating and describing a variety 
+of multiplicative number 
+patterns, such as 2, 10, 50, 250 
+… or 4, 12, 36, 108 … 
+Follow rules to create increasing or 
+decreasing additive and 
+multiplicative patterns using 
+concrete materials and numbers. 
+Explore ways to predict unknown 
+values 
+For example: 
+• 
+following a rule, such as 
+‘starting at two, double and add 
+one, and repeat’, drawing or 
+creating the pattern and 
+producing the sequence 
+2, 5, 11, 23 …  
+• 
+recognising that the same 
+pattern can be created using 
+different rules and predicting 
+that the number of toothpicks 
+needed for eight boxes will be 
+1 plus 8 lots of 3 or 4 plus 7 lots 
+of 3, such as 
+Create and represent increasing or 
+decreasing patterns using concrete 
+materials and numbers. Use words 
+to generalise rules that relate each 
+element of a pattern to its position  
+For example: 
+• 
+using toothpicks, counters, 
+blocks or drawings to create 
+patterns, investigating and 
+making predictions, such as the 
+number of squares in the sixth 
+diagram being 21 as 
+6 + 5 + 4 + 3 + 2 + 1 = 21  
+• 
+recognising that one pattern can 
+generate many rules, such as a 
+square with side lengths of 10 
+having 8 × 8 = 64 black 
+squares, 
+
+===== PAGE 44 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+40 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+using concrete materials to 
+represent and describe a 
+decreasing additive pattern, 
+such as  
+ 
+• 
+creating and describing a variety 
+of number patterns that 
+increase or decrease by a 
+constant amount, such as 
+20, 25, 30 … or 16, 12, 8 …  
+ 
+• 
+entering an additive and 
+multiplicative formula, such as 
+= (A1*3 – 5), into a spreadsheet 
+and following the rule to 
+generate a sequence of 
+numbers, starting from 3, to 
+determine the 15th term 
+• 
+predicting if the next number in 
+a pattern will be odd or even 
+10 + 10 + 8 + 8 or 
+4 × 10 −4 = 36 white squares 
+and 
+10 × 10 = 100 squares 
+altogether 
+• 
+considering sequences, such as 
+1, 3, 5 …, and recognising the 
+rule, which in this case is double 
+the position number and 
+subtract one, then using the rule 
+to predict the 200th odd 
+number 
+ 
+ 
+
+===== PAGE 45 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+41 
+Sub-strand: Calculating with number 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Add and subtract two- and 
+three-digit numbers using a range of 
+strategies  
+For example:  
+• 
+using and applying a range of 
+strategies, such as partitioning, 
+rearranging, number lines, bar 
+models and part-part-whole 
+models 
+▪ 
+rearranging and partitioning 
+to facilitate calculations, 
+such as 37 + 28 (subtract 3 
+from 28 and add to 37) 
+40 + 25 (using place value 
+partitioning) 
+60 + 5 = 65 
+▪ 
+solving subtraction 
+problems efficiently by 
+adding or subtracting a 
+constant amount to both 
+numbers, such as  
+534 −395 adding 5 to both 
+numbers to make  
+539 −400 = 139 
+Add and subtract whole numbers up 
+to four digits using flexible and 
+efficient strategies  
+For example:  
+• 
+using and applying a range of 
+strategies, such as  
+Bridging the decades 
+(385 + 47 → 385 plus 15 = 
+400 plus 32 is 432) 
+Quantity values 
+(36 + 27 → 36 plus 20 = 56 
+plus 4 is 60 and 3 is 63) 
+Compensation 
+(28 + 35 is the same as 
+30 + 35 = 65, subtract 2 to 
+obtain 63) 
+(125 − 78 → 125 – 80 = 45, 
+add 2 to obtain 47) 
+Levelling 
+(264 +198 is the same as 
+262 + 200) 
+Constant difference 
+Add and subtract any whole 
+numbers using flexible and efficient 
+strategies 
+For example:  
+• 
+applying known strategies,  
+such as  
+Levelling 
+(4988 + 955 → 4990 + 953 → 
+5000 + 943) 
+Addition for subtraction 
+(5009 − 3997 add 3 is 4000 
+plus 1009) 
+Constant difference 
+(5009 − 3997 → 5012 − 4000) 
+Bridging 
+(4988 + 955 = 4988 plus 2 
+plus 10 plus 943) 
+Place value 
+(42 000 + 5123 + 246 = 40 
+000 + 7000 + 300 + 60 + 9) 
+Choose and use flexible and efficient 
+strategies to calculate with whole 
+numbers, involving any of the four 
+operations, and explore the use of 
+the order of operations  
+For example:   
+• 
+selecting and using efficient 
+strategies to multiply whole 
+numbers, such as 
+5000 × 90 mentally but 
+4974 × 87 using a calculator  
+• 
+applying the order of operations 
+to solve equations, such as 
+5 + (2 × 3) = 5 + 6 = 11  
+• 
+representing remainders 
+appropriately, as whole 
+numbers, fractions or decimals  
+ 
+
+===== PAGE 46 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+42 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+▪ 
+using a number line, such as 
+for 159 + 23  
+ 
+▪ 
+using a part-part-whole 
+model, such as for  
+237 –  = 189 
+ and using the inverse 
+relationship to solve for 
+change unknown in 
+189 +  = 237 
+using the inverse of addition 
+(subtraction) to solve        
+237 – 189 =  
+ 
+ 
+ 
+(125 − 78 is the same as 
+127 − 80) 
+• 
+setting out standard and  
+non-standard partitions to 
+facilitate addition and 
+subtraction  
+ 
+• 
+using algorithms to record 
+addition and subtraction 
+calculations  
+• 
+identifying efficient and 
+inefficient multidigit subtraction 
+strategies, such as solving 
+9000 −7 mentally is efficient 
+and solving using an algorithm is 
+inefficient  
+
+===== PAGE 47 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+43 
+• 
+using algorithms, showing 
+understanding to record 
+addition and subtraction 
+calculations 
+• 
+recognising how hundreds are 
+exchanged in subtraction 
+algorithms requiring regrouping  
+ 
+• 
+recognising when mental 
+strategies would be more 
+efficient than a vertical 
+algorithm for subtraction, such 
+as 900 −3 or 500 −498  
+• 
+using the inverse relationship 
+between addition and 
+subtraction to find missing  
+numbers in calculations, such as  
+          – 15 = 19 
+
+===== PAGE 48 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+44 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+               83 = 55 +  
+18 + 5 =   + 16 
+ 
+ 
+Add and subtract fractions with the 
+same denominator using flexible 
+and efficient strategies  
+For example:  
+• 
+using concrete materials or 
+diagrams  
+ 
+• 
+using diagrams, objects and 
+mental strategies to subtract a 
+unit fraction from any whole 
+number, including one  
+ 
+Add and subtract fractions with 
+related denominators, using flexible 
+and efficient strategies, based on 
+knowledge of equivalence  
+For example:  
+• 
+representing fractional 
+quantities with the same or 
+related denominators to add 
+and subtract fractions, such as 
+‘How much more is  
+3
+4  than  
+3
+8 ?’ 
+ 
+• 
+calculating  
+1
+4 + 
+1
+8 , mentally or 
+with jottings and diagrams,   
+recognising that  
+1
+4 = 
+2
+8 , so  
+1
+4 + 
+1
+8 =
+2
+8 + 
+1
+8 =
+3
+8  
+• 
+adding fractions by simplifying 
+or grouping, such as 
+
+===== PAGE 49 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+45 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+7
+8 +
+1
+4 =
+7
+8 +
+2
+8 = 1 +
+1
+8   
+• 
+using a number line, such as for 
+2 
+5
+6 – 1 
+1
+6 
+ 
+ 
+ 
+ 
+Add and subtract decimals to two 
+decimal places, using flexible and 
+efficient strategies  
+For example:  
+• 
+using place value, such as 
+8.4 + 3.6  
+= 8 + 3 + 0.4 + 0.6 
+= 8 + 3 + 1 
+= 12 
+and 
+5.8 + 7.4 
+5.8 + 7 = 12.8 
+12.8 + 0.4 = 13.2 
+• 
+multiplying decimals by powers 
+of 10 to solve  2.15 + 2.35 
+215 + 235 = 450 
+450 ÷ 100 = 4.5 
+• 
+applying known strategies,  
+such as levelling or constant 
+
+===== PAGE 50 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+46 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+difference levelling 
+(2.94 + 5.16 → 3 + 5.1) 
+or constant difference 
+(2.57 – 1.03 → 2.60 – 1.06) 
+ 
+Multiply two-digit numbers by 
+one- and two-digit numbers, and 
+divide whole numbers by one-digit 
+numbers, where there is no 
+remainder, using flexible and 
+efficient strategies  
+For example:  
+• 
+using a variety of formats to 
+partition numbers into ones and 
+tens and represent operations in 
+arrays to support calculations, 
+such as 6 × 17 
+or 14 × 16 
+Multiply larger whole numbers by 
+one- and two-digit numbers and 
+divide whole numbers by one-digit 
+numbers, including those with 
+remainders, using flexible and 
+efficient strategies  
+For example:  
+• 
+utilising factors to multiply, such 
+as 36 × 25 can be rewritten as 
+9 × 4 × 25, which is 9 × 100  
+• 
+making division easier by 
+multiplying or dividing by the 
+same amount, such as 28 ÷ 4 is 
+14 ÷ 2  
+• 
+partitioning numbers to simplify 
+multiplication, such as  
+Multiply decimals by whole numbers 
+and multiply and divide decimals by 
+powers of 10, using flexible and 
+efficient strategies 
+For example:   
+• 
+exploring multiplying whole 
+numbers by decimals larger and 
+smaller than one to identify 
+misconceptions that multiplying 
+always makes numbers bigger, 
+such as 120 × 1.5 and 120 ×
+0.5  
+• 
+using mental strategies to 
+multiply decimals, such as 
+3.5 × 2  
+• 
+using place value to mentally 
+multiply and divide decimals by 
+powers of 10, such as 
+5.75 × 10 = 57.5 
+5.75 × 100 = 575 
+5.75 × 1000 = 5750 
+57.5 ÷ 10 = 5.75 
+57.5 ÷ 100 = 0.575 
+57.5 ÷ 1000 = 0.0575 
+
+===== PAGE 51 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+47 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+using knowledge of multiples to 
+partition as appropriate to 
+divide, such as 85 ÷ 5 = 17  
+• 
+doubling for multiplying by four 
+and eight, such as  
+8 × 19 
+2 × 19 = 38 doubles to 
+4 × 19 = 76 doubles to 
+8 × 19 = 152 
+and halving for dividing by four 
+and eight, such as  
+104 ÷ 8 
+104 ÷ 2 = 52 halves to   
+104 ÷ 4 = 26 halves to   
+ 
+• 
+using multiplication facts to 
+facilitate division, such as  
+solving 27 ÷ 6 by using 4 × 6 =
+24 and 5 × 6 = 30 to predict 
+the result must be between 4 
+and 5, with a remainder (3 =
+30 −27) 
+ 
+
+===== PAGE 52 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+48 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+104 ÷ 8 = 13   
+• 
+doubling and halving to make 
+multiplication easier, such as 
+45 × 14 is the same as 
+90 × 7 = 630  
+ 
+ 
+ 
+Determine a familiar fraction, 
+decimal or percentage of a whole 
+number 
+For example: 
+• 
+calculating fractions of whole 
+numbers, such as  
+2
+5 × 30   
+• 
+explaining how  
+1
+3  of a quantity 
+can be achieved by dividing by 
+three, and how knowledge of  
+1
+3  
+of a quantity can be used to find  
+2
+3  or  
+4
+3  of the same quantity  
+• 
+finding 0.2 of a whole number, 
+recognising that 0.2 =  
+1
+5  so 
+finding 0.2 of a number means 
+dividing by five 
+
+===== PAGE 53 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+49 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+finding 10%, 25% and 50% of a 
+whole number, equating 10% to 
+dividing by 10, 50% to finding 
+half by dividing by two and 25% 
+to finding a quarter by dividing 
+by four or by finding half and 
+half again 
+10% of $60 = 60 ÷ 10 = $6 
+50% of 105 = 105 ÷ 2 = 52.5 
+25% of 1200 = 1200 ÷ 4 = 
+300 
+
+===== PAGE 54 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+50 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Explore additive estimation 
+strategies to evaluate the 
+reasonableness of a calculation in 
+familiar contexts  
+For example: 
+• 
+identifying situations where 
+estimating is useful because a 
+high level of accuracy is not 
+necessary 
+• 
+estimating by rounding numbers 
+to the nearest ten or hundred, 
+such as rounding  $219 + $385 
+to $200 + $400 = $600  
+• 
+estimating the results of a 
+calculation to check the 
+reasonableness of calculator 
+results 
+Explore a range of additive 
+estimation strategies for different 
+situations, including using 
+knowledge of odd and even 
+numbers  
+For example: 
+• 
+using front-end estimation 
+where a high level of accuracy is 
+not required, such as estimating  
+764 + 239 as 700 + 200 
+• 
+rounding to the nearest dollar to 
+estimate cost, such as 
+$16.67 + $4.12 + $0.97 +
+$0.46 rounding to 
+$17 + $4 + $1 + $0 = $22  
+• 
+overestimating and 
+underestimating for a range, 
+such as for 687 + 294, the 
+result will be between  
+700 + 300 = 1000 and 
+680 + 290 = 970  
+• 
+checking results of calculations 
+using knowledge of odd and 
+even numbers, such as the sum 
+of two even numbers or two 
+odd numbers must be even  
+Explore multiplicative estimation 
+strategies and their appropriateness 
+in different situations  
+For example: 
+• 
+recognising the effect of 
+rounding both numbers up, both 
+numbers down or one number 
+up and one number down, 
+explaining which estimation is 
+the best approximation and why 
+• 
+estimating how many pages are 
+in a book series if there are five 
+books in the series and each 
+book (in the series) has about 
+120 pages, using doubling and 
+halving to solve i.e. 
+10 × 60 = 600 pages 
+• 
+estimating if $30 will be enough 
+to buy six mugs at $4.95 each by 
+rounding to $5 
+Use estimation and rounding to 
+make reasonable evaluations and 
+justify results  
+For example: 
+• 
+using rounding to simplify 
+divisions, such as approximating 
+997 ÷ 4 to 1000 ÷ 4, which 
+gives a result of approximately 
+250  
+• 
+estimating fractions, such as  
+5
+12 
+is a little less than a half 
+• 
+rounding a decimal to a nearby 
+whole number, such as for 
+25.14 × 3.5, recognising the 
+answer will be between 3 × 25 
+and 4 × 25, which is between 
+75 and 100  
+• 
+rounding up when determining 
+money required for a purchase, 
+and not rounding for digital 
+financial transactions 
+
+===== PAGE 55 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+51 
+Sub-strand: Financial mathematics 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Investigate financial transactions, 
+recognising equivalent values and 
+change 
+For example:  
+• 
+identifying different payment 
+methods and situations where 
+they are commonly used, such 
+as cards for public transport and 
+gold coins for donations 
+• 
+developing an awareness of the 
+value of money relative to 
+everyday items, using 
+catalogues 
+• 
+representing equivalent values 
+using different denominations, 
+such as 70 cents can be made 
+up of three 20-cent coins and a 
+10-cent coin, or two 20-cent 
+coins and three 10-cent coins  
+• 
+representing transactions 
+involving change, such as 
+determining the change from a 
+$50 note used to purchase a 
+$24 shirt and $8 socks for a 
+sport team uniform 
+Investigate and represent saving and 
+spending, recognising that limited 
+amounts of money are available  
+For example:  
+• 
+investigating saving patterns 
+using different weekly amounts 
+and various time periods, such 
+as 4, 8 or 12 weeks 
+• 
+comparing how total savings can 
+change when weekly savings 
+amounts differ, such as ‘If $5 is 
+saved each week for eight 
+weeks, how much do you save? 
+What if you save $7 a week for 
+the same time?’ 
+• 
+exploring purchasing choices 
+when money is saved rather 
+than spent immediately, 
+recognising that spending 
+decisions can be influenced by 
+external factors, such as friends, 
+media, events and advertising 
+Identify features of budgets and 
+create a simple budget, comparing 
+prices where possible 
+For example:  
+• 
+using a context, such as a school 
+trip or class party, to create a 
+simple budget 
+• 
+distinguishing between total 
+cost and cost per person 
+• 
+comparing prices and 
+recognising that a 
+product/service can be 
+overpriced  
+• 
+developing an awareness that 
+advertising can influence 
+purchasing decisions 
+Develop plans for savings goals, 
+predict expenses and identify that 
+saving money with a bank attracts 
+interest   
+For example:  
+• 
+choosing a savings goal, such as 
+an end-of-year school camp 
+• 
+using a spreadsheet to keep 
+track of money being raised in a 
+bake sale for the end-of-year 
+school camp. Keeping track of 
+income (money received for the 
+cakes purchased) and expenses 
+(money spent on ingredients), 
+recognising the need to 
+prioritise certain expenses (e.g. 
+ingredients over decorations) 
+• 
+identifying the importance of 
+checking receipts, including 
+ensuring any % discounts have 
+been accurately applied and 
+using estimation strategies to 
+check the total amount 
+• 
+discussing the benefits of using 
+a bank for saving  
+
+===== PAGE 56 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+52 
+Sub-strand: Modelling with number 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Identify and represent a range of 
+real-world addition and subtraction 
+situations with part-part-whole 
+models, and multiplication and 
+division situations with arrays. Write 
+number sentences to reach a 
+solution and interpret in context 
+For example:  
+• 
+modelling additive situations, 
+such as ‘I had 75 tomatoes and 
+then picked some more. Now I 
+have 138. How many did I pick?’ 
+Choosing to use a 
+part-part-whole model and 
+writing number sentences, 
+explaining how each number is 
+related to the situation. Using 
+strategies, such as the 
+relationship between addition 
+and subtraction, to solve, 
+interpreting the answer and the 
+additional tomatoes picked 
+ 
+Identify and represent real-world 
+additive and multiplicative 
+situations with diagrams and 
+equations to reach a solution. 
+Interpret and communicate findings 
+in context  
+For example:  
+• 
+modelling situations, such as 
+buying five scooters for $96 
+each, evaluating the situation 
+and identifying that it is 
+multiplicative. Representing the 
+situation using a bar model and 
+equation, explaining that five is 
+the number of scooters and $96 
+is the cost of each scooter. 
+Using efficient strategies to 
+solve, such as rounding $96 to 
+$100, multiplying 5 × 100 and 
+subtracting 5 × 4, 
+communicating that the answer 
+is the total cost of buying five 
+scooters 
+Identify and represent a range of 
+real-world additive and 
+multiplicative situations with 
+equations, using diagrams where 
+needed. Interpret and communicate 
+findings in context 
+For example:  
+• 
+modelling situations, such as 
+determining how many 
+containers Amy collected for 
+‘Containers for Change’, 
+knowing their total was 12 
+times as many as Ling, who 
+collected 25. Determining the 
+situation to be multiplicative 
+and representing it using a 
+diagram and equation, 
+demonstrating how the 
+representation is connected to 
+the situation,  
+such as the diagram shows that 
+12 × 25 is 12 times as many  
+as 25. Using efficient strategies 
+to solve, such as halving 12  
+In real-world situations involving 
+whole numbers, order of operations 
+and fractions with the same 
+denominator, use the following 
+process 
+I. analyse the situation and 
+identify relevant information 
+II. mathematically represent the 
+situation, including using 
+equations to reach a solution  
+III. interpret and communicate 
+findings in the context, 
+exploring and justifying 
+decisions  
+For example: 
+• 
+modelling situations, such as 
+determining the total cost of 
+Leith hiring a bike for nine 
+hours, analysing the given 
+information, identifying the 
+relevant information to 
+translate the situation into an 
+equation. Deciding on the 
+operation or combination of 
+
+===== PAGE 57 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+53 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+modelling multiplicative 
+situations, such as sharing 48 
+horses into 2, 4, 6 or 8 paddocks 
+using arrays, choosing to use 
+multiplication and/or division, 
+writing number sentences 
+(e.g. 2 × = 48) and 
+explaining how each number is 
+connected to the situation (e.g. 
+2 is the number of paddocks, 48 
+is the total number of horses 
+and the missing number will be 
+the number of horses in each of 
+the two paddocks) 
+ 
+ 
+ 
+and doubling 25, 
+communicating that the answer 
+is the number of containers Amy 
+collected, which is 12 times as 
+many as Ling 
+operations and applying the 
+order of operations, 
+e.g. 15 + (9 −4) × 3 + 2 =  
+Using efficient strategies to 
+solve, interpreting the answer to 
+be the total cost, explaining 
+findings, such as ‘It would have 
+cost $17 to hire the bike for four 
+hours, and it was an extra $15 
+for five more hours’  
+ 
+ 
+
+===== PAGE 58 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+54 
+Strand: Measurement and geometry  
+Sub-strand: Two-dimensional space and structures  
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Explore one-step slides 
+(translations) and flips (reflections) 
+of familiar two-dimensional shapes, 
+make connections to line symmetry 
+and describe the movement of the 
+shape   
+For example:  
+• 
+sliding or flipping 2D shapes to 
+identify that translations and 
+reflections do not change the 
+size or features   
+• 
+identifying lines of symmetry on 
+given shapes, such as triangles 
+and squares, using  
+paper-folding, mirrors or 
+drawings  
+ 
+Explore, visualise, describe and 
+create two-dimensional shapes that 
+result from combining or splitting 
+familiar shapes  
+For example: 
+• 
+combining familiar 2D shapes, 
+including quadrilaterals and 
+other polygons to form common 
+shapes     
+• 
+splitting a given shape, such as a 
+hexagon, into two or more 
+common shapes  
+ 
+Explore line and rotational 
+symmetry in two-dimensional 
+shapes  
+For example: 
+• 
+identifying line symmetry in the 
+environment, artworks and 
+patterns 
+• 
+identifying the rotational 
+symmetry of shapes by tracing 
+and rotating them to determine 
+how many times they match 
+their original position in a full 
+rotation, such as a rectangle 
+aligns with itself twice during 
+one complete turn 
+Explore, visualise and describe 
+translations, reflections or rotations 
+of two-dimensional shapes  
+For example: 
+• 
+recognising that translations, 
+reflections or rotations change 
+the position and orientation but 
+not the size of shapes  
+• 
+transforming shapes to create 
+tessellating patterns, including 
+using digital tools. Describing 
+the transformations used and 
+discussing why these shapes 
+tessellate, including identifying 
+shapes or combinations of 
+shapes that will not tessellate  
+
+===== PAGE 59 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+55 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Estimate, measure and order 
+lengths in uniform units, including 
+millimetres, centimetres and metres  
+For example:  
+• 
+creating a metric unit measuring 
+tape by drawing 1 cm markings 
+on a long paper strip using a 
+centimetre cube or tile and 
+using it to estimate, measure 
+and order the length of 
+stationery items 
+• 
+recognising the need for formal 
+units smaller and larger than the 
+centimetre to measure length 
+and using the abbreviations 
+mm, cm, m and km  
+• 
+investigating the length of one 
+metre using everyday examples, 
+such as a desk or arm span, and 
+exploring benchmarks for 
+centimetres and millimetres  
+ 
+Estimate, measure and compare  
+the perimeter of two-dimensional 
+shapes, using scaled instruments 
+and appropriate informal or  
+formal units  
+For example:  
+• 
+recognising that perimeter is  
+the sum of the lengths that form 
+the boundary of a shape or 
+enclosed space  
+• 
+selecting and using appropriate 
+scaled instruments, such as a 
+tape measure, ruler or trundle 
+wheel, to measure around the 
+boundary of a shape, e.g. a 
+painting or a garden bed 
+• 
+using a piece of string to 
+measure the perimeter of 
+irregular shapes, including those 
+that have curved sides  
+Choose and use appropriate metric 
+units and part units to estimate and 
+measure lengths 
+For example: 
+• 
+choosing and using an 
+appropriate unit, such as 
+centimetres when measuring a 
+length of fabric 
+• 
+recognising that the choice of an 
+appropriate unit may depend 
+upon the need for accuracy 
+rather than simply the size of 
+the object, for instance a bridge 
+may be measured in metres to 
+estimate length, but in 
+millimetres for engineering work  
+• 
+recording measurements using 
+both whole units and whole and 
+part units, such as 56 
+millimetres or 5.6 centimetres  
+Convert between units of length by 
+connecting metric units to the 
+decimal system and extend to units 
+of mass and capacity 
+For example: 
+• 
+recognising the significance  
+of the prefixes in units  
+of measurement  
+• 
+converting between units, 
+including millimetres, 
+centimetres, metres, kilometres; 
+milligrams, grams, kilograms, 
+tonnes; millilitres, litres, 
+kilolitres and megalitres  
+• 
+using place value, such as 
+converting 2600 m to 2.6 km, 
+recognising that 1000 m  
+equals 1 km  
+• 
+explaining and using the 
+relationship between the size  
+of a unit and the number of 
+units needed, such as more 
+grams than kilograms will be 
+needed to measure the same 
+object, and so to convert from 
+kilograms to grams you need to 
+multiply by 1000  
+
+===== PAGE 60 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+56 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+Describe and test a sequence of 
+steps to determine the perimeter of 
+rectangles 
+For example: 
+• 
+creating a range of rectangles 
+representing paddocks on grid 
+paper and establishing different 
+methods of working out the 
+length of boundary fences  
+• 
+exploring efficient ways to 
+calculate the perimeters of 
+rectangles, such as adding the 
+length and width together and 
+doubling the result  
+ 
+Compare the areas of two shapes 
+indirectly, using uniform informal 
+units, without gaps and overlaps  
+For example: 
+• 
+selecting from a range of 
+uniform informal units, such  
+as tiles, counters or blocks, to 
+cover shapes 
+• 
+using uniform informal units to 
+compare areas, recognising why 
+the same unit is used repeatedly 
+Estimate, measure and compare the 
+areas of rectangles using uniform 
+informal square units in arrays  
+For example: 
+• 
+choosing from a range of 
+uniform informal square units, 
+such as tiles, blocks, sticky notes 
+or paper cut-outs, tracing 
+around this unit, creating an 
+array to estimate, measure and 
+compare the area of rectangles  
+Identify dimensions of a metric 
+square unit. Estimate, measure and 
+compare areas using metric square 
+units  
+For example: 
+• 
+recognising the dimensions of a 
+metric square unit, recording 
+the area using the abbreviations 
+mm2, cm2 and m2 and using 
+correct terminology, such as 
+2 cm2 being read as ‘two square 
+Describe and test a sequence of 
+steps to determine the area of 
+rectangles based on dimensions  
+For example: 
+• 
+drawing a variety of rectangles 
+on grid paper to investigate 
+patterns in the relationship 
+between the length of the base 
+and the height of rectangles, 
+and their area  
+
+===== PAGE 61 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+57 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+recognising the relationship 
+between the size of the informal 
+units used and the number of 
+units needed to fill a shape, 
+choosing units that can best 
+cover a shape with no gaps or 
+overlaps  
+ 
+centimetres’  
+ 
+• 
+recognising that a unit of area 
+can be cut and rearranged and 
+still be the same area, such as a 
+square metre not needing to be 
+‘square’ – it may be 50 cm by 
+2 m or 25 cm by 4 m  
+• 
+exploring the use of arrays 
+within irregular shapes to 
+approximate the area, 
+discussing the parts that fall 
+outside of the arrays 
+ 
+• 
+using grid paper to investigate 
+and compare shapes that have 
+the same perimeter but 
+different areas, such as both 
+rectangles have a perimeter of 
+14 cm but different areas  
+ 
+
+===== PAGE 62 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+58 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Identify angles as measures of turn 
+between two lines that intersect 
+and directly compare angle sizes in 
+everyday situations  
+For example: 
+• 
+identifying angles formed by 
+two arms that open and close in 
+everyday situations, such as the 
+arms of a clock, a partially open 
+book, or an open pair of 
+scissors, recognising that a full 
+arm turn forms a circle  
+• 
+superimposing two angles, 
+aligning one arm and the vertex, 
+and checking the other arm to 
+determine which angle is 
+greater   
+Indirectly compare angles and 
+identify as being equal to, greater 
+than or less than a right angle 
+For example: 
+• 
+identifying angles in the 
+environment and comparing to 
+a right angle, including by using 
+an informal tool where required, 
+such as a pipe-cleaner or bent 
+straw  
+• 
+recognising that the length of 
+the arms does not affect the size 
+of the angle  
+ 
+ 
+Estimate, measure and construct 
+angles in degrees using a protractor. 
+Classify acute, right, obtuse, reflex 
+and straight angles  
+For example: 
+• 
+estimating and describing the 
+size of angles using known 
+angles as benchmarks  
+• 
+exploring the scale on a 
+protractor, recognising that 
+protractors usually have two 
+sets of numbers, one for 
+measuring angles in an 
+anticlockwise direction and one 
+for clockwise 
+• 
+developing and following a 
+sequence of steps to accurately 
+measure angles using a 
+protractor 
+• 
+recording angle measurements 
+using the symbol for degrees (°)  
+Investigate angles in a right angle, 
+on a straight line, angles at a point 
+and vertically opposite angles, to 
+determine unknown angles and 
+explain reasoning  
+For example: 
+• 
+investigating adjacent angles 
+that form a right angle and 
+establish that they add to 90° 
+(complementary angles) 
+ 
+• 
+investigating adjacent angles 
+that form a straight angle and 
+establish that they add to 180°, 
+such as an angle of 120° and 
+60° (supplementary angles)  
+ 
+• 
+recognising vertically opposite 
+angles as angles that are directly 
+
+===== PAGE 63 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+59 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+opposite each other and equal 
+in size, formed when two lines 
+intersect 
+• 
+recognising and describing angle 
+relationships embedded in 
+diagrams, such as   
+ 
+Create and interpret simple maps to 
+show positions and pathways, 
+considering the relative position of 
+key features  
+Create or interpret grid maps, 
+describe positions and pathways, 
+and explore scales and legends  
+For example: 
+Use directional language, grid 
+references and grid coordinates to 
+describe positions and pathways  
+For example: 
+Explore the Cartesian plane as the 
+intersection of two number lines at 
+zero, using the coordinate system to 
+locate points in all four quadrants  
+
+===== PAGE 64 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+60 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+For example: 
+• 
+imagining a ‘bird’s-eye view’ of 
+locations to create maps 
+without scales, such as 
+representing the layout of a 
+classroom or bedroom 
+• 
+sketching a mud map of the 
+school, identifying the main 
+buildings and orientating to the 
+real world to determine 
+directions to travel  
+• 
+locating positions on grid maps 
+by coordinating horizontal and 
+vertical references  
+• 
+exploring scales, such as the 
+length of one square grid 
+equalling 10 metres  
+• 
+using maps to move through 
+pathways and describing a 
+journey between two locations 
+on a grid map  
+• 
+using digital tools to create a 
+grid map of a familiar area, such 
+as the local park  
+• 
+using a given grid map and 
+compass directions (N, S, E, W), 
+planning, describing and 
+showing a route from one 
+location to another  
+• 
+recognising the difference 
+between grid references and 
+grid coordinates. 
+A grid reference identifies a 
+region by labelling the spaces 
+e.g. B2 shows the darker shaded 
+region in that square. 
+A grid coordinate uses numbers 
+to identify a point where two 
+numbered lines intersect e.g. 
+(1, 3). 
+For example: 
+• 
+recognising positive and 
+negative integers on the number 
+lines when plotting points in all 
+four quadrants on the Cartesian 
+plane 
+ 
+ 
+
+===== PAGE 65 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+61 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Because a grid coordinate uses 
+numbers, it can identify any 
+point within the spaces by using 
+decimal fractions e.g. (1.25, 
+2.5).  
+• 
+identifying grid coordinates on 
+the number plane in the first 
+quadrant, describing the 
+horizontal position first, 
+followed by the vertical position. 
+Recognising (2, 3) is a different 
+location to (3, 2)  
+
+===== PAGE 66 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+62 
+Sub-strand: Three-dimensional space and structures  
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Visualise and make models of 
+three-dimensional objects. Compare 
+and classify objects according to the 
+key features of faces, edges and 
+vertices 
+For example: 
+• 
+visualising and constructing 
+models of 3D objects using clay, 
+sticks, card or digital tools  
+• 
+comparing 3D objects, 
+identifying similarities and 
+differences, such as a pyramid 
+has triangular faces and a cube 
+does not 
+• 
+classifying a collection of 3D 
+objects, including cubes, 
+cylinders, cones, spheres, 
+rectangular and triangular 
+prisms and pyramids, using 
+geometric language to describe 
+features  
+Connect three-dimensional objects 
+to their two-dimensional 
+representations and visualise and 
+describe key features that cannot be 
+seen  
+For example: 
+• 
+connecting images or drawings 
+to 3D objects, including prisms, 
+pyramids and cylinders 
+• 
+constructing models of 3D 
+objects, based on 2D sketches, 
+using cubes  
+ 
+Visualise and connect 
+three-dimensional objects to their 
+nets and build objects from their 
+nets  
+For example: 
+• 
+deconstructing packages to see 
+the nets of different 3D objects, 
+including prisms, pyramids and 
+cylinders 
+• 
+investigating the variety of nets 
+that can be used to create a 
+particular prism  
+• 
+examining a diagram to 
+determine whether it is the net 
+of a 3D object or not  
+Visualise, sketch and construct 
+three-dimensional objects, including 
+prisms and pyramids  
+For example:  
+• 
+visualising features to create 
+sketches of 3D objects, showing 
+depth and from different views  
+• 
+constructing 3D models of 
+prisms and pyramids, given 
+drawings of different views  
+• 
+creating skeletal 3D models of 
+prisms and pyramids using 
+materials, such as toothpicks, 
+clay, straws and tape  
+
+===== PAGE 67 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+63 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+visualising features of 3D 
+objects that cannot be seen, 
+such as recognising the sketch is 
+a square-based pyramid with a 
+square base, four triangular 
+faces, eight edges and five 
+vertices  
+ 
+• 
+constructing 3D objects from 
+provided nets and from 
+sketching and testing nets, 
+considering the number, shape 
+and placement of faces  
+Measure and order capacity in 
+uniform units, including millilitres. 
+Estimate larger capacities using a 
+litre container  
+For example: 
+• 
+creating a calibrated measuring 
+instrument by repeatedly 
+pouring a quantity of water, 
+such as 50 mL, into a container, 
+and drawing and labelling a line 
+at each level 
+• 
+recognising that one-litre 
+containers can be a variety of 
+Estimate, measure and compare 
+capacity in litres and millilitres using 
+scaled instruments  
+For example: 
+• 
+relating benchmark capacities to 
+everyday containers, such as a 
+250 mL juice container or a 
+600 mL water bottle  
+• 
+recording capacities using the 
+abbreviation for litres (L) and 
+millilitres (mL)  
+• 
+comparing capacity 
+measurements, such as 
+Choose appropriate units to 
+estimate and measure capacity  
+For example: 
+• 
+selecting and using appropriate 
+units, such as millilitres for a 
+drinking glass and litres for a 
+bucket  
+• 
+reading calibrated measuring 
+instruments with evenly spaced 
+markings where not all values 
+are labelled, such as markings 
+for 1.0, 1.2, 1.4, 1.6, 1.8, 2.0, but 
+only 1 and 2 are labelled  
+ 
+
+===== PAGE 68 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+64 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+shapes, such as milk cartons and 
+ice-cream containers   
+recognising that a 1500 mL 
+container holds more than a 1 L 
+container 
+• 
+recognising and interpreting 
+decimal notation for capacities, 
+such as 8.7 L is the same as 
+8 litres and 700 mL  
+ 
+Explore and compare volume, and 
+recognise that objects with different 
+shapes can have the same volume  
+For example: 
+• 
+identifying volume as the space 
+an object occupies and 
+differentiating it from other 
+measurement attributes 
+• 
+recognising that objects made 
+with the same number of 
+identical cubes will have the 
+same volume 
+• 
+creating different objects using 
+the same amount of playdough, 
+observing that they all have the 
+same volume even though they 
+are shaped differently  
+Identify the dimensions of a metric 
+cubic unit. Construct and compare 
+rectangular prisms using cubes and 
+determine their volume  
+For example: 
+• 
+constructing and comparing 
+rectangular prisms using 
+cubic-centimetre blocks and 
+describing the volumes in terms 
+of layers, such as two layers of 
+10 cubic-centimetre blocks  
+• 
+recording volumes using the 
+abbreviation for cubic 
+centimetres (cm3) and cubic 
+metres (m3) 
+Describe and test a sequence of 
+steps to determine the volume of 
+rectangular prisms based on 
+dimensions  
+For example: 
+• 
+exploring and generalising 
+multiplicative strategies to find 
+volume using diagrams, 
+numbers and words, focusing on 
+the relationship between the 
+number of cubes in a layer and 
+the number of layers in the 
+prism, such as recognising that 
+one layer is 12 cm3 and 
+multiplying by the number of 
+layers to determine volume 
+
+===== PAGE 69 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+65 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+exploring different rectangular 
+prisms that can be made from 
+the same number of cubes 
+ 
+ 
+Sub-strand: Non-spatial measurement 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Measure mass to compare objects 
+to everyday items using kilograms 
+and grams  
+For example:  
+• 
+using balance scales to compare 
+the weight of everyday items to 
+common benchmark weights 
+including 100 g, 250 g,  
+1
+2 kg and 
+1 kg 
+Estimate and measure mass in 
+kilograms and grams using analogue 
+and digital scales  
+For example:  
+• 
+interpreting evenly spaced 
+markings on analogue scales 
+where not all values are labelled  
+• 
+estimating and weighing the 
+same item using both analogue 
+Choose appropriate units to 
+estimate, measure and compare 
+mass  
+For example: 
+• 
+identifying the appropriate unit 
+and device to measure mass, 
+such as digital scales to measure 
+a school bag (kg) and kitchen 
+scales to measure the weight of 
+ingredients (g)  
+ 
+
+===== PAGE 70 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+66 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+• 
+identifying familiar items that 
+weigh about one kilogram,  
+such as a one-kilogram bag of 
+flour or a litre of milk 
+• 
+identifying familiar items that 
+are measured in grams, such as 
+chocolate or spices 
+and digital scales and comparing 
+the readings 
+• 
+creating a calibrated scale, and 
+using it to measure the mass of 
+everyday items in grams and 
+kilograms 
+• 
+recording masses using the 
+abbreviations for grams (g) and 
+kilograms (kg)  
+• 
+comparing readings on digital 
+scales, applying knowledge of 
+decimal numbers, such as 
+recognising that 3.25 kg is 
+heavier than 3.025 kg 
+• 
+recognising the equivalence of 
+whole number and decimal 
+representations of 
+measurements of mass, such as 
+3 kg 250 g is the same as 3.25 
+kg  
+Tell the time in minutes using 
+analogue and digital clocks. Describe 
+duration in hours, minutes and 
+seconds and identify the 
+relationship between them 
+For example: 
+• 
+recognising that the space 
+before the minute hand (in a 
+Convert between units of time, tell 
+the time on digital and analogue 
+clocks using ‘am’ and ‘pm’ notation 
+and determine duration  
+For example: 
+• 
+using the multiplicative 
+relationship between hours, 
+minutes and seconds to convert 
+Explore, describe and convert 
+between 12- and 24-hour time 
+systems and use to determine 
+duration  
+For example: 
+• 
+using analogue clocks to make 
+connections between 12- and 
+24-hour time systems 
+Use timetables and itineraries in  
+12- and 24-hour time systems to 
+determine the duration of events 
+and journeys  
+For example: 
+• 
+applying concrete and mental 
+strategies to determine elapsed 
+
+===== PAGE 71 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+67 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+clockwise direction) indicates 
+the minutes elapsed since the 
+hour past, and that the 
+remaining space on the clock 
+shows how many minutes until 
+the next hour    
+• 
+developing a sense of how long 
+one second and one minute is, 
+using a timer to determine the 
+duration of simple tasks 
+• 
+using time to describe the 
+duration of events, such as the 
+three-second rule in netball, 20 
+minutes for recess and a school 
+day being about 6 hours long 
+between units, such as 
+recognising that an hour is 60 
+times longer than a minute  
+• 
+comparing the duration of two 
+familiar events with durations 
+provided in different time units, 
+such as a movie length of 95 
+minutes and a bus journey of 2 
+hours and 10 minutes   
+• 
+relating analogue notation to 
+digital notation for time, such as 
+20 to 9 in the morning is the 
+same time as 8.40 am  
+ 
+ 
+• 
+applying strategies to convert 
+between time systems, 
+understanding that the same 
+time can be described in 
+different ways, such as to 
+convert times from 12.00 pm to 
+11.59 pm into 24-hour time, 12 
+is added to the hour  
+1.00 pm → 1300 in 24-hour 
+time 
+7.45 pm → 1945 in 24-hour 
+time 
+• 
+determining duration of events 
+when the starting and finishing 
+time, considering the starting 
+and finishing time 
+ 
+• 
+interpreting a variety of 
+timetables and itineraries from 
+real-life situations, such as a 
+school, movie theatre or public 
+transport authority  
+
+===== PAGE 72 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+68 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+times are provided in different 
+systems, such as the duration of 
+a school excursion scheduled to 
+start at 9.30 am and conclude at 
+1445 
+Sub-strand: Modelling with measurement and geometry  
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+In real-world situations involving 
+two-dimensional shapes, 
+three-dimensional objects, grid 
+maps, determining length, capacity 
+or mass in metric units or converting 
+between units of time, 
+mathematically represent the 
+problem to reach a solution. 
+Interpret and communicate findings 
+in the context of the situation  
+For example: 
+• 
+modelling situations involving 
+time, such as determining the 
+winner of a summer reading 
+contest where some students 
+have entered their data in 
+In real-world situations involving 
+transformation of two-dimensional 
+shapes, nets, grid reference 
+systems, determining length, area, 
+capacity, volume or mass in metric 
+units or converting between 12- and 
+24-hour time, mathematically 
+represent the problem to reach a 
+solution. Interpret and 
+communicate findings in the context 
+of the situation  
+For example: 
+• 
+modelling situations involving 
+metric units, such as planning 
+items to pack for a school camp, 
+given a list of required items and 
+In real-world situations involving 
+transformation of two-dimensional 
+shapes, rectangular prisms, 
+pyramids, Cartesian planes, 
+measuring and converting metric 
+units for length, mass and capacity, 
+determining volume and area in 
+metric units or determining the 
+duration of events and journeys, use 
+the following process 
+I. analyse the situation and identify 
+relevant information 
+II. mathematically represent the 
+situation to reach a solution  
+
+===== PAGE 73 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+69 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+minutes and some in hours. 
+Representing the problem using 
+a diagram, such as a table, 
+explaining how information in 
+the table relates to the context. 
+Using efficient strategies to 
+convert between the units of 
+time to determine a winner, 
+interpreting the winner to be 
+the student with the longest 
+duration of reading time  
+• 
+modelling situations involving 
+units of measurement, such as 
+exploring how much water is 
+needed to fill a bathtub and 
+comparing it to how much water 
+is used during a five-minute 
+shower  
+ 
+a weight and size limit for 
+student bags. Representing the 
+problem with diagrams and 
+equations, determining the 
+weights of given items, using 
+estimation strategies where 
+appropriate and determining 
+the total weight. Interpreting 
+the findings, such as the weight 
+could be reduced if a plastic 
+water bottle is chosen rather 
+than a metal one 
+• 
+modelling situations, such as  
+▪ 
+considering if the classroom 
+can fit a new table by 
+creating a grid map of the 
+current configuration of the 
+classroom, to an 
+approximate scale. Using 
+translations and grid 
+references to analyse and 
+solve the problem  
+▪ 
+creating a pathway utilising 
+a map of a local community, 
+ensuring all points of 
+interest are explored and 
+III. interpret and communicate 
+findings in the context, 
+exploring and justifying 
+decisions  
+For example: 
+• 
+planning a class trip to the WA 
+Museum Boola Bardip utilising 
+Transperth timetables and a 
+map of the museum to identify 
+a route and schedule 
+• 
+designing a monument 
+incorporating both prisms and 
+pyramids to honour an 
+important person. Investigating 
+how the symbolic meaning of 
+prisms and pyramids could 
+reflect the qualities of the 
+important person 
+
+===== PAGE 74 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+70 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+identifying the total distance 
+covered  
+ 
+ 
+
+===== PAGE 75 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+71 
+Strand: Probability and statistics 
+Sub-strand: Probability 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Describe familiar events using the 
+language of chance. Identify and list 
+possible outcomes of everyday 
+chance events 
+For example:   
+• 
+describing events as being likely, 
+unlikely, 50-50, possible, certain 
+or impossible, such as 
+ 
+• 
+identifying all possible outcomes 
+for events, such as choosing two 
+pegs from a bag containing 
+three red and three blue pegs  
+ 
+ 
+Order the likelihood of everyday 
+chance events. Identify when events 
+are not affected by previous events   
+For example:  
+• 
+using lists of familiar events and 
+ordering them from ‘least likely’ 
+to ‘most likely’ to occur, such as 
+seeing a rainbow during recess, 
+finding a pencil in your school 
+bag, having lunch at school on a 
+regular day or winning a 
+national raffle, and discussing 
+why the order of some events 
+might be different for different 
+students  
+• 
+identifying that obtaining heads 
+when tossing a coin does not 
+affect the chance of obtaining 
+heads on the next toss  
+• 
+clarifying misconceptions about 
+events that are not affected by 
+previous events, such as if it 
+Compare a range of everyday 
+chance events, grouping into those 
+with outcomes that are equally 
+likely or not equally likely   
+For example:  
+• 
+comparing differently divided 
+spinners and identifying if they 
+will produce equally or 
+unequally likely outcomes for 
+each section  
+ 
+• 
+comparing jars filled with two 
+colours of balls and identifying 
+those with equally likely 
+Order everyday chance events and 
+phrases on a scale from 0 to 1, 
+where 0 represents an event that is 
+certain not to happen (impossible) 
+and 1 represents an event that is 
+certain to happen 
+For example: 
+• 
+recognising that all measures of 
+probability fall between 0 and 1 
+or 0% and 100% 
+• 
+positioning events and phrases 
+on a scale and justifying 
+placements 
+ 
+
+===== PAGE 76 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+72 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+rains today, it is more likely to 
+rain tomorrow  
+outcomes and with unequally 
+likely outcomes for each colour   
+Identify the likelihood of outcomes 
+for planned, equally likely, repeated 
+chance experiments. Conduct the 
+experiments and recognise variation 
+in the results   
+For example:  
+• 
+rolling a dice, tossing a coin or 
+choosing a card for a set 
+number of trials and discussing 
+the likelihood of outcomes using 
+the language of chance   
+• 
+conducting experiments and 
+recording results using tallies, 
+pictures or objects  
+• 
+comparing results with others 
+and with expected outcomes, 
+discussing how results vary   
+Predict the likelihood of outcomes 
+of unequally likely, repeated chance 
+experiments. Conduct the 
+experiments, describe variation and 
+compare to the prediction   
+For example:  
+• 
+naming blue as the colour  
+most likely and red as the least 
+likely to be drawn when 
+choosing a block from a bag 
+containing 7 red, 13 blue and 10 
+yellow blocks  
+• 
+predicting that a button being 
+tossed will land on Area 3 most 
+often, conducting the 
+experiment 25 times, recording 
+the results and describing 
+Conduct repeated chance 
+experiments with equally likely 
+outcomes, including with the use of 
+digital tools. Represent results as 
+fractions, compare with others and 
+discuss variation   
+For example:  
+• 
+recording results for 20 trials as 
+fractions, comparing and 
+discussing differences between 
+the results for each group  
+Conduct repeated chance 
+experiments and simulations with 
+equally likely or unequally likely 
+outcomes, including with the use of 
+digital tools, for an increasing 
+number of trials. Compare expected 
+and observed frequencies in terms 
+of variation as the number of trials 
+increase 
+For example:  
+• 
+recording the frequency of each 
+outcome for 20, 30 and 40 trials, 
+and comparing the observed 
+frequency with the expected 
+frequency  
+
+===== PAGE 77 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+73 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+differences between predicted 
+and observed results  
+ 
+• 
+combining results for groups of 
+students and the whole class, 
+identifying that the results trend 
+closer to the prediction as the 
+number of trials increases  
+Sub-strand: Statistics 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Describe and interpret real-life data 
+represented in dot plots and column 
+graphs with scale intervals of one  
+For example:  
+• 
+using the dot plot to answer 
+questions, such as ‘How many 
+students have two pets?’, ‘What 
+was the least common number 
+of pets?’  
+Describe and interpret real-life data 
+represented in many-to-one 
+pictographs and column graphs  
+For example:  
+• 
+discussing advantages of  
+many-to-one representation, 
+such as it is easier to display 
+larger numbers visually, and 
+challenges, such as identifying 
+Describe and interpret line graphs 
+that show how real-life continuous 
+data changes over time  
+For example:  
+• 
+identifying features of line 
+graphs, such as labels, scale and 
+title, and answering questions 
+relating to the information in 
+the graph   
+Describe and interpret a range of 
+displays for real-life numerical data, 
+including side-by-side column 
+graphs, using mode, range and 
+shape  
+For example:  
+• 
+recognising that shape describes 
+how data is spread on a graph, 
+for instance whether the 
+
+===== PAGE 78 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+74 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+• 
+identifying features of column 
+graphs, such as labels, gaps, 
+categories and titles, and 
+answering questions relating to 
+the information in the graph  
+  
+‘how many’ are represented by 
+each symbol or reading values 
+for the columns associated with 
+many-to-one representations  
+ 
+• 
+answering questions relating to 
+the information in many-to-one 
+graphs, such as ‘How many 
+students liked Health and 
+Physical Education (HPE)?’ ‘How 
+many more students liked 
+Mathematics more than 
+English?’ ‘How many times as 
+many students liked Humanities 
+and Social Sciences (HASS) more 
+than the Arts?’ 
+ 
+  
+ 
+responses are grouped, spread 
+out, have more high or low 
+values, or show gaps   
+• 
+identifying the mode as the 
+most frequently occurring 
+response and the range as the 
+difference between the highest 
+and lowest data values recorded  
+• 
+interpreting data using mode, 
+range and shape, such as Class 
+5A has a range of 4, a mode of 0 
+and the number of students 
+decreases as the number of 
+siblings increases. Comparing 
+this to Class 5B   
+
+===== PAGE 79 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+75 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+ 
+ 
+ 
+ 
+Describe how the features of  
+real-life data displays may influence 
+an audience   
+For example:  
+• 
+considering how the broken axis 
+may affect the interpretation of 
+a display, such as choosing the 
+second graph to convey that 
+bread prices have fluctuated 
+dramatically in the last 12 
+months 
+
+===== PAGE 80 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+76 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+ 
+• 
+investigating how sizing, colour, 
+labels or scale may have been 
+used in the construction of a 
+display to influence a particular 
+audience or ‘tell a particular 
+story’  
+In a real-world context, explore 
+questions of interest by collecting 
+categorical or discrete numerical 
+In a real-world context, pose 
+questions and collect categorical or 
+discrete numerical data, checking 
+In a real-world context, pose and 
+refine questions, and collect 
+categorical or discrete numerical 
+In a real-world context involving 
+continuous and discrete numerical 
+data, use the following process 
+
+===== PAGE 81 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+77 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+data through observation or 
+surveys. Organise and represent 
+data in dot plots, tables and column 
+graphs and interpret to answer a 
+question  
+For example:   
+• 
+using a suitable method to 
+collect data (observation or 
+survey) to explore a question, 
+such as ‘How do most Year 3 
+students at our school travel to 
+school?’ Creating a list or table 
+to organise the data and 
+constructing an appropriate 
+display, including with the use of 
+digital tools, to answer the 
+initial question and interpret the 
+data, such as ‘Most students 
+travel by car, as there are 
+limited bus services to our 
+school’ 
+• 
+using conventions, such as equal 
+spaces on axes, naming and 
+labelling axes and choosing 
+appropriate titles for dot plots 
+and column graphs  
+for accuracy and consistency. 
+Organise and represent data in 
+pictographs and column graphs, and 
+interpret the data to communicate 
+findings in terms of the context  
+For example:   
+• 
+drafting suitable questions, 
+response categories and 
+recording methods to collect 
+data on topics, such as ‘What is 
+the most popular playground 
+game?’  
+• 
+recording responses accurately, 
+including unexpected responses  
+• 
+creating data displays, including 
+with the use of digital tools, 
+considering appropriate titles, 
+labels, scales and categories for 
+the axes  
+• 
+interpreting the data displays 
+created, summarising the 
+information, responding to the 
+initial question and discussing 
+any unexpected results  
+data. Organise and make choices to 
+represent data. Interpret and 
+communicate findings in terms of 
+the context, and reflect on variation 
+and accuracy  
+For example:   
+• 
+formulating and refining 
+questions, such as refining ‘How 
+many plastic bottles do people 
+in the classroom have in their 
+home bins at the end of a 
+week?’ to ‘How many plastic 
+bottles do people in the 
+classroom have in their recycling 
+bins at home?’ 
+• 
+collecting data using numbers to 
+indicate rating, such as 1 = 
+doesn’t like and 5 = likes a lot, 
+to collect data to answer, ‘How 
+did students at my school enjoy 
+the food choices at the end-of-
+year event?’ 
+• 
+choosing and creating data 
+displays, such as dot plots, 
+many-to-one column graphs and 
+I. analyse the situation to pose a 
+question   
+II. choose the most appropriate 
+way to collect data to ensure 
+accuracy and consistency, and 
+make choices to represent data, 
+including line graphs and  
+side-by-side column graphs  
+III. interpret and communicate 
+findings in terms of the context 
+and describe reasons for 
+variation  
+For example:   
+• 
+considering a situation, such as 
+growing plants in different areas 
+of the classroom to formulate a 
+question, such as ‘How does the 
+amount of sunlight affect plant 
+growth?’ Recording and 
+analysing data, including using a 
+spreadsheet. Choosing a line 
+graph to show plant growth 
+over time, using digital tools as 
+appropriate. Interpreting the 
+data to answer the question, 
+considering any reasons for 
+
+===== PAGE 82 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+78 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+pictographs, including with the 
+use of digital tools  
+• 
+discussing if the data provides 
+the information necessary to 
+answer the question and 
+identifying if the type of 
+questions, place, time or people 
+asked could vary the results  
+variation in the data, such as 
+distance from light source 
+
+===== PAGE 83 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+79 
+Acknowledgements 
+Stock images from Microsoft 365 used with permission from Microsoft. 
+Number and algebra 
+Understanding number  
+Pre-primary  
+Third content description, second example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 4). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 1  
+Fourth content description, third example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 107). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+Fifth content description, first example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 94). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+Fifth content description, third example diagram adapted from: Department 
+of Education WA. (2013). [Diagram of boxes cut in different ways]. First 
+Steps in Mathematics, Number Book 1 (p. 101–102). Retrieved March, 2025, 
+from https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 2  
+Sixth content description, third example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 128). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+
+===== PAGE 84 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+80 
+ 
+Sixth content description, third example diagram adapted from: Department 
+of Education WA. (2013). [Diagram of boxes cut in halves and quarters]. First 
+Steps in Mathematics, Number Book 1 (p. 101). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 3 
+Seventh diagram adapted from: Department of Education WA. (2013). 
+[Diagram of hexagons]. First Steps in Mathematics, Number Book 1 (p. 121). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 4 
+Seventh diagram adapted from: Department of Education WA. (2013). 
+[Diagram of equivalent fractions]. First Steps in Mathematics, Number Book 
+1 (p. 126). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Number and algebra 
+Patterns and relationships 
+Year 5 
+First diagram from: Department of Education WA. (2013). First Steps in 
+Mathematics, Number Book 2 (p. 260, 261). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 6 
+First diagram from: Department of Education WA. (2013). First Steps in 
+Mathematics, Number Book 2 (p. 257). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+Second diagram from: Department of Education WA. (2013). First Steps in 
+Mathematics, Number Book 2 (p. 218). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+
+===== PAGE 85 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+81 
+Number and algebra 
+Calculating with number 
+Year 5 
+Fourth content description, third example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 2 (p. 96). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Number and algebra 
+Financial mathematics 
+Pre-primary  
+First content description, first example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 163). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+First content description, second example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 10). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 1 
+First content description, second example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Number Book 1 (p. 163). 
+Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/number 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Measurement and geometry 
+Two-dimensional space and structures 
+Year 2 
+First diagram from: Department of Education WA. (2013). [Diagram of paper 
+clips used as an informal unit measuring tape]. First Steps in Mathematics, 
+Measurement, Book 1 (p. 118) 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/measurement  
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+
+===== PAGE 86 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+82 
+ 
+Third content description, third example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Measurement, Book 1 (p. 
+98). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/measurement 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 5 
+Second content description, second example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Measurement, Book 1 (p. 
+10). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/measurement 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+Fourth content description, third example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Measurement, Book 1 (p. 
+145). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/measurement 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+Third diagram adapted from: Department of Education WA. (2013). 
+[Diagram of irregular areas]. First Steps in Mathematics, Measurement, Book 
+1 (p. 145). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/measurement 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+Fourth diagram from: Department of Education WA. (2013). [Three grid 
+diagrams]. First Steps in Mathematics, Space, Developing Geometric 
+Understandings (p. 22). Retrieved August, 2024, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/space  
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+
+===== PAGE 87 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+83 
+Measurement and geometry 
+Three-dimensional space and structures 
+Year 1 
+First content description, third example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Space (p. 56). Retrieved 
+March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/space 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 5 
+Second content description, second example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Measurement, Book 1 (p. 
+92). Retrieved March, 2025, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/measurement 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Probability and statistics 
+Probability 
+Pre-primary 
+First content description, first example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Chance and Data, 
+Developing Probability and Statistics (p. 15). Retrieved August, 2024, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/chance-and-data 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 2 
+First content description, first example adapted from: Department of 
+Education WA. (2013). First Steps in Mathematics, Chance and Data, 
+Developing Probability and Statistics (p. 10). Retrieved August, 2024, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/chance-and-data 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Year 5 
+First diagram from: Department of Education WA. (2013). [Diagram of four 
+spinners]. First Steps in Mathematics, Chance and Data, Developing 
+Probability and Statistics (p. 49). Retrieved August, 2024, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/chance-and-data 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
+
+===== PAGE 88 =====
+ 
+Mathematics │ Scope and sequence │ Pre-primary–Year 6 │ For implementation in 2026 
+84 
+Year 6 
+First diagram from: Department of Education WA. (2013). [Diagram of 
+numerical chance scale]. First Steps in Mathematics, Chance and Data, 
+Developing Probability and Statistics (p. 52). Retrieved August, 2024, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/chance-and-data 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+Probability and statistics 
+Statistics 
+Year 2 
+Third diagram adapted from: Department of Education WA. (2013). 
+[Diagram of block graph]. First Steps in Mathematics, Chance and Data, 
+Developing Probability and Statistics (p. 208). Retrieved August, 2024, from 
+https://myresources.education.wa.edu.au/programs/first-steps-
+mathematics/chance-and-data 
+Used under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 
+Unported licence. 
+ 
